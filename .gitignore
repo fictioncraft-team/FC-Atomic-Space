@@ -1,0 +1,12 @@
+# Exclude files and directories in top directory
+/*
+
+# Whitelist
+!ambience_music/
+!scripts/
+!config/
+!resources/
+!structures/
+!perfectspawn.json
+!.gitignore
+!README.md
