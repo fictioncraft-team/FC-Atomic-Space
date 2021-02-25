@@ -1,0 +1,26 @@
+{
+	x: -2.5d,
+	y: 5.5d,
+	dependencies: [
+		"395bb371"
+	],
+	tasks: [{
+		uid: "e893bca6",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:upgrade"
+		}]
+	},
+	{
+		uid: "d0684374",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:upgrade 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "a61a3ac4",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

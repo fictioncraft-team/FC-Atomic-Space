@@ -1,0 +1,5 @@
+base.part.chipped_gem=Chipped %s
+base.part.flawed_gem=Flawed %s
+base.part.flawless_gem=Flawless %s
+base.part.poor_ore=%s Infused Ore
+base.part.dense_ore=Activated Energize %s Ore

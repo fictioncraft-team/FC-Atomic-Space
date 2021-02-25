@@ -1,0 +1,28 @@
+{
+	title: "{title.backpack.name}",
+	x: 7.0d,
+	y: -1.5d,
+	shape: "pentagon",
+	tasks: [{
+		uid: "4d364eab",
+		type: "item",
+		title: "Any backpack",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "backpack",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "838b45fa",
+		type: "item",
+		item: "improvedbackpacks:blank_upgrade",
+		count: 2
+	}]
+}

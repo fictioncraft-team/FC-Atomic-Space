@@ -1,0 +1,42 @@
+{
+    "machine": "assembly",
+    "registryName": "circuit_basic",
+    "recipeTime": 200,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "mekanism:controlcircuit",
+            "amount": 5
+        },
+		{
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 40
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "appliedenergistics2:material@18",
+            "amount": 3
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "lubricant",
+            "amount": 200
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "appliedenergistics2:material@16",
+            "amount": 1
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "contenttweaker:thermal_paste",
+            "amount": 1
+        }
+    ]
+}

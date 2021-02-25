@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: -3.0d,
+	shape: "pentagon",
+	dependencies: [
+		"e055d533"
+	],
+	tasks: [{
+		uid: "a3f44bcc",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:duct_0 1 3"
+		}]
+	}]
+}

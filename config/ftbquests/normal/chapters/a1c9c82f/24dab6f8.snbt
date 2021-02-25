@@ -1,0 +1,23 @@
+{
+	title: "{title.iron.name}",
+	x: 4.5d,
+	y: 4.0d,
+	text: [
+		"{des.iron}"
+	],
+	dependencies: [
+		"8f21aabd"
+	],
+	tasks: [{
+		uid: "5178038a",
+		type: "item",
+		items: [{
+			item: "survivalist:rock_ore"
+		}]
+	}],
+	rewards: [{
+		uid: "ed7c2c13",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

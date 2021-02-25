@@ -1,0 +1,17 @@
+{
+    "machine": "managenerator",
+    "registryName": "energy_mana",
+    "recipeTime": 120,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 800
+        },
+        {
+            "type": "mana",
+            "io-type": "output",
+            "mana": 750
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+	x: 3.0d,
+	y: -3.0d,
+	shape: "rsquare",
+	dependencies: [
+		"881f4f69",
+		"0fe7c031"
+	],
+	tasks: [{
+		uid: "ff409e44",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tanaddons:thirst_quencher",
+			tag: {
+				FluidStored: 0,
+				ForgeEnergy: 0,
+				TimeStart: 100
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0c8e45d2",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	},
+	{
+		uid: "e803adac",
+		type: "xp_levels",
+		xp_levels: 2
+	}]
+}

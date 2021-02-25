@@ -1,0 +1,15 @@
+{
+	title: "{cat.story.name}",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "bibliocraft:slottedbook",
+		tag: {
+			authorName: "by Sir Hidington"
+		}
+	},
+	always_invisible: true,
+	group: 0,
+	default_quest_shape: ""
+}

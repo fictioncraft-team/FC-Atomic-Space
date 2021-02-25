@@ -1,0 +1,23 @@
+{
+	title: "{title.coalcoke.name}",
+	x: -2.5d,
+	y: 2.0d,
+	text: [
+		"{des.coalcoke}"
+	],
+	dependencies: [
+		"59ce759b"
+	],
+	tasks: [{
+		uid: "4260ca52",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:material 1 6"
+		}]
+	}],
+	rewards: [{
+		uid: "7c882499",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

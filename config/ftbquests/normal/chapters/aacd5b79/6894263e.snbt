@@ -1,0 +1,50 @@
+{
+	title: "{title.deepmob.name}",
+	x: -1.5d,
+	y: -7.5d,
+	dependencies: [
+		"f8b34092"
+	],
+	tasks: [{
+		uid: "c0691025",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:trial_keystone"
+		}]
+	},
+	{
+		uid: "c688a829",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "deepmoblearning:trial_key"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "69beb8d6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "deepmoblearning:deep_learner"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7dc0a7a8",
+		type: "item",
+		item: "deepmoblearning:data_model_blank",
+		count: 2
+	},
+	{
+		uid: "464b3a38",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,39 @@
+{
+	title: "{title.astralsorcery.name}",
+	x: 1.5d,
+	y: -5.0d,
+	dependencies: [
+		"66dea596"
+	],
+	tasks: [{
+		uid: "16a6e571",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:blockaltar"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "55914b4f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemwand",
+			tag: {
+				astralsorcery: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "73ceb27d",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: -1.5d,
+	y: 0.5d,
+	dependencies: [
+		"599ed4f8",
+		"21e6d149"
+	],
+	hide: true,
+	tasks: [{
+		uid: "05c5b035",
+		type: "item",
+		items: [{
+			item: "sky_orchards:amber_blackquartz"
+		}]
+	}]
+}

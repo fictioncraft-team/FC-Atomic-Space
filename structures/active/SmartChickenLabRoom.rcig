@@ -1,0 +1,87 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "1001",
+  "items": [
+    {
+      "weight": 96.66693115234375,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "modularmachinery:itemblueprint",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "dynamicmachine": {
+              "nbtType": "string",
+              "nbt": "modularmachinery:egg_separator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 96.66693115234375,
+      "min": 2,
+      "max": 6,
+      "item": {
+        "id": "roost:chicken",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Growth": {
+              "nbtType": "int",
+              "nbt": 1
+            },
+            "Chicken": {
+              "nbtType": "string",
+              "nbt": "chickens:smartchicken"
+            },
+            "Gain": {
+              "nbtType": "int",
+              "nbt": 1
+            },
+            "Strength": {
+              "nbtType": "int",
+              "nbt": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 9.281763076782227,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "enderutilities:syringe",
+        "damage": 2,
+        "count": 1
+      }
+    },
+    {
+      "weight": 32.21820068359375,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "enderutilities:syringe",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 4.065970420837402,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "pneumaticcraft:nuke_virus",
+        "damage": 0,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

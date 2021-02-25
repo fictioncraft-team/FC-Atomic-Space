@@ -1,0 +1,24 @@
+{
+	x: 10.0d,
+	y: -3.0d,
+	shape: "diamond",
+	dependencies: [
+		"c95ceff8"
+	],
+	tasks: [{
+		uid: "fc0630c3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {}
+			},
+			id: "yabba:upgrade_redstone_out"
+		}]
+	}],
+	rewards: [{
+		uid: "abd755ed",
+		type: "item",
+		item: "minecraft:redstone_lamp",
+		count: 16
+	}]
+}

@@ -1,0 +1,25 @@
+{
+    "machine": "steam_machine",
+    "registryName": "steamium",
+    "recipeTime": 200,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "contenttweaker:steamium",
+            "amount": 3
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "steam",
+            "amount": 500
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "modularmachinery:itemmodularium",
+            "amount": 1
+        }
+    ]
+}

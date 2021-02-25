@@ -1,0 +1,31 @@
+{
+	x: -3.0d,
+	y: 3.0d,
+	text: [
+		"{des.cancraftchicken}"
+	],
+	tasks: [{
+		uid: "e783036b",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "contenttweaker:gaiaspirit_chicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "a728726e",
+		type: "item",
+		item: "botania:manaresource 1 5",
+		count: 16
+	},
+	{
+		uid: "baa7b1e6",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

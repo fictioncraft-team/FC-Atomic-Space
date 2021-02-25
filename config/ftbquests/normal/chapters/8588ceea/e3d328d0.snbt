@@ -1,0 +1,19 @@
+{
+	x: 4.5d,
+	y: 2.5d,
+	dependencies: [
+		"ef40253d"
+	],
+	tasks: [{
+		uid: "f361f2b8",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:thermopneumatic_processing_plant"
+		}]
+	}],
+	rewards: [{
+		uid: "b64b49ea",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

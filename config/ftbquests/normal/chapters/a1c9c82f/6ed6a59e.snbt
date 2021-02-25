@@ -1,0 +1,26 @@
+{
+	x: 3.0d,
+	y: 0.5d,
+	text: [
+		"{des.bladder}"
+	],
+	dependencies: [
+		"f1176490"
+	],
+	tasks: [{
+		uid: "60c0f10a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "primal_tech:fluid_bladder"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "05e0138c",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

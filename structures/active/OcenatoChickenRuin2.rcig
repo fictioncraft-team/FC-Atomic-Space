@@ -1,0 +1,78 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "1006",
+  "items": [
+    {
+      "weight": 75.74107360839844,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "roost:chicken",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Growth": {
+              "nbtType": "int",
+              "nbt": 1
+            },
+            "Chicken": {
+              "nbtType": "string",
+              "nbt": "contenttweaker:aquamarine_chicken"
+            },
+            "Gain": {
+              "nbtType": "int",
+              "nbt": 1
+            },
+            "Strength": {
+              "nbtType": "int",
+              "nbt": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 90.2674789428711,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "enderutilities:syringe",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 70.48338317871094,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "enderutilities:syringe",
+        "damage": 1,
+        "count": 1
+      }
+    },
+    {
+      "weight": 81.3079833984375,
+      "min": 2,
+      "max": 7,
+      "item": {
+        "id": "astralsorcery:itemcraftingcomponent",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 96.66693115234375,
+      "min": 4,
+      "max": 8,
+      "item": {
+        "id": "contenttweaker:cutted_aquamarine",
+        "damage": 0,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

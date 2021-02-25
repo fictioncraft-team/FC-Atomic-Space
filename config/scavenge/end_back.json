@@ -1,0 +1,31 @@
+{
+	"block_pools": [
+		{
+			"name": "end_back",
+			"type": {
+				"type": "block",
+				"name": "minecraft:bedrock"
+			},
+			"disableJEI": "true",
+			"clicktype": "rightclick",
+			"properties": [
+				{
+					"type": "require_sneak"
+				},
+				{
+					"type": "play_sound",
+					"name": "block.enchantment_table.use"
+				},
+				{
+					"type": "require_Biome",
+					"biomes": "minecraft:sky"
+				},
+				{
+                    "type": "use_command",
+                    "name": "tpj",
+                    "arguments": "@p 1102"
+                }
+			]
+		}
+	]
+}

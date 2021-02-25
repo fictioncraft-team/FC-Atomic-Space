@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: -7.0d,
+	shape: "hexagon",
+	dependencies: [
+		"ae20d79f"
+	],
+	optional: true,
+	tasks: [{
+		uid: "ab0462f7",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockattunementaltar"
+		}]
+	}]
+}

@@ -1,0 +1,48 @@
+{
+    "machine": "assembly_mk2",
+    "registryName": "advanced_circuit",
+    "recipeTime": 400,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "mekanism:controlcircuit@1",
+            "amount": 5
+        },
+		{
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 150
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "enderio:item_material@40",
+            "amount": 1
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "appliedenergistics2:material@17",
+            "amount": 3
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "mekanism:controlcircuit",
+            "amount": 1
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "contenttweaker:thermal_paste",
+            "amount": 1
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "mekanism:enrichedalloy",
+            "amount": 2
+        }
+    ]
+}

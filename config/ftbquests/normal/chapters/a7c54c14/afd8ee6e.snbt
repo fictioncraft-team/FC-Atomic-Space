@@ -1,0 +1,27 @@
+{
+	title: "{title.lvpowah.name}",
+	x: -2.0d,
+	y: -4.5d,
+	shape: "square",
+	tasks: [{
+		uid: "dcc3a7a5",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:connector"
+		}]
+	},
+	{
+		uid: "6d203ebd",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:connector 1 1"
+		}]
+	},
+	{
+		uid: "5c00d631",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wirecoil"
+		}]
+	}]
+}

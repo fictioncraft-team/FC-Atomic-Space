@@ -1,0 +1,74 @@
+[
+  {
+    "state": {
+      "block": "toughasnails:campfire",
+      "properties": {
+        "burning": "true"
+      }
+    },
+    "temperature": 10.0
+  },
+  {
+    "state": {
+      "block": "minecraft:lit_furnace",
+      "properties": {}
+    },
+    "temperature": 3.0
+  },
+  {
+    "state": {
+      "block": "minecraft:lava",
+      "properties": {}
+    },
+    "temperature": 15.0
+  },
+  {
+    "state": {
+      "block": "minecraft:flowing_lava",
+      "properties": {}
+    },
+    "temperature": 15.0
+  },
+  {
+    "state": {
+      "block": "minecraft:fire",
+      "properties": {}
+    },
+    "temperature": 10.0
+  },
+  {
+    "state": {
+      "block": "minecraft:magma",
+      "properties": {}
+    },
+    "temperature": 12.5
+  },
+  {
+    "state": {
+      "block": "minecraft:torch",
+      "properties": {}
+    },
+    "temperature": 1.5
+  },
+  {
+    "state": {
+      "block": "silentgems:stonetorch",
+      "properties": {}
+    },
+    "temperature": 1.5
+  },
+  {
+    "state": {
+      "block": "primal_tech:fibre_torch_lit",
+      "properties": {}
+    },
+    "temperature": 0.5
+  },
+  {
+    "state": {
+      "block": "primal_tech:charcoal_hopper",
+      "properties": {}
+    },
+    "temperature": 4.5
+  }
+]

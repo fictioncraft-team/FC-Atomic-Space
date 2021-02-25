@@ -1,0 +1,70 @@
+{
+	title: "{title.exchangecraft.name}",
+	x: -0.5d,
+	y: 6.5d,
+	dependencies: [
+		"9c13dc0b"
+	],
+	tasks: [{
+		uid: "27b6f209",
+		type: "item",
+		items: [{
+			item: "embers:alchemy_tablet"
+		}]
+	},
+	{
+		uid: "25a4ef0b",
+		type: "item",
+		items: [{
+			item: "embers:alchemy_pedestal"
+		}],
+		count: 5L
+	},
+	{
+		uid: "dadd6e36",
+		type: "item",
+		items: [{
+			item: "embers:beam_cannon"
+		}]
+	},
+	{
+		uid: "4c2934d7",
+		type: "item",
+		items: [{
+			item: "embers:aspectus_iron"
+		}]
+	},
+	{
+		uid: "8bf23d83",
+		type: "item",
+		items: [{
+			item: "embers:aspectus_copper"
+		}]
+	},
+	{
+		uid: "98f5144d",
+		type: "item",
+		items: [{
+			item: "embers:aspectus_lead"
+		}]
+	},
+	{
+		uid: "e6c0076c",
+		type: "item",
+		items: [{
+			item: "embers:aspectus_silver"
+		}]
+	},
+	{
+		uid: "d71bed47",
+		type: "item",
+		items: [{
+			item: "embers:aspectus_dawnstone"
+		}]
+	}],
+	rewards: [{
+		uid: "27b07351",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

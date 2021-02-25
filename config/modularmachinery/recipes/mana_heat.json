@@ -1,0 +1,19 @@
+{
+    "machine": "managenerator",
+    "registryName": "ember_heat",
+    "recipeTime": 100,
+    "requirements": [
+        {
+            "type": "mekheat",
+            "io-type": "input",
+            "temperatureRequiredMin": 2400,
+			"temperatureRequiredMax": 40000,
+			"temperature": 3600
+        },
+        {
+            "type": "mana",
+            "io-type": "output",
+            "mana": 4000
+        }
+    ]
+}

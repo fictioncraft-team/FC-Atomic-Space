@@ -1,0 +1,18 @@
+{
+    "machine": "oil_generator_mk2",
+    "registryName": "dieselpower_mk2",
+    "recipeTime": 300,
+    "requirements": [
+        {
+            "type": "fluid",
+            "io-type": "input",	
+            "fluid": "diesel",
+            "amount": 200
+        },
+        {
+            "type": "energy",
+            "io-type": "output",
+            "energyPerTick": 700
+        }
+    ]
+}

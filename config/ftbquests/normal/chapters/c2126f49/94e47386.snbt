@@ -1,0 +1,34 @@
+{
+	x: 0.0d,
+	y: -3.0d,
+	shape: "rsquare",
+	dependencies: [
+		"a7e5d8ae"
+	],
+	tasks: [{
+		uid: "59826912",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tanaddons:portable_temp_regulator",
+			tag: {
+				ForgeEnergy: 0,
+				TimeStart: 100
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b9524086",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	},
+	{
+		uid: "80f1324e",
+		type: "xp_levels",
+		xp_levels: 2
+	}]
+}

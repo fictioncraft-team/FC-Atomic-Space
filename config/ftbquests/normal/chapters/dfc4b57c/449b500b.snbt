@@ -1,0 +1,14 @@
+{
+	x: -6.0d,
+	y: 0.5d,
+	dependencies: [
+		"dbb61031"
+	],
+	tasks: [{
+		uid: "efecfdc7",
+		type: "item",
+		items: [{
+			item: "sky_orchards:amber_lapis"
+		}]
+	}]
+}

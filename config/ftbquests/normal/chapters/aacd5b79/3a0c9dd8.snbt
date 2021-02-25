@@ -1,0 +1,30 @@
+{
+	x: -3.0d,
+	y: -8.0d,
+	dependencies: [
+		"afc5be27"
+	],
+	tasks: [{
+		uid: "38dbf2a7",
+		type: "item",
+		items: [{
+			item: "enderio:item_material 1 40"
+		}]
+	}],
+	rewards: [{
+		uid: "ea459e28",
+		type: "item",
+		item: "nuclearcraft:radaway"
+	},
+	{
+		uid: "cd13ea2e",
+		type: "item",
+		item: "harvestcraft:peanutsoupitem",
+		count: 2
+	},
+	{
+		uid: "82081c97",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

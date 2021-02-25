@@ -1,0 +1,58 @@
+{
+	title: "{title.crystal.name}",
+	x: 1.5d,
+	y: -3.0d,
+	dependencies: [
+		"d3c5c486"
+	],
+	tasks: [{
+		uid: "08bf3416",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:blockcollectorcrystal",
+			tag: {
+				astralsorcery: {
+					constellationName: "astralsorcery.constellation.discidia",
+					crystalProperties: {
+						collectiveCapability: 100,
+						size: 400,
+						fract: 0,
+						purity: 100,
+						sizeOverride: -1
+					},
+					collectorType: 0
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8b641ae4",
+		type: "item",
+		item: "nuclearcraft:radaway"
+	},
+	{
+		uid: "d6318080",
+		type: "item",
+		item: "harvestcraft:blackpaellaitem",
+		count: 2
+	},
+	{
+		uid: "75557a81",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	},
+	{
+		uid: "e4b15d88",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemlinkingtool"
+		}
+	}]
+}

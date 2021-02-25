@@ -1,0 +1,31 @@
+{
+	x: -2.0d,
+	y: 1.5d,
+	text: [
+		"{des.awakenedchicken}"
+	],
+	tasks: [{
+		uid: "fffce2d5",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "morechickens:draconiumawakenedchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "f1cc59a4",
+		type: "item",
+		item: "draconicevolution:draconic_ingot",
+		count: 4
+	},
+	{
+		uid: "1459e2d0",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

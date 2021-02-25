@@ -1,0 +1,26 @@
+{
+	x: -5.5d,
+	y: 8.5d,
+	shape: "hexagon",
+	dependencies: [
+		"3a4b7c1a"
+	],
+	optional: true,
+	tasks: [{
+		uid: "7388711f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:ashen_amulet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "af582f9d",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

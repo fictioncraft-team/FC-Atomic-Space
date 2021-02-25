@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: 5.0d,
+	shape: "pentagon",
+	dependencies: [
+		"a8bb5162"
+	],
+	tasks: [{
+		uid: "af0feb00",
+		type: "item",
+		items: [{
+			item: "contenttweaker:compressed_terrasteel"
+		}]
+	}]
+}

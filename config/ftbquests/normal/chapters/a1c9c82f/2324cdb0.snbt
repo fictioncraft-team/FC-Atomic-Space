@@ -1,0 +1,22 @@
+{
+	x: 7.5d,
+	y: 2.5d,
+	text: [
+		"{des.dryingbasin}"
+	],
+	dependencies: [
+		"3692f962"
+	],
+	tasks: [{
+		uid: "f7e143b8",
+		type: "item",
+		items: [{
+			item: "rustic:evaporating_basin"
+		}]
+	}],
+	rewards: [{
+		uid: "ddc20872",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

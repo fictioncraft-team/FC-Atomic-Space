@@ -1,0 +1,31 @@
+{
+	x: 4.0d,
+	y: 1.5d,
+	text: [
+		"{des.mercurychicken}"
+	],
+	tasks: [{
+		uid: "48d11364",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "contenttweaker:starmetal_chicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "3361cc0b",
+		type: "item",
+		item: "astralsorcery:itemcraftingcomponent 1 1",
+		count: 16
+	},
+	{
+		uid: "a9b92cc2",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

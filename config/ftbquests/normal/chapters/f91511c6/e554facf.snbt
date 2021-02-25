@@ -1,0 +1,34 @@
+{
+	title: "{title.thermallogistics.name}",
+	x: 5.5d,
+	y: -4.0d,
+	dependencies: [
+		"fea5b8ae"
+	],
+	tasks: [{
+		uid: "d9f8822d",
+		type: "item",
+		items: [{
+			item: "thermallogistics:terminal_item"
+		}]
+	},
+	{
+		uid: "b5ee2f10",
+		type: "item",
+		items: [{
+			item: "thermallogistics:requester"
+		}]
+	}],
+	rewards: [{
+		uid: "295057ab",
+		type: "item",
+		item: "thermaldynamics:duct_32",
+		count: 64
+	},
+	{
+		uid: "b614c641",
+		type: "item",
+		item: "thermallogistics:crafter 1 3",
+		count: 4
+	}]
+}

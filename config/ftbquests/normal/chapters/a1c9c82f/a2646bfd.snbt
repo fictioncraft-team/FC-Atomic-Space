@@ -1,0 +1,29 @@
+{
+	title: "{title.basictool.name}",
+	x: 1.5d,
+	y: 5.5d,
+	text: [
+		"{des.woodpick}"
+	],
+	dependencies: [
+		"0604a798"
+	],
+	tasks: [{
+		uid: "3b27b53e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:wooden_pickaxe"
+		}],
+		consume_items: false,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "bd168935",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

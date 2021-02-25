@@ -1,0 +1,22 @@
+{
+	x: 6.0d,
+	y: -3.0d,
+	shape: "diamond",
+	dependencies: [
+		"300b3e14"
+	],
+	size: 0.75d,
+	tasks: [{
+		uid: "ed3a418b",
+		type: "item",
+		items: [{
+			item: "improvedbackpacks:upgrade"
+		}]
+	}],
+	rewards: [{
+		uid: "d3143592",
+		type: "item",
+		item: "minecraft:leather",
+		count: 4
+	}]
+}

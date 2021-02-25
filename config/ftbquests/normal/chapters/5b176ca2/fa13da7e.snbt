@@ -1,0 +1,30 @@
+{
+	x: -2.0d,
+	y: -0.5d,
+	text: [
+		"{des.smartchicken}"
+	],
+	tasks: [{
+		uid: "f9d7db53",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "chickens:smartchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "75f13820",
+		type: "item",
+		item: "randomthings:ingredient 1 11"
+	},
+	{
+		uid: "4e87f092",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

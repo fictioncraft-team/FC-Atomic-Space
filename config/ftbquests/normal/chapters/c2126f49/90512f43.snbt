@@ -1,0 +1,34 @@
+{
+	x: 10.5d,
+	y: -4.0d,
+	shape: "diamond",
+	dependencies: [
+		"c95ceff8"
+	],
+	tasks: [{
+		uid: "9b1d96b1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Down: 1b,
+					Progress: 0b,
+					Collect: 0b,
+					Up: 1b
+				}
+			},
+			id: "yabba:upgrade_hopper"
+		}]
+	}],
+	rewards: [{
+		uid: "1dc387a4",
+		type: "item",
+		item: "pneumaticcraft:omnidirectional_hopper",
+		count: 2
+	},
+	{
+		uid: "cb529f28",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

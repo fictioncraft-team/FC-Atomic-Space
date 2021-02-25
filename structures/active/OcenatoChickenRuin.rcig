@@ -1,0 +1,110 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "1005",
+  "items": [
+    {
+      "weight": 75.74107360839844,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "roost:chicken",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Growth": {
+              "nbtType": "int",
+              "nbt": 1
+            },
+            "Chicken": {
+              "nbtType": "string",
+              "nbt": "morechickens:lumiumchicken"
+            },
+            "Gain": {
+              "nbtType": "int",
+              "nbt": 1
+            },
+            "Strength": {
+              "nbtType": "int",
+              "nbt": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 93.42340087890625,
+      "min": 3,
+      "max": 5,
+      "item": {
+        "id": "roost:chicken",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Growth": {
+              "nbtType": "int",
+              "nbt": 1
+            },
+            "Chicken": {
+              "nbtType": "string",
+              "nbt": "chickens:enderchicken"
+            },
+            "Gain": {
+              "nbtType": "int",
+              "nbt": 1
+            },
+            "Strength": {
+              "nbtType": "int",
+              "nbt": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 87.19747161865234,
+      "min": 1,
+      "max": 5,
+      "item": {
+        "id": "roost:chicken",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Growth": {
+              "nbtType": "int",
+              "nbt": 1
+            },
+            "Chicken": {
+              "nbtType": "string",
+              "nbt": "morechickens:mithrilchicken"
+            },
+            "Gain": {
+              "nbtType": "int",
+              "nbt": 1
+            },
+            "Strength": {
+              "nbtType": "int",
+              "nbt": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 96.66693115234375,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "enderutilities:syringe",
+        "damage": 0,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

@@ -1,0 +1,19 @@
+{
+	x: -3.5d,
+	y: -9.5d,
+	dependencies: [
+		"ec750079"
+	],
+	tasks: [{
+		uid: "995ee004",
+		type: "item",
+		items: [{
+			item: "minecraft:double_plant"
+		}]
+	}],
+	rewards: [{
+		uid: "84f85c1f",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

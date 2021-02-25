@@ -1,0 +1,31 @@
+{
+	x: -3.0d,
+	y: 4.0d,
+	text: [
+		"{des.lumiumchicken}"
+	],
+	tasks: [{
+		uid: "ed9edc76",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "morechickens:lumiumchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "849c4928",
+		type: "item",
+		item: "thermalfoundation:material 1 166",
+		count: 16
+	},
+	{
+		uid: "8aee97ef",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

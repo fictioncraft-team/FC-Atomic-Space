@@ -1,0 +1,31 @@
+{
+	x: -1.0d,
+	y: 2.0d,
+	text: [
+		"{des.aquamarinechicken}"
+	],
+	tasks: [{
+		uid: "8a893202",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "contenttweaker:aquamarine_chicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "c8e989f8",
+		type: "item",
+		item: "astralsorcery:itemcraftingcomponent",
+		count: 8
+	},
+	{
+		uid: "b912b15e",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

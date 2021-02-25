@@ -1,0 +1,24 @@
+{
+    "machine": "resurgence",
+    "registryName": "dirt_resurgence",
+    "recipeTime": 20,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:dirt",
+            "amount": 1
+        },
+		{
+			"type": "mana",
+			"io-type": "input",
+			"mana": 600
+		},
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "contenttweaker:ice_dirt",
+            "amount": 1
+        }
+    ]
+}

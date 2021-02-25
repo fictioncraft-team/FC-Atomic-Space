@@ -1,0 +1,24 @@
+{
+	title: "{title.eggseparator.name}",
+	x: 0.0d,
+	y: -1.5d,
+	shape: "diamond",
+	text: [
+		"{des.eggseparator}"
+	],
+	tasks: [{
+		uid: "3c7d6c5d",
+		type: "item",
+		items: [{
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:egg_separator"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "ee488056",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

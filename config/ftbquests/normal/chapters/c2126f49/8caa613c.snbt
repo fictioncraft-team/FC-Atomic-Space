@@ -1,0 +1,25 @@
+{
+	x: 9.0d,
+	y: 1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"56e5a09e"
+	],
+	tasks: [{
+		uid: "4728bcba",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "enderutilities:handybag",
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0af1e1c2",
+		type: "item",
+		item: "enderutilities:enderpart 1 52"
+	}]
+}

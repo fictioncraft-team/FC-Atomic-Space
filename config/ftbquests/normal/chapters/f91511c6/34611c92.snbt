@@ -1,0 +1,27 @@
+{
+	title: "{title.platemachine.name}",
+	x: 2.0d,
+	y: -0.5d,
+	dependencies: [
+		"ae351c2c"
+	],
+	tasks: [{
+		uid: "4a7e27cc",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:platepress"
+		}]
+	},
+	{
+		uid: "e56562b3",
+		type: "item",
+		items: [{
+			item: "minecraft:obsidian"
+		}]
+	}],
+	rewards: [{
+		uid: "d09b9d41",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

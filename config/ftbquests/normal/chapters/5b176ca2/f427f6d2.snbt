@@ -1,0 +1,36 @@
+{
+	x: 2.0d,
+	y: -1.5d,
+	text: [
+		"{des.cancraftchicken}"
+	],
+	tasks: [{
+		uid: "e5e3cfc0",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "morechickens:uraniumchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "f824ea5a",
+		type: "item",
+		item: "immersiveengineering:metal 1 5",
+		count: 16
+	},
+	{
+		uid: "695679d5",
+		type: "item",
+		item: "nuclearcraft:radaway_slow"
+	},
+	{
+		uid: "1d00d373",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

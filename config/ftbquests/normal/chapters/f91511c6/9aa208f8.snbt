@@ -1,0 +1,25 @@
+{
+	title: "{title.squeezer.name}",
+	icon: "immersiveengineering:metal_multiblock 1 7",
+	x: 4.0d,
+	y: 1.0d,
+	text: [
+		"{des.squeezer}"
+	],
+	dependencies: [
+		"b6090a61"
+	],
+	tasks: [{
+		uid: "c7a0dd43",
+		type: "observation",
+		icon: "immersiveengineering:metal_multiblock 1 7",
+		match_type: "block_entity_id",
+		match: "immersiveengineering:squeezer",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "a8b7ead2",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

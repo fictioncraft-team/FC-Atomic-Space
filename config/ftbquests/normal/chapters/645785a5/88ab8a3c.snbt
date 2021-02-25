@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 5.0d,
+	shape: "gear",
+	dependencies: [
+		"672d5ad8"
+	],
+	tasks: [{
+		uid: "219cb846",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:table_ultimate"
+		}]
+	}]
+}

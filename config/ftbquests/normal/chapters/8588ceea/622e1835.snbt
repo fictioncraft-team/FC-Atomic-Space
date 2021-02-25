@@ -1,0 +1,33 @@
+{
+	x: 2.0d,
+	y: 4.0d,
+	dependencies: [
+		"0adaefbd"
+	],
+	tasks: [{
+		uid: "cdc980e3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "emergency_coolant",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ec638187",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	},
+	{
+		uid: "6d84f5c6",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

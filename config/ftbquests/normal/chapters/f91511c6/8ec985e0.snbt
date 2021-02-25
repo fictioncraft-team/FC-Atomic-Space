@@ -1,0 +1,19 @@
+{
+	x: 2.0d,
+	y: -3.0d,
+	dependencies: [
+		"e717870d"
+	],
+	tasks: [{
+		uid: "6e5bbe17",
+		type: "item",
+		items: [{
+			item: "contenttweaker:steamium_plate"
+		}]
+	}],
+	rewards: [{
+		uid: "b6584341",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

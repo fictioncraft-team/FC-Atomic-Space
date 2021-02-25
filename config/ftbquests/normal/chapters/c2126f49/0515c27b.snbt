@@ -1,0 +1,31 @@
+{
+	x: -1.5d,
+	y: -1.5d,
+	shape: "rsquare",
+	dependencies: [
+		"b3ff21cc"
+	],
+	tasks: [{
+		uid: "65a16a30",
+		type: "item",
+		items: [{
+			item: "minecraft:wool"
+		}]
+	}],
+	rewards: [{
+		uid: "584babf6",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	},
+	{
+		uid: "3e07fcf6",
+		type: "xp",
+		xp: 1
+	},
+	{
+		uid: "e80e79ce",
+		type: "item",
+		item: "minecraft:wool",
+		count: 4
+	}]
+}

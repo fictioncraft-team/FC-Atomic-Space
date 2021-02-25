@@ -1,0 +1,29 @@
+{
+	x: 4.5d,
+	y: -6.0d,
+	shape: "pentagon",
+	size: 1.5d,
+	tasks: [{
+		uid: "c2e5c1a6",
+		type: "item",
+		items: [{
+			item: "mekanism:basicblock 1 14"
+		}]
+	},
+	{
+		uid: "e0149f48",
+		type: "item",
+		items: [{
+			item: "mekanism:basicblock 1 15"
+		}],
+		count: 3L
+	},
+	{
+		uid: "ec2f94c8",
+		type: "item",
+		items: [{
+			item: "mekanism:basicblock2"
+		}],
+		count: 14L
+	}]
+}

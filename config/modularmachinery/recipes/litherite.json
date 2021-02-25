@@ -1,0 +1,36 @@
+{
+    "machine": "organic",
+    "registryName": "lithertie",
+    "recipeTime": 400,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "environmentaltech:litherite_crystal",
+            "amount": 8
+        },
+		{
+			"type": "fluid",
+			"io-type": "input",
+			"fluid": "sulfuricacid",
+			"amount": 400
+		},
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "actuallyadditions:item_crystal@1",
+            "amount": 1
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "actuallyadditions:item_crystal@4",
+            "amount": 1
+        },
+		{
+            "type": "energy",
+            "io-type": "input",
+			"energyPerTick": 400
+        }
+    ]
+}

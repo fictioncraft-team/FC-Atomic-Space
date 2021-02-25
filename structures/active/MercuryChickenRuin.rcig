@@ -1,0 +1,151 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "1007",
+  "items": [
+    {
+      "weight": 87.19747161865234,
+      "min": 2,
+      "max": 4,
+      "item": {
+        "id": "roost:chicken",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Growth": {
+              "nbtType": "int",
+              "nbt": 1
+            },
+            "Chicken": {
+              "nbtType": "string",
+              "nbt": "morechickens:steelchicken"
+            },
+            "Gain": {
+              "nbtType": "int",
+              "nbt": 1
+            },
+            "Strength": {
+              "nbtType": "int",
+              "nbt": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 96.66693115234375,
+      "min": 2,
+      "max": 4,
+      "item": {
+        "id": "roost:chicken",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Growth": {
+              "nbtType": "int",
+              "nbt": 1
+            },
+            "Chicken": {
+              "nbtType": "string",
+              "nbt": "contenttweaker:ironchicken_fix"
+            },
+            "Gain": {
+              "nbtType": "int",
+              "nbt": 1
+            },
+            "Strength": {
+              "nbtType": "int",
+              "nbt": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 67.9664077758789,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "roost:chicken",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Growth": {
+              "nbtType": "int",
+              "nbt": 1
+            },
+            "Chicken": {
+              "nbtType": "string",
+              "nbt": "contenttweaker:starmetal_chicken"
+            },
+            "Gain": {
+              "nbtType": "int",
+              "nbt": 1
+            },
+            "Strength": {
+              "nbtType": "int",
+              "nbt": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 67.9664077758789,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "roost:chicken",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Growth": {
+              "nbtType": "int",
+              "nbt": 1
+            },
+            "Chicken": {
+              "nbtType": "string",
+              "nbt": "contenttweaker:sodium_chicken"
+            },
+            "Gain": {
+              "nbtType": "int",
+              "nbt": 1
+            },
+            "Strength": {
+              "nbtType": "int",
+              "nbt": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 75.74107360839844,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "enderutilities:syringe",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 56.4366340637207,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "enderutilities:syringe",
+        "damage": 1,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

@@ -1,0 +1,22 @@
+{
+	title: "{title.revivedragon.name}",
+	x: -2.5d,
+	y: 6.5d,
+	dependencies: [
+		"40ed370c",
+		"4e5a197b"
+	],
+	tasks: [{
+		uid: "9e50387c",
+		type: "item",
+		items: [{
+			item: "minecraft:end_crystal"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "eb5ddf4b",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

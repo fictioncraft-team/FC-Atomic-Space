@@ -1,0 +1,37 @@
+{
+    "machine": "steam_machine",
+    "registryName": "modularium",
+    "recipeTime": 150,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "modularmachinery:itemmodularium",
+            "amount": 16
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "glowstone",
+            "amount": 4000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:redstone",
+            "amount": 3
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "thermalfoundation:material@68",
+            "amount": 1
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "thermalfoundation:material@161",
+            "amount": 2
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+	title: "{title.endportal.name}",
+	x: -1.0d,
+	y: 8.0d,
+	shape: "circle",
+	dependencies: [
+		"19ba136e",
+		"85fd75a5"
+	],
+	tasks: [{
+		uid: "c7b016f8",
+		type: "item",
+		items: [{
+			item: "randomthings:ingredient 1 1"
+		}]
+	},
+	{
+		uid: "64f55432",
+		type: "item",
+		items: [{
+			item: "minecraft:end_rod"
+		}]
+	},
+	{
+		uid: "fba778cb",
+		type: "item",
+		items: [{
+			item: "minecraft:end_stone"
+		}],
+		count: 26L
+	},
+	{
+		uid: "8a252baf",
+		type: "item",
+		items: [{
+			item: "minecraft:obsidian"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "6f999f62",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

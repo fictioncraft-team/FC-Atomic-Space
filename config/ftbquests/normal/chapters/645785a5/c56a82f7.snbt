@@ -1,0 +1,19 @@
+{
+	x: 6.0d,
+	y: 3.0d,
+	shape: "gear",
+	size: 1.5d,
+	tasks: [{
+		uid: "e3f09569",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:storage 1 4"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "720efc99",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

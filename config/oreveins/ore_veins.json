@@ -1,0 +1,273 @@
+{
+	"iron_nickel": {
+		"type": "sphere",
+		"ore": [
+			{
+				"ore": "oreIron",
+				"weight": 6
+			},
+			{
+				"ore": "oreNickel",
+				"weight": 2
+			}
+		],
+		"stone": "contenttweaker:ice_stone",
+		"rarity": 13,
+		"min_y": 5,
+		"max_y": 200,
+		"density": 140,
+		"vertical_size": 6,
+		"horizontal_size": 10,
+		"dimensions":[1100]
+	},
+	"carbon": {
+		"type": "sphere",
+		"ore": [
+			{
+				"ore": "oreCoal",
+				"weight": 8
+			},
+			{
+				"ore": "oreDiamond",
+				"weight": 2
+			}
+		],
+		"stone": "contenttweaker:ice_stone",
+		"rarity": 16,
+		"min_y": 5,
+		"max_y": 200,
+		"density": 180,
+		"vertical_size": 6,
+		"horizontal_size": 13,
+		"dimensions":[1100]
+	},
+	"gold": {
+		"type": "sphere",
+		"ore": [
+			{
+				"ore": "oreGold",
+				"weight": 8
+			},
+			{
+				"ore": "oreIron",
+				"weight": 2
+			}
+		],
+		"stone": "contenttweaker:ice_stone",
+		"rarity": 16,
+		"min_y": 5,
+		"max_y": 70,
+		"density": 120,
+		"vertical_size": 7,
+		"horizontal_size": 10,
+		"dimensions":[1100]
+	},
+	"pillar": {
+		"type": "sphere",
+		"ore": [
+			{
+				"ore": "oreRedstone",
+				"weight": 6
+			},
+			{
+				"ore": "oreLapis",
+				"weight": 4
+			},
+			{
+				"block": "quark:slate",
+				"weight": 10
+			}
+		],
+		"stone": "contenttweaker:ice_stone",
+		"rarity": 8,
+		"min_y": 62,
+		"max_y": 88,
+		"density": 800,
+		"vertical_size": 10,
+		"horizontal_size": 10,
+		"dimensions":[1100]
+	},
+	"spikes": {
+		"type": "sphere",
+		"ore": [
+			{
+				"ore": "oreEmerald",
+				"weight": 4
+			},
+			{
+				"block": "contenttweaker:aquamarine_ore",
+				"weight": 6
+			}
+		],
+		"stone": "twilightforest:aurora_pillar",
+		"rarity": 14,
+		"min_y": 100,
+		"max_y": 120,
+		"density": 200,
+		"vertical_size": 8,
+		"horizontal_size": 6,
+		"dimensions":[1100]
+	},
+	"ground": {
+		"type": "sphere",
+		"ore": [
+			{
+				"block": "embers:ore_quartz",
+				"weight": 3
+			},
+			{
+				"ore": "oreQuartzBlack",
+				"weight": 2
+			},
+			{
+				"ore": "oreCertusQuartz",
+				"weight": 3
+			},
+			{
+				"ore": "oreChargedCertusQuartz",
+				"weight": 1
+			}
+		],
+		"stone": "contenttweaker:ice_stone",
+		"rarity": 11,
+		"min_y": 10,
+		"max_y": 61,
+		"density": 170,
+		"vertical_size": 10,
+		"horizontal_size": 13,
+		"dimensions":[1100]
+	},
+	"groundspikes": {
+		"type": "sphere",
+		"ore": [
+			{
+				"ore": "oreCopper",
+				"weight": 6
+			},
+			{
+				"ore": "oreTin",
+				"weight": 4
+			}
+		],
+		"stone": [
+			{
+				"block": "quark:biome_cobblestone",
+				"meta": 1
+			}
+		],
+		"rarity": 13,
+		"min_y": 62,
+		"max_y": 64,
+		"density": 150,
+		"vertical_size": 3,
+		"horizontal_size": 11,
+		"dimensions":[1100]
+	},
+	"bottombedrock": {
+		"type": "sphere",
+		"ore": [
+			{
+				"ore": "oreSilver",
+				"weight": 5
+			},
+			{
+				"ore": "oreLead",
+				"weight": 5
+			}
+		],
+		"stone": "minecraft:bedrock",
+		"rarity": 10,
+		"min_y": 1,
+		"max_y": 4,
+		"density": 400,
+		"vertical_size": 3,
+		"horizontal_size": 16,
+		"dimensions":[1100]
+	},
+	"roof": {
+		"type": "sphere",
+		"ore": [
+			{
+				"ore": "oreAluminum",
+				"weight": 6
+			},
+			{
+				"ore": "oreOsmium",
+				"weight": 4
+			}
+		],
+		"stone": "minecraft:packed_ice",
+		"rarity": 11,
+		"min_y": 124,
+		"max_y": 240,
+		"density": 130,
+		"vertical_size": 10,
+		"horizontal_size": 10,
+		"dimensions":[1100]
+	},
+	"nc_wasteland": {
+		"type": "sphere",
+		"ore": [
+			{
+				"ore": "oreIridium",
+				"weight": 3
+			},
+			{
+				"ore": "oreDilithium",
+				"weight": 3
+			},
+			{
+				"ore": "oreRutile",
+				"weight": 3
+			},
+			{
+				"ore": "oreAstralStarmetal",
+				"weight": 1
+			}
+		],
+		"stone": "minecraft:stone",
+		"rarity": 10,
+		"min_y": 0,
+		"max_y": 68,
+		"density": 300,
+		"vertical_size": 10,
+		"horizontal_size": 10,
+		"dimensions":[4598],
+		"indicator": {
+          "blocks": {
+              "block":"nuclearcraft:glowing_mushroom",
+              "meta":"0"
+            },
+            "max_depth": 70
+        }
+	},
+	"netherdeco": {
+		"type": "cone",
+		"shape": 0.2,
+		"ore": [
+			{
+				"ore": "oreUranium",
+				"weight": 2
+			},
+			{
+				"block": "quark:slate",
+				"weight": 8
+			}
+		],
+		"stone": [
+			{
+				"block": "minecraft:air"
+			},
+			{
+				"block": "minecraft:packed_ice"
+			}
+		],
+		"rarity": 15,
+		"min_y": 30,
+		"max_y": 100,
+		"density": 800,
+		"vertical_size": 8,
+		"horizontal_size": 2,
+		"dimensions":[1101]
+	}
+}

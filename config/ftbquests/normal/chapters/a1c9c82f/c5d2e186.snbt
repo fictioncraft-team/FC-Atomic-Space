@@ -1,0 +1,22 @@
+{
+	x: 7.5d,
+	y: 0.5d,
+	text: [
+		"{des.ironnugget}"
+	],
+	dependencies: [
+		"2324cdb0"
+	],
+	tasks: [{
+		uid: "52d2287c",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_nugget"
+		}]
+	}],
+	rewards: [{
+		uid: "8f39396e",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

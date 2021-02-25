@@ -1,0 +1,48 @@
+{
+    "machine": "assembly_mk2",
+    "registryName": "osmium_sapling_1",
+    "recipeTime": 200,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "sky_orchards:sapling_osmium",
+            "amount": 1
+        },
+		{
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 320
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "advancedrocketry:aliensapling",
+            "amount": 1
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:dyeCyan",
+            "amount": 1
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "sky_orchards:resin_aluminum",
+            "amount": 10
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "sky_orchards:amber_diamond",
+            "amount": 10
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "sky_orchards:acorn_aquamarine",
+            "amount": 10
+        }
+    ]
+}

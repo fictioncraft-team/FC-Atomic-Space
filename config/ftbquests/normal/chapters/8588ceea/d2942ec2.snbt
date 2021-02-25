@@ -1,0 +1,21 @@
+{
+	x: -1.5d,
+	y: -1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"f06b4aab"
+	],
+	optional: true,
+	tasks: [{
+		uid: "c091603b",
+		type: "item",
+		items: [{
+			item: "chambers:big_compact_chamber"
+		}]
+	}],
+	rewards: [{
+		uid: "2bb5d0cd",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

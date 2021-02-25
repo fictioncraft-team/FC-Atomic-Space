@@ -1,0 +1,21 @@
+{
+	x: 4.5d,
+	y: 6.5d,
+	dependencies: [
+		"58032120"
+	],
+	tasks: [{
+		uid: "1346ff31",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:crafting_core"
+		}]
+	},
+	{
+		uid: "aca1bcdb",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:pedestal"
+		}]
+	}]
+}

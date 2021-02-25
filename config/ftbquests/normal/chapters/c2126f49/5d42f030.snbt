@@ -1,0 +1,21 @@
+{
+	title: "{title.brew.name}",
+	x: 11.5d,
+	y: 4.0d,
+	dependencies: [
+		"f1a5907d"
+	],
+	tasks: [{
+		uid: "f61fbfa2",
+		type: "item",
+		items: [{
+			item: "brewcraft:distiller"
+		}]
+	}],
+	rewards: [{
+		uid: "715aff49",
+		type: "item",
+		item: "brewcraft:preparedcherryvodkamixitem",
+		count: 2
+	}]
+}

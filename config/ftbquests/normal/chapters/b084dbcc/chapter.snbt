@@ -1,0 +1,10 @@
+{
+	title: "{cat.chapter3.name}",
+	icon: "minecraft:iron_ingot",
+	description: [
+		"{cat.sub.chapter3.name}"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

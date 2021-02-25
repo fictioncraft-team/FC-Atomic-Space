@@ -1,0 +1,17 @@
+{
+	x: 5.5d,
+	y: 0.0d,
+	shape: "square",
+	dependencies: [
+		"b4897351",
+		"1f2e1889"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "28eaff5e",
+		type: "item",
+		items: [{
+			item: "etlunar:lunar_cont_1"
+		}]
+	}]
+}

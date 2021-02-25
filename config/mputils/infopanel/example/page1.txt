@@ -1,0 +1,10 @@
+§9Welcome! To FictionCraft: Atomic Space
+
+Somethings you should know:
+1.There is ore excavation. But you can only vein mine specific blocks. Join our discord to see the list of blocks you need stage to vein mine. https://discord.com/invite/FatHApd
+
+2. If you found any bugs, please report it on our github page: https://github.com/W1nter-isHere/FictionCraft-Atomic-Space/issues
+
+3.Explore your world. You might find something interesting.
+
+4.There is journey map. But it unlocks after you unlock chapter 3. (Waypoints unlock in chapter 4)

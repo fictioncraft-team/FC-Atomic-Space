@@ -1,0 +1,26 @@
+{
+	x: 4.5d,
+	y: 4.0d,
+	dependencies: [
+		"6a2a99fe",
+		"e3d328d0"
+	],
+	tasks: [{
+		uid: "958d0f24",
+		type: "item",
+		items: [{
+			id: "advancedrocketry:bucketrocketfuel",
+			tag: {
+				Fluid: {
+					FluidName: "rocketfuel",
+					Amount: 1000
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "62468ffe",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

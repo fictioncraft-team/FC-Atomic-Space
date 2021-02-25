@@ -1,0 +1,35 @@
+{
+	x: 1.0d,
+	y: -8.0d,
+	dependencies: [
+		"593befd6"
+	],
+	tasks: [{
+		uid: "33650afd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:blockaltar",
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "eda60e21",
+		type: "item",
+		item: "nuclearcraft:radaway"
+	},
+	{
+		uid: "d8d9eeea",
+		type: "item",
+		item: "harvestcraft:blackpaellaitem",
+		count: 2
+	},
+	{
+		uid: "f4fb05ec",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "contenttweaker:ice_dirt",
+  "mod": "contenttweaker",
+  "soil": {
+    "name": "contenttweaker:ice_dirt",
+    "data": 0,
+    "ignoreMeta": true
+  },
+
+  "modifiers": {
+    "growTime": 1.2,
+    "dropChance": 0.8
+  },
+
+  "providedTags": [ "dirt", "grass" ]
+}

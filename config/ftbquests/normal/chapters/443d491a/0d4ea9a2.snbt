@@ -1,0 +1,19 @@
+{
+	x: -5.5d,
+	y: 3.5d,
+	dependencies: [
+		"dcdcba3d"
+	],
+	tasks: [{
+		uid: "b92da52b",
+		type: "item",
+		items: [{
+			item: "contenttweaker:astral_knowledge"
+		}]
+	}],
+	rewards: [{
+		uid: "b0ea28c2",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

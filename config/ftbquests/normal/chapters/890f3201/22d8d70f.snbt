@@ -1,0 +1,34 @@
+{
+	title: "{title.manainfuse.name}",
+	x: 5.0d,
+	y: 4.5d,
+	dependencies: [
+		"5bb35b2a"
+	],
+	tasks: [{
+		uid: "7c65ff8f",
+		type: "item",
+		items: [{
+			item: "botania:manaresource"
+		}]
+	},
+	{
+		uid: "991f33d6",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 2"
+		}]
+	},
+	{
+		uid: "c5bd40e0",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 23"
+		}]
+	}],
+	rewards: [{
+		uid: "a971bf38",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

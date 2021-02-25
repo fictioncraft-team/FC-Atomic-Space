@@ -1,0 +1,19 @@
+{
+  "rules": [
+    {
+      "appliesTo": [
+        "*"
+      ],
+      "canRespawnHere": false,
+      "canSleepHere": false,
+      "respawnDimension": 1102
+    },
+    {
+    	"appliesTo": [
+    		"1102"
+    	],
+    	"canRespawnHere": true,
+      	"canSleepHere": false
+    }
+  ]
+}

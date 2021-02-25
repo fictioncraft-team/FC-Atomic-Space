@@ -1,0 +1,19 @@
+{
+	x: 0.5d,
+	y: 4.0d,
+	dependencies: [
+		"dadcd898"
+	],
+	tasks: [{
+		uid: "9b384cbb",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:salt_mixer"
+		}]
+	}],
+	rewards: [{
+		uid: "f2c09a01",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

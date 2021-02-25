@@ -1,0 +1,101 @@
+{
+    "block_pools": [
+		{
+            "name": "LuminessenceLons",
+            "disablejei": true,
+            "type": {
+                "type": "block",
+                "name": "quark:glowstone_dust_block"
+            },
+            "clicktype": "rightclick",
+            "properties": [
+                {
+                    "type": "swing_hand"
+                },
+                {
+                    "type": "consume_block",
+                    "chance": "100"
+                },
+                {
+                	"type": "require_sneak"
+                },
+                {
+                    "type": "require_item",
+                    "name": "environmentaltech:lonsdaleite_crystal"
+
+                },
+                {
+                    "type": "require_item",
+                    "name": "astralsorcery:itemusabledust",
+                    "offhand": "true"
+
+                },
+                {
+					"type": "consume_item",
+					"amount": "1",
+					"chance": "100"
+				},
+                {
+                    "type": "play_sound",
+                    "name": "block.dispenser.dispense"
+                }
+            ],
+            "drops": [
+                {
+                    "name": "extendedcrafting:material",
+                    "meta": "7",
+                    "amount": "4",
+                    "chance": "100"
+                }
+            ]
+        },
+        {
+            "name": "LuminessenceKyro",
+            "type": {
+                "type": "block",
+                "name": "quark:glowstone_dust_block"
+            },
+            "clicktype": "rightclick",
+            "properties": [
+                {
+                    "type": "swing_hand"
+                },
+                {
+                    "type": "consume_block",
+                    "chance": "100"
+                },
+                {
+                	"type": "require_sneak"
+                },
+                {
+                    "type": "require_item",
+                    "name": "environmentaltech:kyronite_crystal"
+
+                },
+                {
+                    "type": "require_item",
+                    "name": "astralsorcery:itemusabledust",
+                    "offhand": "true"
+
+                },
+                {
+					"type": "consume_item",
+					"amount": "1",
+					"chance": "100"
+				},
+                {
+                    "type": "play_sound",
+                    "name": "block.dispenser.dispense"
+                }
+            ],
+            "drops": [
+                {
+                    "name": "extendedcrafting:material",
+                    "meta": "7",
+                    "amount": "8",
+                    "chance": "100"
+                }
+            ]
+        }
+    ]
+}

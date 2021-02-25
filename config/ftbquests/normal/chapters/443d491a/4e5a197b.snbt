@@ -1,0 +1,20 @@
+{
+	x: -2.5d,
+	y: 8.0d,
+	text: [
+		"{des.end}"
+	],
+	dependencies: [
+		"0eca71c3"
+	],
+	tasks: [{
+		uid: "f7a6eda5",
+		type: "dimension",
+		dim: 1
+	}],
+	rewards: [{
+		uid: "86fd68c3",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

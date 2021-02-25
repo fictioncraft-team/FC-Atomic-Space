@@ -1,0 +1,30 @@
+{
+	x: 12.5d,
+	y: -2.5d,
+	shape: "square",
+	tasks: [{
+		uid: "2eeb3bc6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {}
+			},
+			id: "yabba:antibarrel"
+		}]
+	}],
+	rewards: [{
+		uid: "e5ddb9fd",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	},
+	{
+		uid: "662f7cc9",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:diamond_sword"
+		}
+	}]
+}

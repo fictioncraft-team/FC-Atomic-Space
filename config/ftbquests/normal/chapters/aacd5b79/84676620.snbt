@@ -1,0 +1,21 @@
+{
+	x: 3.0d,
+	y: -10.0d,
+	shape: "hexagon",
+	dependencies: [
+		"dc978a3b"
+	],
+	optional: true,
+	tasks: [{
+		uid: "b469ede2",
+		type: "item",
+		items: [{
+			item: "minecraft:glowstone_dust"
+		}]
+	}],
+	rewards: [{
+		uid: "507bc8cf",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

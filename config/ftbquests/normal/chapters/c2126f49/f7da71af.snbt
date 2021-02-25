@@ -1,0 +1,31 @@
+{
+	icon: {
+		id: "openblocks:trophy",
+		tag: {
+			entity_id: "minecraft:blaze"
+		}
+	},
+	x: -3.0d,
+	y: -1.5d,
+	shape: "rsquare",
+	dependencies: [
+		"b0aa9d75"
+	],
+	tasks: [{
+		uid: "861a3652",
+		type: "kill",
+		entity: "minecraft:blaze",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "1e440bbd",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	},
+	{
+		uid: "f715806b",
+		type: "item",
+		item: "minecraft:blaze_powder",
+		count: 16
+	}]
+}

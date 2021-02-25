@@ -1,0 +1,308 @@
+{
+    "block_pools": [
+		{
+            "name": "Root2",
+            "type": {
+                "type": "block",
+                "name": "contenttweaker:ice_dirt"
+            },
+            "clicktype": "rightclick",
+            "properties": [
+                {
+                    "type": "consume_block",
+                    "chance": "35"
+                },
+				{
+                    "type": "require_sneak"
+                },
+                {
+                    "type": "swing_hand"
+                },
+                {
+					"type": "add_hunger",
+					"exhaustion": "true",
+					"amount": "0.5f"
+				},
+                {
+                    "type": "require_empty_hand"
+                },
+                {
+                    "type": "play_sound",
+                    "name": "block.gravel.place"
+                }
+            ],
+            "drops": [
+                {
+                    "name": "contenttweaker:root",
+                    "amount": "1",
+                    "chance": "12"
+                },
+                {
+                    "name": "minecraft:beetroot_seeds",
+                    "amount": "1",
+                    "chance": "8"
+                },
+				{
+                    "name": "actuallyadditions:item_rice_seed",
+                    "amount": "1",
+                    "chance": "12"
+                },
+				{
+                    "name": "randomthings:grassseeds",
+                    "amount": "1",
+                    "chance": "8"
+                },
+				{
+                    "name": "minecraft:wheat_seeds",
+                    "amount": "1",
+                    "chance": "8"
+                }
+            ]
+        },
+		{
+            "name": "sand",
+            "type": {
+                "type": "block",
+                "name": "minecraft:sand"
+            },
+            "clicktype": "rightclick",
+            "properties": [
+                {
+                    "type": "consume_block",
+                    "chance": "35"
+                },
+                {
+					"type": "add_hunger",
+					"exhaustion": "true",
+					"amount": "0.5f"
+				},
+				{
+                    "type": "require_sneak"
+                },
+                {
+                    "type": "swing_hand"
+                },
+                {
+                    "type": "require_empty_hand"
+                },
+                {
+                    "type": "play_sound",
+                    "name": "block.gravel.place"
+                }
+            ],
+            "drops": [
+                {
+                    "name": "minecraft:reeds",
+                    "amount": "1",
+                    "chance": "10"
+                },
+                {
+                    "name": "minecraft:rotten_flesh",
+                    "amount": "1",
+                    "chance": "10"
+                },
+				{
+                    "name": "minecraft:cactus",
+                    "amount": "1",
+                    "chance": "10"
+                }
+            ]
+        },
+		{
+            "name": "CobbleStonestone",
+            "type": {
+                "type": "block",
+                "name": "minecraft:bedrock"
+            },
+            "clicktype": "leftclick",
+            "properties": [
+                {
+                    "type": "drop_items"
+                },
+				{
+					"type": "require_left"
+				},
+				{
+					"type": "damage_item",
+					"amount": "1"
+				},
+				{
+					"type": "add_hunger",
+					"exhaustion": "true",
+					"amount": "0.5f"
+				},
+				{
+					"type": "require_item",
+					"name": "minecraft:stone_pickaxe"
+				},
+                {
+                    "type": "swing_hand"
+                },
+                {
+                    "type": "play_sound",
+                    "name": "block.stone.break"
+                }
+            ],
+            "drops": [
+                {
+                    "name": "survivalist:rock",
+                    "amount": "1",
+                    "chance": "58"
+                }
+            ],
+            "messages": [
+                {
+                    "id": "leftclick",
+                    "message": "Rock Rock Rock"
+                }
+            ]
+        },
+		{
+            "name": "CobbleStonegold",
+            "type": {
+                "type": "block",
+                "name": "minecraft:bedrock"
+            },
+            "clicktype": "leftclick",
+            "properties": [
+                {
+                    "type": "drop_items"
+                },
+				{
+					"type": "require_left"
+				},
+				{
+					"type": "damage_item",
+					"amount": "1"
+				},
+				{
+					"type": "add_hunger",
+					"exhaustion": "true",
+					"amount": "0.5f"
+				},
+				{
+					"type": "require_item",
+					"name": "minecraft:golden_pickaxe"
+				},
+                {
+                    "type": "swing_hand"
+                },
+                {
+                    "type": "play_sound",
+                    "name": "block.stone.break"
+                }
+            ],
+            "drops": [
+                {
+                    "name": "survivalist:rock",
+                    "amount": "1",
+                    "chance": "58"
+                }
+            ],
+            "messages": [
+                {
+                    "id": "leftclick",
+                    "message": "Rock Rock Rock"
+                }
+            ]
+        },
+		{
+            "name": "CobbleStonediamond",
+            "type": {
+                "type": "block",
+                "name": "minecraft:bedrock"
+            },
+            "clicktype": "leftclick",
+            "properties": [
+                {
+                    "type": "drop_items"
+                },
+				{
+					"type": "require_left"
+				},
+				{
+					"type": "damage_item",
+					"amount": "1"
+				},
+				{
+					"type": "add_hunger",
+					"exhaustion": "true",
+					"amount": "0.5f"
+				},
+				{
+					"type": "require_item",
+					"name": "minecraft:diamond_pickaxe"
+				},
+                {
+                    "type": "swing_hand"
+                },
+                {
+                    "type": "play_sound",
+                    "name": "block.stone.break"
+                }
+            ],
+            "drops": [
+                {
+                    "name": "survivalist:rock",
+                    "amount": "1",
+                    "chance": "58"
+                }
+            ],
+            "messages": [
+                {
+                    "id": "leftclick",
+                    "message": "Rock Rock Rock"
+                }
+            ]
+        },
+		{
+            "name": "CobbleStoneiron",
+            "type": {
+                "type": "block",
+                "name": "minecraft:bedrock"
+            },
+            "clicktype": "leftclick",
+            "properties": [
+                {
+                    "type": "drop_items"
+                },
+				{
+					"type": "require_left"
+				},
+				{
+					"type": "damage_item",
+					"amount": "1"
+				},
+				{
+					"type": "add_hunger",
+					"exhaustion": "true",
+					"amount": "0.5f"
+				},
+				{
+					"type": "require_item",
+					"name": "minecraft:iron_pickaxe"
+				},
+                {
+                    "type": "swing_hand"
+                },
+                {
+                    "type": "play_sound",
+                    "name": "block.stone.break"
+                }
+            ],
+            "drops": [
+                {
+                    "name": "survivalist:rock",
+                    "amount": "1",
+                    "chance": "58"
+                }
+            ],
+            "messages": [
+                {
+                    "id": "leftclick",
+                    "message": "Rock Rock Rock"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+	x: 2.0d,
+	y: -1.0d,
+	dependencies: [
+		"42541a2b"
+	],
+	tasks: [{
+		uid: "124167ee",
+		type: "item",
+		items: [{
+			item: "randomthings:naturecore"
+		}]
+	}],
+	rewards: [{
+		uid: "e878982a",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

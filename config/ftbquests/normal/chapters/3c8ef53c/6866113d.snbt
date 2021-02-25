@@ -1,0 +1,16 @@
+{
+	x: 8.5d,
+	y: 3.5d,
+	shape: "diamond",
+	dependencies: [
+		"3864f7ca"
+	],
+	tasks: [{
+		uid: "2019ce52",
+		type: "item",
+		items: [{
+			item: "contenttweaker:iron_ore_neutron"
+		}],
+		count: 4L
+	}]
+}

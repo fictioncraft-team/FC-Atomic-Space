@@ -1,0 +1,15 @@
+{
+	x: 7.0d,
+	y: 1.5d,
+	shape: "diamond",
+	dependencies: [
+		"717d162d"
+	],
+	tasks: [{
+		uid: "47261e89",
+		type: "item",
+		items: [{
+			item: "contenttweaker:iron_ore_molecule"
+		}]
+	}]
+}

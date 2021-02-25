@@ -1,0 +1,41 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	shape: "rsquare",
+	dependencies: [
+		"71334de5"
+	],
+	tasks: [{
+		uid: "1c96d090",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:radaway"
+		}]
+	}],
+	rewards: [{
+		uid: "c35899eb",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	},
+	{
+		uid: "be6bc91d",
+		type: "xp",
+		xp: 1
+	},
+	{
+		uid: "d4253ba5",
+		type: "item",
+		item: "nuclearcraft:radaway",
+		count: 4
+	},
+	{
+		uid: "def046b8",
+		type: "item",
+		item: {
+			id: "minecraft:potion",
+			tag: {
+				Potion: "quark:strong_resistance"
+			}
+		}
+	}]
+}

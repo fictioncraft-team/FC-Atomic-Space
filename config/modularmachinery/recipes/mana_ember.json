@@ -1,0 +1,17 @@
+{
+    "machine": "managenerator",
+    "registryName": "ember_mana",
+    "recipeTime": 80,
+    "requirements": [
+        {
+            "type": "ember",
+            "io-type": "input",
+            "ember": 600
+        },
+        {
+            "type": "mana",
+            "io-type": "output",
+            "mana": 2000
+        }
+    ]
+}

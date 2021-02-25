@@ -1,0 +1,30 @@
+{
+	title: "{title.mvpowah.name}",
+	x: 0.0d,
+	y: -4.5d,
+	shape: "square",
+	dependencies: [
+		"afd8ee6e"
+	],
+	tasks: [{
+		uid: "481026b8",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:connector 1 2"
+		}]
+	},
+	{
+		uid: "47f6aefa",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:connector 1 3"
+		}]
+	},
+	{
+		uid: "408f6476",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wirecoil 1 1"
+		}]
+	}]
+}

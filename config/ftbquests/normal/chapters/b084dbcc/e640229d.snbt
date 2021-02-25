@@ -1,0 +1,22 @@
+{
+	title: "{title.urghast.name}",
+	icon: "twilightforest:trophy 1 3",
+	x: 5.5d,
+	y: 4.5d,
+	shape: "hexagon",
+	dependencies: [
+		"eb8bd223"
+	],
+	optional: true,
+	tasks: [{
+		uid: "8661104e",
+		type: "kill",
+		entity: "twilightforest:ur_ghast",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "7e899636",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

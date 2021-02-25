@@ -1,0 +1,27 @@
+{
+	title: "{subcat.resourcegen2.name}",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "forge:bucketfilled",
+		tag: {
+			FluidName: "arsenic_nak_hot",
+			Amount: 1000
+		}
+	},
+	always_invisible: false,
+	group: 131364275,
+	default_quest_shape: "pentagon",
+	images: [{
+		x: 2.5d,
+		y: 2.0d,
+		width: 13.0d,
+		height: 9.0d,
+		rotation: 0.0d,
+		image: "fictioncraft:ftbquests/resourcegen.png",
+		hover: [],
+		click: "",
+		dev: false
+	}]
+}

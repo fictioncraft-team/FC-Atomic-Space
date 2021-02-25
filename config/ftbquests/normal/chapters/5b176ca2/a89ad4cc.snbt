@@ -1,0 +1,31 @@
+{
+	x: -1.0d,
+	y: 5.0d,
+	text: [
+		"{des.enderpearlchicken}"
+	],
+	tasks: [{
+		uid: "71aef3ca",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "chickens:enderchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "7e0e2630",
+		type: "item",
+		item: "minecraft:ender_pearl",
+		count: 16
+	},
+	{
+		uid: "e8d649e6",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

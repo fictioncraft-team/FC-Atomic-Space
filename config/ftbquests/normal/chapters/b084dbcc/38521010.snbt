@@ -1,0 +1,22 @@
+{
+	x: 0.0d,
+	y: -0.5d,
+	shape: "hexagon",
+	dependencies: [
+		"cf9cd0b4"
+	],
+	optional: true,
+	tasks: [{
+		uid: "a5e38188",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "cyclicmagic:book_ender",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

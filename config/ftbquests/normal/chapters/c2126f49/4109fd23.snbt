@@ -1,0 +1,59 @@
+{
+	x: -1.5d,
+	y: 0.0d,
+	shape: "rsquare",
+	text: [
+		"{des.linertip}"
+	],
+	dependencies: [
+		"0515c27b"
+	],
+	tasks: [{
+		uid: "eb23c73c",
+		type: "item",
+		items: [{
+			item: "armorunder:warm_helmet_liner"
+		}]
+	},
+	{
+		uid: "379b33e1",
+		type: "item",
+		items: [{
+			item: "armorunder:warm_chestplate_liner"
+		}]
+	},
+	{
+		uid: "7fa4901d",
+		type: "item",
+		items: [{
+			item: "armorunder:warm_leggings_liner"
+		}]
+	},
+	{
+		uid: "c47d1a10",
+		type: "item",
+		items: [{
+			item: "armorunder:warm_boots_liner"
+		}]
+	}],
+	rewards: [{
+		uid: "d7fbbbb1",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	},
+	{
+		uid: "2f7b3a6d",
+		type: "xp_levels",
+		xp_levels: 2
+	},
+	{
+		uid: "a0c01104",
+		type: "item",
+		item: {
+			id: "minecraft:potion",
+			tag: {
+				Potion: "toughasnails:long_cold_resistance_type"
+			}
+		}
+	}]
+}

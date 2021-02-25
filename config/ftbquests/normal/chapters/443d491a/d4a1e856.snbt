@@ -1,0 +1,21 @@
+{
+	x: -4.0d,
+	y: 3.5d,
+	shape: "hexagon",
+	dependencies: [
+		"886fa00d"
+	],
+	optional: true,
+	tasks: [{
+		uid: "80b3bd95",
+		type: "item",
+		items: [{
+			item: "contenttweaker:focus_star"
+		}]
+	}],
+	rewards: [{
+		uid: "6c885670",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

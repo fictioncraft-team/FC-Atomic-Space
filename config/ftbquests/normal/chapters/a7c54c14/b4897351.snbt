@@ -1,0 +1,15 @@
+{
+	x: 4.0d,
+	y: 0.0d,
+	shape: "octagon",
+	dependencies: [
+		"c46d9d4f"
+	],
+	tasks: [{
+		uid: "29d58874",
+		type: "item",
+		items: [{
+			item: "advgenerators:steam_turbine_controller"
+		}]
+	}]
+}

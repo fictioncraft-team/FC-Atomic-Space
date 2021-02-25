@@ -1,0 +1,25 @@
+{
+	title: "{title.oildrill.name}",
+	x: 2.0d,
+	y: 2.5d,
+	text: [
+		"{des.oildrill}",
+		"",
+		"{des.ieoilgendisable}"
+	],
+	dependencies: [
+		"2fd4f7e3"
+	],
+	tasks: [{
+		uid: "236e7034",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device1 1 7"
+		}]
+	}],
+	rewards: [{
+		uid: "ea60dfe3",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

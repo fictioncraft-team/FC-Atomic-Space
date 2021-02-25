@@ -1,0 +1,19 @@
+{
+	x: 1.0d,
+	y: 5.0d,
+	dependencies: [
+		"23227066"
+	],
+	tasks: [{
+		uid: "f135b5b5",
+		type: "item",
+		items: [{
+			item: "arcanearchives:radiant_resonator"
+		}]
+	}],
+	rewards: [{
+		uid: "39f2b7b1",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: -0.5d,
+	y: 12.0d,
+	dependencies: [
+		"d411a814",
+		"599ed4f8"
+	],
+	hide: true,
+	tasks: [{
+		uid: "cfb515e7",
+		type: "item",
+		items: [{
+			item: "contenttweaker:aluminum_clump"
+		}]
+	}]
+}

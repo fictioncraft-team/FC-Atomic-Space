@@ -1,0 +1,126 @@
+{
+    "block_pools": [
+		{
+            "name": "GlitchChamberIn",
+            "type": {
+                "type": "block",
+                "name": "contenttweaker:glitchchamber"
+            },
+            "clicktype": "rightclick",
+            "disablejei": true,
+            "properties": [
+                {
+                    "type": "swing_hand"
+                },
+                {
+                    "type": "require_item",
+                    "name": "twilightforest:tower_key"
+
+                },
+                {
+                    "type": "play_sound",
+                    "name": "entity.enderdragon.flap"
+                },
+                {
+                    "type": "use_command",
+                    "name": "tpj",
+                    "arguments": "@p 1104 -0.5 11 50"
+                },
+                {
+                    "type": "has_block_structure",
+                    "blocks": [
+                        {
+                            "name": "deepmoblearning:infused_ingot_block",
+                            "meta": 0,
+                            "positions": {
+                                "x": -1,
+                                "y": -1,
+                                "z": -1
+                            }
+                        },
+
+                        {
+                            "name": "deepmoblearning:infused_ingot_block",
+                            "meta": 0,
+                            "positions": {
+                                "x": -1,
+                                "y": -1,
+                                "z": 1
+                            }
+                        },
+
+                        {
+                            "name": "minecraft:obsidian",
+                            "meta": 0,
+                            "positions": {
+                                "x": 0,
+                                "y": -1,
+                                "z": 1
+                            }
+                        },
+
+                        {
+                            "name": "deepmoblearning:infused_ingot_block",
+                            "meta": 0,
+                            "positions": {
+                                "x": 1,
+                                "y": -1,
+                                "z": 1
+                            }
+                        },
+
+                        {
+                            "name": "minecraft:obsidian",
+                            "meta": 0,
+                            "positions": {
+                                "x": 1,
+                                "y": -1,
+                                "z": 0
+                            }
+                        },
+
+                        {
+                            "name": "deepmoblearning:infused_ingot_block",
+                            "meta": 0,
+                            "positions": {
+                                "x": 1,
+                                "y": -1,
+                                "z": -1
+                            }
+                        },
+
+                        {
+                            "name": "twilightforest:block_storage",
+                            "meta": 1,
+                            "positions": {
+                                "x": 0,
+                                "y": -1,
+                                "z": 0
+                            }
+                        },
+
+                        {
+                            "name": "minecraft:obsidian",
+                            "meta": 0,
+                            "positions": {
+                                "x": 0,
+                                "y": -1,
+                                "z": -1
+                            }
+                        },
+
+                        {
+                            "name": "minecraft:obsidian",
+                            "meta": 0,
+                            "positions": {
+                                "x": -1,
+                                "y": -1,
+                                "z": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

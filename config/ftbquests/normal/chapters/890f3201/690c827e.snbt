@@ -1,0 +1,23 @@
+{
+	title: "{title.apothecary.name}",
+	x: 5.0d,
+	y: 2.0d,
+	dependencies: [
+		"a5322158"
+	],
+	tasks: [{
+		uid: "afebd023",
+		type: "item",
+		items: [{
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:apothecary"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "fd125fff",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,25 @@
+{
+    "machine": "steam_machine",
+    "registryName": "caminite",
+    "recipeTime": 120,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "embers:blend_caminite",
+            "amount": 7
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "liquified_caminite_blend",
+            "amount": 1000
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "deepmoblearning:polymer_clay",
+            "amount": 1
+        }
+    ]
+}

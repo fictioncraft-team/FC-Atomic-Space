@@ -1,0 +1,31 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	shape: "rsquare",
+	dependencies: [
+		"84c5905b"
+	],
+	tasks: [{
+		uid: "8b5291bf",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:rad_shielding"
+		}]
+	}],
+	rewards: [{
+		uid: "779fa254",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	},
+	{
+		uid: "7781d337",
+		type: "xp_levels",
+		xp_levels: 2
+	},
+	{
+		uid: "d84d5cd9",
+		type: "item",
+		item: "nuclearcraft:rad_shielding",
+		count: 2
+	}]
+}

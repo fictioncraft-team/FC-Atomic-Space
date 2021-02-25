@@ -1,0 +1,24 @@
+{
+	x: -2.5d,
+	y: 7.0d,
+	shape: "diamond",
+	text: [
+		"{des.storagebarrel}"
+	],
+	dependencies: [
+		"0604a798"
+	],
+	optional: true,
+	tasks: [{
+		uid: "c17b2c26",
+		type: "item",
+		items: [{
+			item: "survivalism:barrel_storage 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "ff9705e4",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

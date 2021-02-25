@@ -1,0 +1,20 @@
+{
+	x: 2.0d,
+	y: 5.5d,
+	dependencies: [
+		"fc9304de",
+		"a4fae781"
+	],
+	tasks: [{
+		uid: "2999242f",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "abcc36f7",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

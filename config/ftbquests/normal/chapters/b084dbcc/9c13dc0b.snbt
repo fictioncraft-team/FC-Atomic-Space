@@ -1,0 +1,15 @@
+{
+	title: "{title.produceash.name}",
+	x: -2.5d,
+	y: 7.5d,
+	dependencies: [
+		"3a4b7c1a"
+	],
+	tasks: [{
+		uid: "d2696439",
+		type: "item",
+		items: [{
+			item: "embers:cinder_plinth"
+		}]
+	}]
+}

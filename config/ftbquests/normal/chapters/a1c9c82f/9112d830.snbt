@@ -1,0 +1,25 @@
+{
+	x: -2.5d,
+	y: 3.5d,
+	shape: "hexagon",
+	text: [
+		"{des.dryingrack}"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"6703e498"
+	],
+	optional: true,
+	tasks: [{
+		uid: "7d144bae",
+		type: "item",
+		items: [{
+			item: "survivalist:rack"
+		}]
+	}],
+	rewards: [{
+		uid: "7b3781d4",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

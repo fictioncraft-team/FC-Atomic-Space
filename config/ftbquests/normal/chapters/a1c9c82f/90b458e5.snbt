@@ -1,0 +1,33 @@
+{
+	title: "{title.dirtresource.name}",
+	icon: "contenttweaker:root",
+	x: -2.5d,
+	y: 2.5d,
+	text: [
+		"{des.dirtresource}"
+	],
+	dependencies: [
+		"44648e70"
+	],
+	tasks: [{
+		uid: "9d01eb22",
+		type: "item",
+		items: [{
+			item: "contenttweaker:root"
+		}],
+		consume_items: false
+	},
+	{
+		uid: "64b0fc71",
+		type: "item",
+		items: [{
+			item: "minecraft:wheat_seeds"
+		}],
+		consume_items: false
+	}],
+	rewards: [{
+		uid: "010378b6",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

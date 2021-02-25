@@ -1,0 +1,36 @@
+{
+	title: "{title.waterquestline.name}",
+	x: 1.5d,
+	y: -1.5d,
+	shape: "rsquare",
+	dependencies: [
+		"6ce4d59a"
+	],
+	tasks: [{
+		uid: "6302c527",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "toughasnails:canteen"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6161be38",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	},
+	{
+		uid: "88100e06",
+		type: "xp_levels",
+		xp_levels: 2
+	},
+	{
+		uid: "c2d98bdc",
+		type: "item",
+		item: "brewcraft:honeymeaditem",
+		count: 4
+	}]
+}

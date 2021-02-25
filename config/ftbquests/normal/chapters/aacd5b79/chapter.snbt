@@ -1,0 +1,15 @@
+{
+	title: "{cat.chapter4.name}",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "minecraft:iron_pickaxe"
+	},
+	description: [
+		"{cat.sub.chapter4.name}"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

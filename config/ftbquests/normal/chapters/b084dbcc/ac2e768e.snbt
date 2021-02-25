@@ -1,0 +1,31 @@
+{
+	title: "{title.twilightportal.name}",
+	x: 1.0d,
+	y: 0.0d,
+	text: [
+		"{des.steamiumkey}"
+	],
+	dependencies: [
+		"cf9cd0b4"
+	],
+	tasks: [{
+		uid: "d56f1494",
+		type: "item",
+		items: [{
+			item: "contenttweaker:steamium_key_e"
+		}]
+	},
+	{
+		uid: "d3af53f7",
+		type: "item",
+		items: [{
+			item: "twilightforest:twilight_leaves"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "9e36daf2",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

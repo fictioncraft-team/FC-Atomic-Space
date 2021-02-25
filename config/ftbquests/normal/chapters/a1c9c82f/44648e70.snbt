@@ -1,0 +1,21 @@
+{
+	title: "{title.radioactivateplanet.name}",
+	icon: "minecraft:ice",
+	x: -2.5d,
+	y: 0.5d,
+	text: [
+		"{des.radioactivateplanet}"
+	],
+	dependencies: [
+		"8eef079d"
+	],
+	tasks: [{
+		uid: "dac5031c",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "a245a81c",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

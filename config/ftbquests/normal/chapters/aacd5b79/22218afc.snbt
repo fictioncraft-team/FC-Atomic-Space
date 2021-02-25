@@ -1,0 +1,31 @@
+{
+	x: -1.5d,
+	y: -2.0d,
+	shape: "rsquare",
+	dependencies: [
+		"2cda69c1"
+	],
+	tasks: [{
+		uid: "77d54876",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "a5e7c47a",
+		type: "item",
+		item: "nuclearcraft:radaway"
+	},
+	{
+		uid: "0fc9b1c6",
+		type: "item",
+		item: "harvestcraft:cheesecakeitem",
+		count: 2
+	},
+	{
+		uid: "aa474870",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

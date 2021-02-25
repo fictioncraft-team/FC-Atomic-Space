@@ -1,0 +1,14 @@
+{
+	x: 7.0d,
+	y: 10.0d,
+	dependencies: [
+		"663442ea"
+	],
+	tasks: [{
+		uid: "43fb659f",
+		type: "item",
+		items: [{
+			item: "sky_orchards:acorn_osmium"
+		}]
+	}]
+}

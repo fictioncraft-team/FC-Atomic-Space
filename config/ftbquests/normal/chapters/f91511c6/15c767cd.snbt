@@ -1,0 +1,24 @@
+{
+	title: "{title.blast.name}",
+	x: -0.5d,
+	y: 4.5d,
+	text: [
+		"{des.blast}"
+	],
+	dependencies: [
+		"fbdb1439"
+	],
+	tasks: [{
+		uid: "be5fb272",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration 1 1"
+		}],
+		count: 27L
+	}],
+	rewards: [{
+		uid: "988cb865",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

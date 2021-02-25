@@ -1,0 +1,30 @@
+{
+	title: "{title.plank.name}",
+	x: 1.5d,
+	y: 4.0d,
+	text: [
+		"{des.plank}"
+	],
+	dependencies: [
+		"a527fc03"
+	],
+	tasks: [{
+		uid: "315a654a",
+		type: "item",
+		items: [{
+			item: "minecraft:planks"
+		}],
+		consume_items: false
+	}],
+	rewards: [{
+		uid: "767d2a76",
+		type: "item",
+		item: "harvestcraft:tacoitem",
+		count: 2
+	},
+	{
+		uid: "3a4fae80",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

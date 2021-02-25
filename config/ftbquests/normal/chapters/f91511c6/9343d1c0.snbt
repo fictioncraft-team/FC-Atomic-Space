@@ -1,0 +1,31 @@
+{
+	title: "{title.empower.name}",
+	x: -1.0d,
+	y: -3.0d,
+	text: [
+		"{des.empower}"
+	],
+	dependencies: [
+		"5b7b5e56"
+	],
+	tasks: [{
+		uid: "9b2ee5a8",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_display_stand"
+		}],
+		count: 5L
+	},
+	{
+		uid: "01e08f57",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_empowerer"
+		}]
+	}],
+	rewards: [{
+		uid: "1fea76c0",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

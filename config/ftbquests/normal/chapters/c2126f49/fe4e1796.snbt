@@ -1,0 +1,26 @@
+{
+	x: 8.0d,
+	y: 0.0d,
+	shape: "diamond",
+	dependencies: [
+		"300b3e14"
+	],
+	size: 0.75d,
+	tasks: [{
+		uid: "aec717de",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "improvedbackpacks:ender_backpack"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d6427908",
+		type: "item",
+		item: "minecraft:ender_chest"
+	}]
+}

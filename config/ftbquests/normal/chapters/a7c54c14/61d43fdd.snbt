@@ -1,0 +1,18 @@
+{
+	x: 6.5d,
+	y: -4.5d,
+	shape: "octagon",
+	dependencies: [
+		"345d6d50"
+	],
+	tasks: [{
+		uid: "fab63c88",
+		type: "item",
+		items: [{
+			id: "mekanism:transmitter",
+			tag: {
+				tier: 1
+			}
+		}]
+	}]
+}

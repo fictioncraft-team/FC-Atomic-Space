@@ -1,0 +1,30 @@
+{
+	title: "{title.resurgence.name}",
+	x: -6.5d,
+	y: -1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"078f9fab"
+	],
+	tasks: [{
+		uid: "56d3bcfd",
+		type: "item",
+		items: [{
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:resurgence"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "5e6904d4",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	},
+	{
+		uid: "aca39d7a",
+		type: "item",
+		item: "minecraft:soul_sand",
+		count: 16
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 3.75d,
+	y: 9.0d,
+	shape: "pentagon",
+	size: 1.5d,
+	tasks: [{
+		uid: "04fe254c",
+		type: "item",
+		items: [{
+			item: "bonsaitrees:bonsaipot 1 1"
+		}]
+	}]
+}

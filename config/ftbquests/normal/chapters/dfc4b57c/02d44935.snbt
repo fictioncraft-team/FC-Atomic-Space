@@ -1,0 +1,14 @@
+{
+	x: -9.0d,
+	y: 0.5d,
+	dependencies: [
+		"6dd811d2"
+	],
+	tasks: [{
+		uid: "48864d87",
+		type: "item",
+		items: [{
+			item: "sky_orchards:amber_coal"
+		}]
+	}]
+}

@@ -1,0 +1,31 @@
+{
+	title: "{title.twilightmatter.name}",
+	x: 2.5d,
+	y: 4.5d,
+	dependencies: [
+		"eb8bd223"
+	],
+	tasks: [{
+		uid: "9d9f6705",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:living_matter_twilight"
+		}]
+	}],
+	rewards: [{
+		uid: "3d4389c7",
+		type: "item",
+		item: "nuclearcraft:radaway"
+	},
+	{
+		uid: "510eebaf",
+		type: "item",
+		item: "actuallyadditions:item_food 1 11",
+		count: 2
+	},
+	{
+		uid: "3bdb6ae4",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

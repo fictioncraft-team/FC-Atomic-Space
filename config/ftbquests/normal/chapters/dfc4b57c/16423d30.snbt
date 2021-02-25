@@ -1,0 +1,16 @@
+{
+	x: -3.0d,
+	y: -1.5d,
+	dependencies: [
+		"322faf73",
+		"cf9cd0b4"
+	],
+	hide: true,
+	tasks: [{
+		uid: "48b61c88",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond"
+		}]
+	}]
+}

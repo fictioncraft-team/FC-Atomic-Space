@@ -1,0 +1,27 @@
+{
+	title: "{title.crystalmek.name}",
+	x: -2.0d,
+	y: 4.5d,
+	dependencies: [
+		"6461d390"
+	],
+	tasks: [{
+		uid: "d15c036e",
+		type: "item",
+		items: [{
+			item: "mekanism:crystal 1 2"
+		}]
+	},
+	{
+		uid: "30cfe953",
+		type: "item",
+		items: [{
+			item: "mekanism:crystal 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "1f37c926",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

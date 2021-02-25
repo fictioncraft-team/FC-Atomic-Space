@@ -1,0 +1,30 @@
+{
+	title: "{title.oilgenmk1.name}",
+	icon: {
+		id: "modularmachinery:itemblueprint",
+		tag: {
+			dynamicmachine: "modularmachinery:oil_generator_mk1"
+		}
+	},
+	x: 5.5d,
+	y: 1.5d,
+	dependencies: [
+		"7b9710cf"
+	],
+	optional: true,
+	tasks: [{
+		uid: "23774d4b",
+		type: "item",
+		items: [{
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:oil_generator_mk1"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "3a24a9e0",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

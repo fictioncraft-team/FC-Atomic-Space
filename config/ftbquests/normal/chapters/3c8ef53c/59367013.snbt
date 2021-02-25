@@ -1,0 +1,19 @@
+{
+	x: 11.5d,
+	y: 3.5d,
+	shape: "circle",
+	hide_dependency_lines: true,
+	dependencies: [
+		"a731ed31"
+	],
+	tasks: [{
+		uid: "092e8934",
+		type: "item",
+		items: [{
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:neutron_separator"
+			}
+		}]
+	}]
+}

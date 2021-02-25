@@ -1,0 +1,16 @@
+{
+  "name": "earthworks:block_gabion_dirt",
+  "mod": "earthworks",
+  "soil": {
+    "name": "earthworks:block_gabion_dirt",
+    "data": 0,
+    "ignoreMeta": true
+  },
+
+  "modifiers": {
+    "growTime": 0.9,
+    "dropChance": 1.2
+  },
+
+  "providedTags": [ "dirt", "grass" ]
+}

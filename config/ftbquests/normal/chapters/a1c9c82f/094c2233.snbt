@@ -1,0 +1,18 @@
+{
+	title: "{title.grill.name}",
+	x: 6.0d,
+	y: 2.5d,
+	text: [
+		"{des.stonegrill}"
+	],
+	dependencies: [
+		"ef409d18"
+	],
+	tasks: [{
+		uid: "9df21b21",
+		type: "item",
+		items: [{
+			item: "primal_tech:stone_grill"
+		}]
+	}]
+}

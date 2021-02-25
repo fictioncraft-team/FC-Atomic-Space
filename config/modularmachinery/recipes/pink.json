@@ -1,0 +1,36 @@
+{
+    "machine": "organic",
+    "registryName": "pink",
+    "recipeTime": 200,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "botania:flower@6",
+            "amount": 4
+        },
+		{
+			"type": "fluid",
+			"io-type": "input",
+			"fluid": "ethanol",
+			"amount": 200
+		},
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:red_flower",
+            "amount": 1
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "ore:dyePink",
+            "amount": 1
+        },
+		{
+            "type": "energy",
+            "io-type": "input",
+			"energyPerTick": 200
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+	title: "{title.seeds.name}",
+	x: 11.5d,
+	y: 2.0d,
+	shape: "pentagon",
+	size: 1.25d,
+	tasks: [{
+		uid: "006ec031",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_rice_seed"
+		}]
+	},
+	{
+		uid: "6a4f2148",
+		type: "item",
+		items: [{
+			item: "minecraft:wheat_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "8b88ceef",
+		type: "item",
+		item: "minecraft:carrot"
+	},
+	{
+		uid: "39eced3b",
+		type: "item",
+		item: "minecraft:potato"
+	}]
+}

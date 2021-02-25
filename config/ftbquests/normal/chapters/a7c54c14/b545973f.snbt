@@ -1,0 +1,18 @@
+{
+	x: 4.625d,
+	y: 1.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"b4897351",
+		"1f2e1889"
+	],
+	dependency_requirement: "one_completed",
+	size: 0.75d,
+	tasks: [{
+		uid: "a1df230f",
+		type: "item",
+		items: [{
+			item: "advgenerators:turbine_enderium"
+		}]
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	title: "{title.distilleryname}",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "immersivepetroleum:schematic",
+		tag: {
+			multiblock: "IP:DistillationTower"
+		}
+	},
+	x: -2.5d,
+	y: -2.0d,
+	dependencies: [
+		"599ed4f8"
+	],
+	tasks: [{
+		uid: "78854794",
+		type: "observation",
+		match_type: "block_entity_id",
+		match: "immersivetech:distillermaster",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "9f8c92ff",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

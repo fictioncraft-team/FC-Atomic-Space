@@ -1,0 +1,20 @@
+{
+	title: "{title.enderdragon.name}",
+	icon: "minecraft:skull 1 5",
+	x: -4.0d,
+	y: 8.0d,
+	dependencies: [
+		"fd03b0bb"
+	],
+	tasks: [{
+		uid: "6fbffe01",
+		type: "kill",
+		entity: "minecraft:ender_dragon",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "60475f55",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

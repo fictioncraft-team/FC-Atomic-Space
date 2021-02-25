@@ -1,0 +1,35 @@
+{
+	x: 3.5d,
+	y: 5.5d,
+	dependencies: [
+		"cb044992"
+	],
+	tasks: [{
+		uid: "4d6fa41c",
+		type: "item",
+		items: [{
+			item: "botania:terraplate"
+		}]
+	},
+	{
+		uid: "d7826984",
+		type: "item",
+		items: [{
+			item: "botania:livingrock"
+		}],
+		count: 5L
+	},
+	{
+		uid: "8bea3ea7",
+		type: "item",
+		items: [{
+			item: "minecraft:lapis_block"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "b7b18481",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

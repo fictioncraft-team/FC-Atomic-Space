@@ -1,0 +1,20 @@
+{
+	x: 0.0d,
+	y: -0.5d,
+	shape: "rsquare",
+	dependencies: [
+		"7fa5d774"
+	],
+	tasks: [{
+		uid: "1e3c9504",
+		type: "item",
+		items: [{
+			item: "mekanism:basicblock 1 8"
+		}]
+	}],
+	rewards: [{
+		uid: "83b1668b",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

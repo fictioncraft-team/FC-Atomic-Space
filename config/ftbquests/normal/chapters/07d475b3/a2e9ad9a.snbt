@@ -1,0 +1,36 @@
+{
+	x: -2.0d,
+	y: -3.5d,
+	shape: "square",
+	hide_dependency_lines: true,
+	dependencies: [
+		"599ed4f8"
+	],
+	hide: true,
+	tasks: [{
+		uid: "a2ca41a9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -6578482755241870400L,
+					AS_Amulet_HolderMost: 246370443283877194L
+				}
+			},
+			id: "randomthings:diviningrod",
+			Damage: 8s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e71d210f",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	},
+	{
+		uid: "1af3fa66",
+		type: "item",
+		item: "thermalfoundation:ore",
+		count: 2
+	}]
+}

@@ -1,0 +1,48 @@
+{
+    "machine": "assembly_mk2",
+    "registryName": "u_circuit",
+    "recipeTime": 600,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "mekanism:controlcircuit@3",
+            "amount": 7
+        },
+		{
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 400
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "enderio:item_material@44",
+            "amount": 1
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "mekanism:atomicalloy",
+            "amount": 2
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "mekanism:controlcircuit@2",
+            "amount": 1
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "mekanism:crystal@2",
+            "amount": 1
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "contenttweaker:thermal_paste",
+            "amount": 1
+        }
+    ]
+}

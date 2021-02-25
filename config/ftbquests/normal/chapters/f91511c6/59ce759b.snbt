@@ -1,0 +1,24 @@
+{
+	title: "{title.cokeoven.name}",
+	x: -1.0d,
+	y: 1.0d,
+	text: [
+		"{des.cokebrick}"
+	],
+	dependencies: [
+		"599ed4f8"
+	],
+	tasks: [{
+		uid: "957c2f12",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration"
+		}],
+		count: 27L
+	}],
+	rewards: [{
+		uid: "67c978a0",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

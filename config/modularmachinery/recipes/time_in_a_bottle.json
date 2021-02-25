@@ -1,0 +1,48 @@
+{
+    "machine": "assembly",
+    "registryName": "time_in_a_bottle",
+    "recipeTime": 1200,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "randomthings:timeinabottle",
+            "amount": 1
+        },
+		{
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 2
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:glass_bottle",
+            "amount": 1
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:clock",
+            "amount": 2
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "contenttweaker:steamium_processor",
+            "amount": 1
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "contenttweaker:steamium_gear",
+            "amount": 1
+        },
+		{
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "lubricant",
+            "amount": 1000
+        }
+    ]
+}

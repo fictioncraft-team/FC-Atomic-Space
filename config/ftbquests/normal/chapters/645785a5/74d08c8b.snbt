@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 6.5d,
+	shape: "gear",
+	dependencies: [
+		"88ab8a3c"
+	],
+	tasks: [{
+		uid: "715b5ec3",
+		type: "item",
+		items: [{
+			item: "rftools:powercell_creative"
+		}]
+	}]
+}

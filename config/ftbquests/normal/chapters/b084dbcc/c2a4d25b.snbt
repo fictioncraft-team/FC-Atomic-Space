@@ -1,0 +1,27 @@
+{
+	title: "{title.stamper.name}",
+	x: -1.0d,
+	y: 5.0d,
+	dependencies: [
+		"fede5e2b"
+	],
+	tasks: [{
+		uid: "9b7f0ba0",
+		type: "item",
+		items: [{
+			item: "embers:stamper"
+		}]
+	},
+	{
+		uid: "e8566f52",
+		type: "item",
+		items: [{
+			item: "embers:stamper_base"
+		}]
+	}],
+	rewards: [{
+		uid: "c7d469df",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: 0.0d,
+	y: 0.5d,
+	dependencies: [
+		"241c3b48",
+		"42541a2b",
+		"6a42c0f9"
+	],
+	tasks: [{
+		uid: "bfce3cb1",
+		type: "item",
+		items: [{
+			item: "environmentaltech:litherite_crystal"
+		}]
+	}],
+	rewards: [{
+		uid: "def7332d",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

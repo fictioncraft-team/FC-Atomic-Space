@@ -1,0 +1,14 @@
+{
+	x: 5.5d,
+	y: -1.0d,
+	dependencies: [
+		"059845fd"
+	],
+	tasks: [{
+		uid: "b84f2da1",
+		type: "item",
+		items: [{
+			item: "advgenerators:turbine_controller"
+		}]
+	}]
+}

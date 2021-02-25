@@ -1,0 +1,26 @@
+{
+	x: -0.5d,
+	y: 2.0d,
+	dependencies: [
+		"6d769c0e"
+	],
+	tasks: [{
+		uid: "8e1fb97a",
+		type: "item",
+		items: [{
+			item: "minecraft:skull 1 1"
+		}]
+	},
+	{
+		uid: "0d576f4f",
+		type: "item",
+		items: [{
+			item: "minecraft:soul_sand"
+		}]
+	}],
+	rewards: [{
+		uid: "d4e24541",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

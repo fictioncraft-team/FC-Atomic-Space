@@ -1,0 +1,125 @@
+{
+	title: "{title.botaniaflower.name}",
+	x: 3.5d,
+	y: 2.0d,
+	dependencies: [
+		"0e167181"
+	],
+	tasks: [{
+		uid: "2dceb7fe",
+		type: "item",
+		items: [{
+			item: "botania:flower"
+		}]
+	},
+	{
+		uid: "9020882c",
+		type: "item",
+		items: [{
+			item: "botania:flower 1 1"
+		}]
+	},
+	{
+		uid: "4fede714",
+		type: "item",
+		items: [{
+			item: "botania:flower 1 2"
+		}]
+	},
+	{
+		uid: "25e56724",
+		type: "item",
+		items: [{
+			item: "botania:flower 1 3"
+		}]
+	},
+	{
+		uid: "7789c462",
+		type: "item",
+		items: [{
+			item: "botania:flower 1 4"
+		}]
+	},
+	{
+		uid: "5a806d50",
+		type: "item",
+		items: [{
+			item: "botania:flower 1 5"
+		}]
+	},
+	{
+		uid: "f35b2b7a",
+		type: "item",
+		items: [{
+			item: "botania:flower 1 6"
+		}]
+	},
+	{
+		uid: "ba281ecf",
+		type: "item",
+		items: [{
+			item: "botania:flower 1 7"
+		}]
+	},
+	{
+		uid: "929b23b6",
+		type: "item",
+		items: [{
+			item: "botania:flower 1 8"
+		}]
+	},
+	{
+		uid: "33148993",
+		type: "item",
+		items: [{
+			item: "botania:flower 1 9"
+		}]
+	},
+	{
+		uid: "5ce5d36a",
+		type: "item",
+		items: [{
+			item: "botania:flower 1 10"
+		}]
+	},
+	{
+		uid: "4e74029c",
+		type: "item",
+		items: [{
+			item: "botania:flower 1 11"
+		}]
+	},
+	{
+		uid: "e21ddea5",
+		type: "item",
+		items: [{
+			item: "botania:flower 1 12"
+		}]
+	},
+	{
+		uid: "922edac2",
+		type: "item",
+		items: [{
+			item: "botania:flower 1 13"
+		}]
+	},
+	{
+		uid: "d361981b",
+		type: "item",
+		items: [{
+			item: "botania:flower 1 14"
+		}]
+	},
+	{
+		uid: "175e31fd",
+		type: "item",
+		items: [{
+			item: "botania:flower 1 15"
+		}]
+	}],
+	rewards: [{
+		uid: "4b51ae24",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

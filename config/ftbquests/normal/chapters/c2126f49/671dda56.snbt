@@ -1,0 +1,34 @@
+{
+	title: "{title.radiationquestline.name}",
+	x: 1.5d,
+	y: 0.0d,
+	shape: "rsquare",
+	dependencies: [
+		"6ce4d59a"
+	],
+	tasks: [{
+		uid: "34ecced4",
+		type: "item",
+		items: [{
+			item: "minecraft:glowstone_dust"
+		}]
+	},
+	{
+		uid: "edb007bb",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:part 1 6"
+		}]
+	}],
+	rewards: [{
+		uid: "69d5ec2d",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	},
+	{
+		uid: "65e7e784",
+		type: "item",
+		item: "nuclearcraft:part 1 6",
+		count: 4
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	x: 12.5d,
+	y: -4.5d,
+	shape: "diamond",
+	dependencies: [
+		"c95ceff8"
+	],
+	tasks: [{
+		uid: "c35e63ce",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {}
+			},
+			id: "yabba:upgrade_pickup"
+		}]
+	}],
+	rewards: [{
+		uid: "d6276be0",
+		type: "item",
+		item: "darkutils:ender_hopper"
+	}]
+}

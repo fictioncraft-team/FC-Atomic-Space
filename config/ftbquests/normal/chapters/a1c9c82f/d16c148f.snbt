@@ -1,0 +1,31 @@
+{
+	x: -2.5d,
+	y: 5.0d,
+	text: [
+		"{des.dirt}"
+	],
+	dependencies: [
+		"9112d830",
+		"6703e498"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "2473928d",
+		type: "item",
+		items: [{
+			item: "minecraft:dirt"
+		}],
+		consume_items: false
+	}],
+	rewards: [{
+		uid: "36eebd19",
+		type: "item",
+		item: "harvestcraft:pbandjitem",
+		count: 2
+	},
+	{
+		uid: "b2e756d6",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

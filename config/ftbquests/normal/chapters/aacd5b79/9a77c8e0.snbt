@@ -1,0 +1,21 @@
+{
+	x: -2.5d,
+	y: -2.0d,
+	shape: "hexagon",
+	dependencies: [
+		"45d6457b"
+	],
+	optional: true,
+	tasks: [{
+		uid: "924438eb",
+		type: "item",
+		items: [{
+			item: "enderio:block_simple_sag_mill"
+		}]
+	}],
+	rewards: [{
+		uid: "bd37ead0",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

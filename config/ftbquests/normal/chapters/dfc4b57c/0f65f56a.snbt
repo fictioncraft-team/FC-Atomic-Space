@@ -1,0 +1,11 @@
+{
+	x: -5.0d,
+	y: 8.0d,
+	tasks: [{
+		uid: "a0bf61a3",
+		type: "item",
+		items: [{
+			item: "sky_orchards:sapling_iron"
+		}]
+	}]
+}

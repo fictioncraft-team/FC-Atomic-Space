@@ -1,0 +1,14 @@
+{
+	x: 7.5d,
+	y: 5.5d,
+	dependencies: [
+		"33427c09"
+	],
+	tasks: [{
+		uid: "928ca51c",
+		type: "item",
+		items: [{
+			item: "mekanism:ingot 1 1"
+		}]
+	}]
+}

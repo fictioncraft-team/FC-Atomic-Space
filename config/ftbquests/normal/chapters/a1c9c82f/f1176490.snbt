@@ -1,0 +1,23 @@
+{
+	x: 3.0d,
+	y: 2.5d,
+	text: [
+		"{des.twine}"
+	],
+	dependencies: [
+		"727947bd"
+	],
+	tasks: [{
+		uid: "73f2c015",
+		type: "item",
+		items: [{
+			item: "primal_tech:twine"
+		}],
+		consume_items: false
+	}],
+	rewards: [{
+		uid: "e6f59c5d",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

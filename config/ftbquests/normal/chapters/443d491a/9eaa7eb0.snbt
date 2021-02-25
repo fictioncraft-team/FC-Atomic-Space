@@ -1,0 +1,19 @@
+{
+	x: 1.0d,
+	y: 3.5d,
+	dependencies: [
+		"dec93b73"
+	],
+	tasks: [{
+		uid: "11b3738c",
+		type: "item",
+		items: [{
+			item: "minecraft:nether_star"
+		}]
+	}],
+	rewards: [{
+		uid: "d992937d",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

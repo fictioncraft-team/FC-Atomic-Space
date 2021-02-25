@@ -1,0 +1,43 @@
+{
+	title: "{title.processmachine.name}",
+	icon: {
+		id: "modularmachinery:itemblueprint",
+		tag: {
+			dynamicmachine: "modularmachinery:steam_machine"
+		}
+	},
+	x: 0.5d,
+	y: -3.0d,
+	text: [
+		"{des.processmachine}"
+	],
+	dependencies: [
+		"d5267e22"
+	],
+	tasks: [{
+		uid: "a16c9c2e",
+		type: "item",
+		items: [{
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:steam_machine"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "645b5bbc",
+		type: "item",
+		item: "nuclearcraft:radaway"
+	},
+	{
+		uid: "c216bb23",
+		type: "item",
+		item: "harvestcraft:beefjerkyitem",
+		count: 2
+	},
+	{
+		uid: "9e447fae",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

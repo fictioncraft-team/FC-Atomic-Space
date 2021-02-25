@@ -1,0 +1,30 @@
+{
+	title: "{title.embercrystal.name}",
+	x: -1.0d,
+	y: 2.5d,
+	text: [
+		"{des.embercrystal}"
+	],
+	dependencies: [
+		"e06c983a"
+	],
+	tasks: [{
+		uid: "cdca32e4",
+		type: "item",
+		items: [{
+			item: "embers:shard_ember"
+		}]
+	},
+	{
+		uid: "cf84852d",
+		type: "item",
+		items: [{
+			item: "embers:crystal_ember"
+		}]
+	}],
+	rewards: [{
+		uid: "a73fcf96",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

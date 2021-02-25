@@ -1,0 +1,30 @@
+{
+	title: "{title.transferember.name}",
+	x: -4.0d,
+	y: 4.5d,
+	text: [
+		"{des.transferember}"
+	],
+	dependencies: [
+		"dce52a2c"
+	],
+	tasks: [{
+		uid: "2c53e8c8",
+		type: "item",
+		items: [{
+			item: "embers:ember_emitter"
+		}]
+	},
+	{
+		uid: "337af2de",
+		type: "item",
+		items: [{
+			item: "embers:ember_receiver"
+		}]
+	}],
+	rewards: [{
+		uid: "16007c5a",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

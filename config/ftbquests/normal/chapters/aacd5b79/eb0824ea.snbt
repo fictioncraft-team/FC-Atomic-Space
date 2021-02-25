@@ -1,0 +1,21 @@
+{
+	x: -3.0d,
+	y: -10.5d,
+	shape: "hexagon",
+	dependencies: [
+		"6894263e"
+	],
+	optional: true,
+	tasks: [{
+		uid: "93118559",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "actuallyadditions:item_spawner_changer"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

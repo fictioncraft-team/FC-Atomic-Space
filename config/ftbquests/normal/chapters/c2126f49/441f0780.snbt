@@ -1,0 +1,23 @@
+{
+	x: 14.0d,
+	y: -2.0d,
+	shape: "diamond",
+	dependencies: [
+		"c95ceff8"
+	],
+	tasks: [{
+		uid: "6aa9d8d4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {}
+			},
+			id: "yabba:upgrade_creative"
+		}]
+	}],
+	rewards: [{
+		uid: "c9ab4d7f",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

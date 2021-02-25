@@ -1,0 +1,19 @@
+{
+	x: 1.5d,
+	y: -6.0d,
+	dependencies: [
+		"6821aa25"
+	],
+	tasks: [{
+		uid: "1d18675d",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockcustomore"
+		}]
+	}],
+	rewards: [{
+		uid: "4ea7c5ee",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,7 @@
+{
+	title: "{subcat.oredup1.name}",
+	icon: "thermalfoundation:material",
+	always_invisible: false,
+	group: 131364275,
+	default_quest_shape: "square"
+}

@@ -1,0 +1,10 @@
+{
+	title: "{cat.chapter5.name}",
+	icon: "minecraft:lava_bucket",
+	description: [
+		"{cat.sub.chapter5.name}"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

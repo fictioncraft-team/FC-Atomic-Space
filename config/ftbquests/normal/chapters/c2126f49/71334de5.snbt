@@ -1,0 +1,31 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	shape: "rsquare",
+	dependencies: [
+		"671dda56"
+	],
+	tasks: [{
+		uid: "7b58fd48",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:glowing_mushroom"
+		}]
+	}],
+	rewards: [{
+		uid: "7c22835c",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	},
+	{
+		uid: "66321177",
+		type: "xp_levels",
+		xp_levels: 2
+	},
+	{
+		uid: "4d4518c9",
+		type: "item",
+		item: "nuclearcraft:radaway_slow",
+		count: 2
+	}]
+}

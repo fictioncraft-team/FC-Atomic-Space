@@ -1,0 +1,19 @@
+{
+	title: "{title.steampowah.name}",
+	x: 2.5d,
+	y: 0.0d,
+	shape: "hexagon",
+	dependencies: [
+		"aa99e52b"
+	],
+	tasks: [{
+		uid: "739f068d",
+		type: "item",
+		items: [{
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:steam_turbine"
+			}
+		}]
+	}]
+}

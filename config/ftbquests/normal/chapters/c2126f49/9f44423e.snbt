@@ -1,0 +1,26 @@
+{
+	x: 5.625d,
+	y: 3.375d,
+	shape: "square",
+	dependencies: [
+		"56e5a09e"
+	],
+	size: 0.75d,
+	tasks: [{
+		uid: "8bf585f7",
+		type: "item",
+		items: [{
+			item: "enderutilities:enderpart 1 53"
+		}]
+	}],
+	rewards: [{
+		uid: "d94ad292",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	},
+	{
+		uid: "50508e2a",
+		type: "xp_levels",
+		xp_levels: 5
+	}]
+}

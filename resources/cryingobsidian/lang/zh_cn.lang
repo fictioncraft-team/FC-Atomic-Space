@@ -1,0 +1,13 @@
+# Chinese Language File
+# Block
+tile.crying_obsidian_block.name=重生锚
+
+# Chat messages
+message.spawnpoint_set=Set %s's spawn point to coordinates: x=%d, y=%d, z=%d.
+message.not_owner=You aren't the owner of this block!
+message.entity_respawned=An entity that is bound to one of your Crying Obsidian blocks has died. It respawned.
+message.entity_linked=The selected entity is now linked to this item. With this item, right click on an advanced Crying Obsidian block where you want the entity to spawn when it dies.
+message.entity_whitelist=The selected entity wasn't linked to this item because it is not on the re-spawn whitelist.
+message.entity_spawn_here=The entity will spawn here when it dies.
+message.entity_binding_disabled=You can't bind an entity to this block because that feature was disabled in the config.
+message.bed_disabled=Sleeping in beds was disabled in the Crying Obsidian config.

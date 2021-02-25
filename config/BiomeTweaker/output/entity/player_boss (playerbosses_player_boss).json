@@ -1,0 +1,6 @@
+
+{
+  "Name": "player_boss",
+  "Registry ID": "playerbosses:player_boss",
+  "Class": "com.lothrazar.playerbosses.EntityPlayerBoss"
+}

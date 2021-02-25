@@ -1,0 +1,33 @@
+{
+	x: -3.5d,
+	y: -2.0d,
+	shape: "square",
+	hide_dependency_lines: true,
+	dependencies: [
+		"599ed4f8"
+	],
+	hide: true,
+	tasks: [{
+		uid: "d156d4fd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "randomthings:diviningrod",
+			Damage: 2s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7241927f",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	},
+	{
+		uid: "38a22c09",
+		type: "item",
+		item: "minecraft:gold_ore",
+		count: 2
+	}]
+}

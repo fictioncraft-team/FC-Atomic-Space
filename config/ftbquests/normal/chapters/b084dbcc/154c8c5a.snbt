@@ -1,0 +1,25 @@
+{
+	title: "{title.oilmk2.name}",
+	x: -5.5d,
+	y: 7.0d,
+	shape: "hexagon",
+	dependencies: [
+		"1bf9917e"
+	],
+	optional: true,
+	tasks: [{
+		uid: "e6213e0c",
+		type: "item",
+		items: [{
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:oil_generator_mk2"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "dbf231c9",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

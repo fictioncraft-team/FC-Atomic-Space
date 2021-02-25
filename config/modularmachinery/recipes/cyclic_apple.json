@@ -1,0 +1,19 @@
+{
+    "machine": "steam_machine",
+    "registryName": "apple",
+    "recipeTime": 200,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "cyclicmagic:food_step",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:apple",
+            "amount": 1
+        }
+    ]
+}

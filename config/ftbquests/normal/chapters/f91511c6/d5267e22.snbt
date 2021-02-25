@@ -1,0 +1,23 @@
+{
+	title: "{title.modularium.name}",
+	x: 1.0d,
+	y: -4.5d,
+	text: [
+		"{des.modularium}"
+	],
+	dependencies: [
+		"e92e146a"
+	],
+	tasks: [{
+		uid: "d0e57509",
+		type: "item",
+		items: [{
+			item: "modularmachinery:itemmodularium"
+		}]
+	}],
+	rewards: [{
+		uid: "4e8811e1",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

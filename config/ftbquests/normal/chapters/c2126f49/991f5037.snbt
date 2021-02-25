@@ -1,0 +1,21 @@
+{
+	x: 8.5d,
+	y: 3.0d,
+	shape: "diamond",
+	dependencies: [
+		"2b2305da"
+	],
+	tasks: [{
+		uid: "d5762c0f",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_misc 1 12"
+		}]
+	}],
+	rewards: [{
+		uid: "a697c503",
+		type: "item",
+		item: "minecraft:slime_ball",
+		count: 4
+	}]
+}

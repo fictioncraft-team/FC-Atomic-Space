@@ -1,0 +1,56 @@
+{
+	title: "{title.artisanauto.name}",
+	x: -4.5d,
+	y: -3.0d,
+	shape: "diamond",
+	tasks: [{
+		uid: "8b1d2d12",
+		type: "item",
+		items: [{
+			item: "artisanworktables:mechanical_toolbox"
+		}]
+	},
+	{
+		uid: "21e910dc",
+		type: "item",
+		items: [{
+			item: "artisanautomation:automator"
+		}]
+	},
+	{
+		uid: "dbf12ee2",
+		type: "item",
+		items: [{
+			item: "artisanautomation:automator_power_rf"
+		}]
+	},
+	{
+		uid: "5953aae8",
+		type: "item",
+		items: [{
+			item: "artisanworktables:worktable 1 12"
+		}]
+	},
+	{
+		uid: "a65d9f8c",
+		type: "item",
+		items: [{
+			id: "artisanworktables:design_pattern",
+			tag: {}
+		}]
+	}],
+	rewards: [{
+		uid: "1a0ef6e7",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	},
+	{
+		uid: "36c1fdc4",
+		type: "item",
+		item: {
+			id: "artisanworktables:design_pattern",
+			tag: {}
+		},
+		count: 25
+	}]
+}

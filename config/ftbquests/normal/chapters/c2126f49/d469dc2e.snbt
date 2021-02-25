@@ -1,0 +1,30 @@
+{
+	x: 13.5d,
+	y: -4.0d,
+	shape: "diamond",
+	dependencies: [
+		"c95ceff8"
+	],
+	tasks: [{
+		uid: "a2b2ffe3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Progress: 0s
+				}
+			},
+			id: "yabba:upgrade_smelting"
+		}]
+	}],
+	rewards: [{
+		uid: "45e0bce8",
+		type: "item",
+		item: "randomthings:igniter"
+	},
+	{
+		uid: "4abfa2dc",
+		type: "xp_levels",
+		xp_levels: 1
+	}]
+}

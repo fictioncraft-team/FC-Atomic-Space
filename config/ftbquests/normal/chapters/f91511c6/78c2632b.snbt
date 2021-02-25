@@ -1,0 +1,34 @@
+{
+	title: "{title.aluminum.name}",
+	x: 0.5d,
+	y: 3.5d,
+	text: [
+		"{des.aluminum}"
+	],
+	dependencies: [
+		"15c767cd"
+	],
+	tasks: [{
+		uid: "80edfd16",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 132"
+		}]
+	}],
+	rewards: [{
+		uid: "afebc0bd",
+		type: "item",
+		item: "nuclearcraft:radaway"
+	},
+	{
+		uid: "8b14218c",
+		type: "item",
+		item: "harvestcraft:herbbutterparsnipsitem",
+		count: 2
+	},
+	{
+		uid: "c0c45f70",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "{title.feather.name}",
+	x: 3.5d,
+	y: 1.0d,
+	dependencies: [
+		"05314422"
+	],
+	tasks: [{
+		uid: "fb6b742b",
+		type: "item",
+		items: [{
+			item: "twilightforest:raven_feather"
+		}]
+	}],
+	rewards: [{
+		uid: "e60ef94a",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

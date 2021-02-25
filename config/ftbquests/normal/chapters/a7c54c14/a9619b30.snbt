@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 1.0d,
+	shape: "diamond",
+	dependencies: [
+		"c46d9d4f"
+	],
+	tasks: [{
+		uid: "de2522e9",
+		type: "item",
+		items: [{
+			item: "embers:mini_boiler"
+		}]
+	}]
+}

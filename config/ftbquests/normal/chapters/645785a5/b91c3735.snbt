@@ -1,0 +1,18 @@
+{
+	x: 8.0d,
+	y: 0.0d,
+	shape: "gear",
+	size: 1.5d,
+	tasks: [{
+		uid: "0474f828",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:creative_compressor"
+		}]
+	}],
+	rewards: [{
+		uid: "9175654a",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

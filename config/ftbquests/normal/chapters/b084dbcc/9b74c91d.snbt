@@ -1,0 +1,19 @@
+{
+	x: 2.5d,
+	y: 6.0d,
+	dependencies: [
+		"207737ba"
+	],
+	tasks: [{
+		uid: "f296615b",
+		type: "item",
+		items: [{
+			item: "arcanearchives:raw_quartz"
+		}]
+	}],
+	rewards: [{
+		uid: "ec43d07e",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

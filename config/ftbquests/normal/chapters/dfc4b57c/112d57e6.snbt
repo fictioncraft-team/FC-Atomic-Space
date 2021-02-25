@@ -1,0 +1,16 @@
+{
+	x: 5.5d,
+	y: 3.0d,
+	dependencies: [
+		"089e267f",
+		"599ed4f8"
+	],
+	hide: true,
+	tasks: [{
+		uid: "391598c0",
+		type: "item",
+		items: [{
+			item: "sky_orchards:resin_nickel"
+		}]
+	}]
+}

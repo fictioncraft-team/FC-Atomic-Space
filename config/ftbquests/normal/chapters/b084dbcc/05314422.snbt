@@ -1,0 +1,18 @@
+{
+	title: "{title.twilight.name}",
+	x: 2.5d,
+	y: 0.0d,
+	dependencies: [
+		"ac2e768e"
+	],
+	tasks: [{
+		uid: "59af51c7",
+		type: "dimension",
+		dim: 2020
+	}],
+	rewards: [{
+		uid: "54bd5690",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

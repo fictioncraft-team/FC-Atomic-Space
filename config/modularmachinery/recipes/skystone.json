@@ -1,0 +1,24 @@
+{
+    "machine": "cutting_machine",
+    "registryName": "skystone",
+    "recipeTime": 150,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "appliedenergistics2:sky_stone_block",
+            "amount": 1
+        },
+        {
+			"type": "ember",
+			"io-type": "input",
+			"ember": 400.0
+		},
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "astralsorcery:blockblackmarble",
+            "amount": 1
+        }
+    ]
+}

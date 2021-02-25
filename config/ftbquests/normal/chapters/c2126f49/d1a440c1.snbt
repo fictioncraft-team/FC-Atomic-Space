@@ -1,0 +1,31 @@
+{
+	title: "{title.cleanupradiation.name}",
+	x: 3.0d,
+	y: 0.0d,
+	shape: "rsquare",
+	dependencies: [
+		"95c8dc40"
+	],
+	tasks: [{
+		uid: "6068f356",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:radiation_scrubber"
+		}]
+	}],
+	rewards: [{
+		uid: "ab116bbd",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	},
+	{
+		uid: "fdd0ec40",
+		type: "xp",
+		xp: 1
+	},
+	{
+		uid: "7dfcdbbe",
+		type: "xp_levels",
+		xp_levels: 2
+	}]
+}

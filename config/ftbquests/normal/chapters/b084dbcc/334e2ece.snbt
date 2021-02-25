@@ -1,0 +1,36 @@
+{
+	title: "{title.assemblymachine.name}",
+	x: -3.5d,
+	y: 1.0d,
+	text: [
+		"{des.assemblymachine}"
+	],
+	dependencies: [
+		"61d739b7"
+	],
+	tasks: [{
+		uid: "d083d6e5",
+		type: "item",
+		items: [{
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:assembly"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "d05636ca",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	},
+	{
+		uid: "b19306e9",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:ember_detector"
+		}
+	}]
+}

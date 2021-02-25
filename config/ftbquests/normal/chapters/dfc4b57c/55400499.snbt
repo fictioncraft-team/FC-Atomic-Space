@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 3.0d,
+	dependencies: [
+		"ff0f54d2",
+		"599ed4f8"
+	],
+	hide: true,
+	tasks: [{
+		uid: "765c1825",
+		type: "item",
+		items: [{
+			item: "sky_orchards:resin_copper"
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 1.5d,
+	y: -0.5d,
+	dependencies: [
+		"f06b4aab"
+	],
+	tasks: [{
+		uid: "94c30b71",
+		type: "item",
+		items: [{
+			item: "botania:alfheimportal"
+		}]
+	}],
+	rewards: [{
+		uid: "045737b4",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: -2.5d,
+	y: 9.0d,
+	dependencies: [
+		"9c13dc0b"
+	],
+	tasks: [{
+		uid: "47706409",
+		type: "item",
+		items: [{
+			item: "zensummoning:altar"
+		}]
+	}]
+}

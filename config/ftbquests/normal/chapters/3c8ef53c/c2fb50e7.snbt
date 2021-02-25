@@ -1,0 +1,19 @@
+{
+	x: 2.0d,
+	y: 3.0d,
+	dependencies: [
+		"03ecd710"
+	],
+	tasks: [{
+		uid: "b134e775",
+		type: "item",
+		items: [{
+			item: "mekanism:dust 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "dcf04205",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

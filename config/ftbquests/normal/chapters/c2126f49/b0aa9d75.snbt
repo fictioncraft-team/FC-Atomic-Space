@@ -1,0 +1,31 @@
+{
+	x: -3.0d,
+	y: 0.0d,
+	shape: "rsquare",
+	dependencies: [
+		"4109fd23"
+	],
+	tasks: [{
+		uid: "8b39ab02",
+		type: "item",
+		items: [{
+			item: "botania:felpumpkin"
+		}]
+	}],
+	rewards: [{
+		uid: "ff9e9a12",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	},
+	{
+		uid: "c810fdf4",
+		type: "xp",
+		xp: 1
+	},
+	{
+		uid: "9750a6c6",
+		type: "item",
+		item: "minecraft:rotten_flesh",
+		count: 4
+	}]
+}

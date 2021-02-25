@@ -1,0 +1,23 @@
+{
+	title: "{title.carbonalloy.name}",
+	x: -2.5d,
+	y: 4.5d,
+	text: [
+		"{des.carbonalloy}"
+	],
+	dependencies: [
+		"5df6b787"
+	],
+	tasks: [{
+		uid: "d09eaa67",
+		type: "item",
+		items: [{
+			item: "contenttweaker:carbon_alloy"
+		}]
+	}],
+	rewards: [{
+		uid: "dffb030e",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

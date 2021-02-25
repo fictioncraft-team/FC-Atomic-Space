@@ -1,0 +1,22 @@
+{
+	x: 7.5d,
+	y: 4.0d,
+	text: [
+		"{des.crushingtub}"
+	],
+	dependencies: [
+		"a4ec3e3f"
+	],
+	tasks: [{
+		uid: "793f0b39",
+		type: "item",
+		items: [{
+			item: "rustic:crushing_tub"
+		}]
+	}],
+	rewards: [{
+		uid: "8799d718",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

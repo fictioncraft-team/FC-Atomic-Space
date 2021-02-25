@@ -1,0 +1,20 @@
+{
+	x: -3.5d,
+	y: 7.5d,
+	dependencies: [
+		"c39a99fe",
+		"4f17a110"
+	],
+	tasks: [{
+		uid: "86a7b218",
+		type: "item",
+		items: [{
+			item: "contenttweaker:raw_precision_machine_part"
+		}]
+	}],
+	rewards: [{
+		uid: "c9f1b5e6",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

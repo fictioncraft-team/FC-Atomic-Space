@@ -1,0 +1,27 @@
+{
+	x: 9.5d,
+	y: -0.5d,
+	shape: "pentagon",
+	tasks: [{
+		uid: "f6cd225a",
+		type: "item",
+		items: [{
+			item: "openblocks:hang_glider"
+		}]
+	}],
+	rewards: [{
+		uid: "5d2a7aaa",
+		type: "item",
+		item: {
+			id: "minecraft:potion",
+			tag: {
+				Potion: "cyclicmagic:slowfall"
+			}
+		}
+	},
+	{
+		uid: "e5a9ab08",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

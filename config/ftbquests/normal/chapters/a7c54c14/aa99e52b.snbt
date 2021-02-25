@@ -1,0 +1,17 @@
+{
+	x: 1.0d,
+	y: -0.5d,
+	shape: "pentagon",
+	dependencies: [
+		"29b4e271",
+		"421e802d"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "94b4ae7c",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device1 1 3"
+		}]
+	}]
+}

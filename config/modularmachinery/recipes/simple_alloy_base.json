@@ -1,0 +1,25 @@
+{
+    "machine": "steam_machine",
+    "registryName": "simple_alloy_base",
+    "recipeTime": 150,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "contenttweaker:simple_alloy_base",
+            "amount": 1
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "liquified_sulfur",
+            "amount": 140
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "contenttweaker:cutted_silicon",
+            "amount": 1
+        }
+    ]
+}

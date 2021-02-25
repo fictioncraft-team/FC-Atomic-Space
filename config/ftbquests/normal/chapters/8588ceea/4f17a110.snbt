@@ -1,0 +1,48 @@
+{
+	x: -3.5d,
+	y: 4.0d,
+	dependencies: [
+		"89e5b953"
+	],
+	tasks: [{
+		uid: "18d87884",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:assembly_laser"
+		}]
+	},
+	{
+		uid: "a3355df9",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:assembly_io_unit"
+		}],
+		count: 2L
+	},
+	{
+		uid: "49a3d7bb",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:assembly_platform"
+		}]
+	},
+	{
+		uid: "e3e39df1",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:assembly_controller"
+		}]
+	},
+	{
+		uid: "a8b72eaf",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:assembly_program 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "244fce99",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

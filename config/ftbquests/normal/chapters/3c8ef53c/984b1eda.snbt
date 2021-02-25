@@ -1,0 +1,18 @@
+{
+	x: 9.0d,
+	y: -0.5d,
+	shape: "rsquare",
+	dependencies: [
+		"138a3372"
+	],
+	tasks: [{
+		uid: "5d1cdc1b",
+		type: "item",
+		items: [{
+			id: "extrautils2:machine",
+			tag: {
+				Type: "crafttweaker:crystal_grower"
+			}
+		}]
+	}]
+}

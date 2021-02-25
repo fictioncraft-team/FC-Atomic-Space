@@ -1,0 +1,25 @@
+{
+	x: 7.0d,
+	y: 1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"8752b242",
+		"300b3e14"
+	],
+	tasks: [{
+		uid: "d1ce05d9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "enderutilities:handybag"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "bbfd4c46",
+		type: "item",
+		item: "silentgems:teleporter"
+	}]
+}

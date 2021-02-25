@@ -1,0 +1,25 @@
+{
+	title: "{title.fluidpipe.name}",
+	x: 3.0d,
+	y: 4.0d,
+	dependencies: [
+		"3360a1e4"
+	],
+	tasks: [{
+		uid: "06ed334f",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_laser_relay_fluids"
+		}]
+	}],
+	rewards: [{
+		uid: "46057d8c",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "actuallyadditions:item_laser_wrench"
+		}
+	}]
+}

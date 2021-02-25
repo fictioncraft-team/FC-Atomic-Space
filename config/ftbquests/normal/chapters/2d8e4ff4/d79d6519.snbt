@@ -1,0 +1,14 @@
+{
+	title: "{title.automatemethod2.name}",
+	x: -1.0d,
+	y: -6.0d,
+	shape: "rsquare",
+	size: 2.0d,
+	tasks: [{
+		uid: "fd786827",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockchalice"
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 2.0d,
+	y: 1.5d,
+	dependencies: [
+		"03ecd710"
+	],
+	tasks: [{
+		uid: "6d73162b",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 64"
+		}]
+	}],
+	rewards: [{
+		uid: "1aa4699b",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 11.25d,
+	y: -1.875d,
+	shape: "pentagon",
+	dependencies: [
+		"e389cb38",
+		"529dd956"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "67ab4f9f",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:material 1 8"
+		}]
+	}]
+}

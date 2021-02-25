@@ -1,0 +1,31 @@
+{
+	x: 3.0d,
+	y: 4.0d,
+	text: [
+		"{des.cancraftchicken}"
+	],
+	tasks: [{
+		uid: "43482a38",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "contenttweaker:quartzchicken_fix",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "83182fc4",
+		type: "item",
+		item: "minecraft:quartz",
+		count: 16
+	},
+	{
+		uid: "b7119333",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

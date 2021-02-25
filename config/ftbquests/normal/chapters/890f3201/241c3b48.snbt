@@ -1,0 +1,23 @@
+{
+	title: "{title.organic.name}",
+	x: 2.0d,
+	y: 0.5d,
+	dependencies: [
+		"c0df95d0"
+	],
+	tasks: [{
+		uid: "948a8b8a",
+		type: "item",
+		items: [{
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:organic"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "6be2305a",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

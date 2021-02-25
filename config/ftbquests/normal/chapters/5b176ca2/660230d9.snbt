@@ -1,0 +1,31 @@
+{
+	x: 2.0d,
+	y: 3.5d,
+	text: [
+		"{des.dropghoul}"
+	],
+	tasks: [{
+		uid: "0587664c",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "morechickens:soulariumchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "86845c58",
+		type: "item",
+		item: "enderio:item_alloy_ingot 1 7",
+		count: 16
+	},
+	{
+		uid: "cdca698b",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

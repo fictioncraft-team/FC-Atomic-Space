@@ -1,0 +1,34 @@
+{
+	x: -5.5d,
+	y: 2.0d,
+	dependencies: [
+		"0d4ea9a2",
+		"36eb8dd8"
+	],
+	tasks: [{
+		uid: "5bd28a31",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:warpcore"
+		}]
+	},
+	{
+		uid: "6939fbf6",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:warpmonitor"
+		}]
+	},
+	{
+		uid: "107d10f3",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:stationbuilder"
+		}]
+	}],
+	rewards: [{
+		uid: "6cc11e2d",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

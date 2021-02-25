@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: 5.0d,
+	shape: "octagon",
+	dependencies: [
+		"58032120"
+	],
+	tasks: [{
+		uid: "999336b8",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:compressor"
+		}]
+	}]
+}

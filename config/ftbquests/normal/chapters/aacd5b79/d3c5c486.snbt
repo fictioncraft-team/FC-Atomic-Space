@@ -1,0 +1,22 @@
+{
+	x: 0.0d,
+	y: -4.5d,
+	dependencies: [
+		"f8b0c5d6"
+	],
+	tasks: [{
+		uid: "ebce6022",
+		type: "item",
+		items: [{
+			id: "extrautils2:machine",
+			tag: {
+				Type: "crafttweaker:purifier"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "88d0b5dc",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

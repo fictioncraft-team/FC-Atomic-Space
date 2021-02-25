@@ -1,0 +1,21 @@
+{
+	title: "{title.warmquestline.name}",
+	x: 0.0d,
+	y: -1.5d,
+	shape: "rsquare",
+	dependencies: [
+		"6ce4d59a"
+	],
+	tasks: [{
+		uid: "5f4469b9",
+		type: "item",
+		items: [{
+			item: "primal_tech:twine"
+		}]
+	}],
+	rewards: [{
+		uid: "7f31bb07",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

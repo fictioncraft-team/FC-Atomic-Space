@@ -1,0 +1,18 @@
+{
+	x: 1.5d,
+	y: -3.5d,
+	shape: "rsquare",
+	size: 2.0d,
+	tasks: [{
+		uid: "fd3caf58",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_lava_factory_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "cb704af0",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

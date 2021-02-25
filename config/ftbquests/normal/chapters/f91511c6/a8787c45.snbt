@@ -1,0 +1,23 @@
+{
+	title: "{title.hopper.name}",
+	x: 4.0d,
+	y: 4.5d,
+	text: [
+		"{des.hopper}"
+	],
+	dependencies: [
+		"7b9710cf"
+	],
+	tasks: [{
+		uid: "0d37b4ed",
+		type: "item",
+		items: [{
+			item: "minecraft:hopper"
+		}]
+	}],
+	rewards: [{
+		uid: "83fdeb4a",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

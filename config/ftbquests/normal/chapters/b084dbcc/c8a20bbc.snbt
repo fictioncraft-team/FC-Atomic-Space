@@ -1,0 +1,19 @@
+{
+	x: -1.0d,
+	y: 0.0d,
+	dependencies: [
+		"cf9cd0b4"
+	],
+	tasks: [{
+		uid: "398b37c1",
+		type: "item",
+		items: [{
+			item: "embers:blend_caminite"
+		}]
+	}],
+	rewards: [{
+		uid: "768127f9",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

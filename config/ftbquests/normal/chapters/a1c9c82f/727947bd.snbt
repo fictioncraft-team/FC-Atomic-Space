@@ -1,0 +1,46 @@
+{
+	title: "{title.artisan.name}",
+	icon: "artisanworktables:worktable 1 5",
+	x: 3.0d,
+	y: 4.0d,
+	text: [
+		"{des.artisan}"
+	],
+	dependencies: [
+		"f66d4630"
+	],
+	tasks: [{
+		uid: "0d8728b3",
+		type: "item",
+		items: [{
+			item: "artisanworktables:worktable 1 5"
+		}],
+		consume_items: false
+	},
+	{
+		uid: "38575ed4",
+		type: "item",
+		items: [{
+			item: "artisanworktables:worktable 1 2"
+		}],
+		consume_items: false
+	},
+	{
+		uid: "64841b29",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "artisanworktables:artisans_chisel_wood"
+		}],
+		consume_items: false,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1ae4e44b",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

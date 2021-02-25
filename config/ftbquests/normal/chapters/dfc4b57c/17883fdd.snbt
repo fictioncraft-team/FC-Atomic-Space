@@ -1,0 +1,16 @@
+{
+	x: -3.0d,
+	y: 12.0d,
+	dependencies: [
+		"483dba6c",
+		"599ed4f8"
+	],
+	hide: true,
+	tasks: [{
+		uid: "0233f391",
+		type: "item",
+		items: [{
+			item: "mekanism:clump 1 5"
+		}]
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 8.625d,
+	y: -1.5d,
+	shape: "diamond",
+	dependencies: [
+		"300b3e14"
+	],
+	size: 0.75d,
+	tasks: [{
+		uid: "71676084",
+		type: "item",
+		items: [{
+			item: "improvedbackpacks:upgrade 1 3"
+		}]
+	}]
+}

@@ -1,0 +1,18 @@
+{
+    "machine": "steam_turbine",
+    "registryName": "steampower",
+    "recipeTime": 350,
+    "requirements": [
+        {
+            "type": "fluid",
+            "io-type": "input",	
+            "fluid": "steam",
+            "amount": 500
+        },
+        {
+            "type": "energy",
+            "io-type": "output",
+            "energyPerTick": 600
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "machine": "assembly_mk2",
+    "registryName": "steel_casing",
+    "recipeTime": 300,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "mekanism:basicblock@8",
+            "amount": 3
+        },
+		{
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 500
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "thermalfoundation:material@160",
+            "amount": 5
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "contenttweaker:compact_metal_gear",
+            "amount": 1
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "contenttweaker:simple_machine_core",
+            "amount": 1
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "mekanism:ingot@1",
+            "amount": 2
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "mekanism:controlcircuit@1",
+            "amount": 2
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "contenttweaker:thermal_paste",
+            "amount": 1
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+	x: 3.5d,
+	y: 0.5d,
+	dependencies: [
+		"241c3b48"
+	],
+	optional: true,
+	tasks: [{
+		uid: "074cd454",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: [],
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:flowerbag"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "29027340",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "{title.lich.name}",
+	icon: "twilightforest:miniature_structure 1 6",
+	x: 2.0d,
+	y: 1.5d,
+	dependencies: [
+		"3b07d9b2"
+	],
+	tasks: [{
+		uid: "50faa434",
+		type: "kill",
+		entity: "twilightforest:lich",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "c6199664",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

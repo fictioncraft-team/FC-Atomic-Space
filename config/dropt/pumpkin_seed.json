@@ -1,0 +1,28 @@
+{
+  "rules": [
+    {
+      "match": {
+        "blocks": {
+          "blocks": [
+            "minecraft:tallgrass:1"
+          ]
+        }
+      },
+      "replaceStrategy": "ADD",
+      "drops": [
+        {
+          "selector": {
+            "weight": {
+              "value": 15
+            }
+          },
+          "item": {
+            "items" : [
+              "minecraft:pumpkin_seeds"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

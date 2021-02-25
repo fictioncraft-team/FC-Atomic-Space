@@ -1,0 +1,31 @@
+{
+	title: "{title.emberhammer.name}",
+	x: -5.0d,
+	y: 3.5d,
+	dependencies: [
+		"fffd9346"
+	],
+	tasks: [{
+		uid: "db177c09",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:tinker_hammer",
+			tag: {
+				targetZ: 170,
+				targetY: 17,
+				targetX: 352,
+				targetWorld: 4
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9aca0e5e",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

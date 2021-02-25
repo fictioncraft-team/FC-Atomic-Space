@@ -1,0 +1,18 @@
+{
+	x: 4.0d,
+	y: 3.0d,
+	shape: "gear",
+	size: 1.5d,
+	tasks: [{
+		uid: "4890bb53",
+		type: "item",
+		items: [{
+			item: "rftools:powercell_creative"
+		}]
+	}],
+	rewards: [{
+		uid: "0acc685c",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

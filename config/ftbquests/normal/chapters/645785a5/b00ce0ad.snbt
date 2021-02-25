@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 3.125d,
+	shape: "rsquare",
+	dependencies: [
+		"3ccc611d"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "74a85413",
+		type: "item",
+		items: [{
+			item: "environmentaltech:void_ore_miner_cont_3"
+		}]
+	}]
+}

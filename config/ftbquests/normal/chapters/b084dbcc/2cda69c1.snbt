@@ -1,0 +1,16 @@
+{
+	title: "{title.chapter4.name}",
+	icon: "enderio:item_material 1 42",
+	x: 0.0d,
+	y: 4.0d,
+	shape: "gear",
+	dependencies: [
+		"6e6fd853",
+		"8640c6ab"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "8a01c4cf",
+		type: "checkmark"
+	}]
+}

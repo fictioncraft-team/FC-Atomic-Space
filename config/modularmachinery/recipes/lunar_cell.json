@@ -1,0 +1,48 @@
+{
+    "machine": "assembly",
+    "registryName": "lunar_cell",
+    "recipeTime": 120,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "etlunar:lunar_cell_mica",
+            "amount": 2
+        },
+		{
+			"type": "fluid",
+			"io-type": "input",
+			"fluid": "astralsorcery.liquidstarlight",
+			"amount": 250
+		},
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "environmentaltech:mica",
+            "amount": 6
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "etlunar:lunarvoltaic_cell",
+            "amount": 3
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "environmentaltech:kyronite_crystal",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "environmentaltech:interconnect",
+            "amount": 1
+        },
+		{
+            "type": "energy",
+            "io-type": "input",
+			"energyPerTick": 512
+        }
+    ]
+}

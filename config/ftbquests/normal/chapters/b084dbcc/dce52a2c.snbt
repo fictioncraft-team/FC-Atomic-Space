@@ -1,0 +1,23 @@
+{
+	title: "{title.generateember.name}",
+	x: -2.5d,
+	y: 3.5d,
+	text: [
+		"{des.generateember}"
+	],
+	dependencies: [
+		"ca8113ad"
+	],
+	tasks: [{
+		uid: "e5443df4",
+		type: "item",
+		items: [{
+			item: "embers:ember_activator"
+		}]
+	}],
+	rewards: [{
+		uid: "2316207d",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

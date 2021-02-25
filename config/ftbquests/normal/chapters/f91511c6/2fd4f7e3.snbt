@@ -1,0 +1,40 @@
+{
+	title: "{title.waterwheel.name}",
+	x: 1.5d,
+	y: 4.5d,
+	text: [
+		"{des.waterwheel}"
+	],
+	dependencies: [
+		"78c2632b"
+	],
+	tasks: [{
+		uid: "56a36723",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wooden_device1"
+		}]
+	},
+	{
+		uid: "23b64daa",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device1 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "394c868d",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	},
+	{
+		uid: "c2aecd71",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "immersivepetroleum:schematic"
+		}
+	}]
+}

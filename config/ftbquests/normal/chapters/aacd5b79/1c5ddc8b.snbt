@@ -1,0 +1,23 @@
+{
+	title: "{title.assemblymk2.name}",
+	x: -4.0d,
+	y: -8.0d,
+	dependencies: [
+		"3a0c9dd8"
+	],
+	tasks: [{
+		uid: "c93449cf",
+		type: "item",
+		items: [{
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:assembly_mk2"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "bf641f3b",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

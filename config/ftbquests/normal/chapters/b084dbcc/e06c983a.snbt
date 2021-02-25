@@ -1,0 +1,35 @@
+{
+	title: "{title.emberbore.name}",
+	x: -2.0d,
+	y: 1.5d,
+	text: [
+		"{des.emberbore}",
+		"",
+		"{des.emberboretip}"
+	],
+	dependencies: [
+		"fffd9346"
+	],
+	tasks: [{
+		uid: "f589069c",
+		type: "item",
+		items: [{
+			item: "embers:ember_bore"
+		}]
+	}],
+	rewards: [{
+		uid: "87a4d3b8",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	},
+	{
+		uid: "2e329d44",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:codex"
+		}
+	}]
+}

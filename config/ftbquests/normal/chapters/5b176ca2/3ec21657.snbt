@@ -1,0 +1,31 @@
+{
+	x: 1.0d,
+	y: 2.0d,
+	text: [
+		"{des.cancraftchicken}"
+	],
+	tasks: [{
+		uid: "9d82c052",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "morechickens:conductiveironchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "f705e28d",
+		type: "item",
+		item: "enderio:item_alloy_ingot 1 4",
+		count: 16
+	},
+	{
+		uid: "7f24b4ae",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

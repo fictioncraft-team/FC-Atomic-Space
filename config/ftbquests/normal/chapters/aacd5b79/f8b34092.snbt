@@ -1,0 +1,21 @@
+{
+	title: "{title.compactprojector.name}",
+	x: -1.5d,
+	y: -6.0d,
+	dependencies: [
+		"1b1232b5"
+	],
+	tasks: [{
+		uid: "b80af942",
+		type: "item",
+		items: [{
+			item: "compactmachines3:fieldprojector"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "9bec7286",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

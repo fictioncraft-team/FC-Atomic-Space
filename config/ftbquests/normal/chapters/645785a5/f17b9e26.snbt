@@ -1,0 +1,25 @@
+{
+	x: 6.0d,
+	y: 1.5d,
+	shape: "gear",
+	size: 1.5d,
+	tasks: [{
+		uid: "a3b51bf9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:machineblock2",
+			tag: {
+				tier: 4
+			},
+			Damage: 11s
+		}]
+	}],
+	rewards: [{
+		uid: "e2d8bba2",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

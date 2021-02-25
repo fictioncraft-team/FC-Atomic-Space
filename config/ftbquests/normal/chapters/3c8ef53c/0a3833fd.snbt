@@ -1,0 +1,19 @@
+{
+	x: 0.5d,
+	y: 3.0d,
+	dependencies: [
+		"03ecd710"
+	],
+	tasks: [{
+		uid: "abc4340c",
+		type: "item",
+		items: [{
+			item: "libvulpes:productdust"
+		}]
+	}],
+	rewards: [{
+		uid: "09022e55",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

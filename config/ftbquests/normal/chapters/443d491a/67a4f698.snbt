@@ -1,0 +1,29 @@
+{
+	title: "{title.infusiondrac.name}",
+	x: -4.0d,
+	y: 5.0d,
+	dependencies: [
+		"06ee1078"
+	],
+	tasks: [{
+		uid: "a37a4e27",
+		type: "item",
+		items: [{
+			item: "draconicevolution:crafting_injector"
+		}],
+		count: 9L,
+		ignore_damage: true
+	},
+	{
+		uid: "c3d61bdf",
+		type: "item",
+		items: [{
+			item: "draconicevolution:fusion_crafting_core"
+		}]
+	}],
+	rewards: [{
+		uid: "33898551",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

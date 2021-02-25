@@ -1,0 +1,24 @@
+{
+	title: "{title.alloykiln.name}",
+	x: -1.0d,
+	y: 2.5d,
+	text: [
+		"{des.kilnbrick}"
+	],
+	dependencies: [
+		"59ce759b"
+	],
+	tasks: [{
+		uid: "05bd85aa",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration 1 10"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "4b2a6d58",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,28 @@
+{
+	x: 1.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "eedf4efb",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "contenttweaker:coalchicken_fix",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "f979b6be",
+		type: "item",
+		item: "minecraft:coal",
+		count: 16
+	},
+	{
+		uid: "380fba79",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,39 @@
+{
+	x: -5.0d,
+	y: 0.5d,
+	shape: "hexagon",
+	dependencies: [
+		"78e82ccd"
+	],
+	optional: true,
+	tasks: [{
+		uid: "e286e5a0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "randomthings:timeinabottle",
+			tag: {
+				timeData: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3a75ee55",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	},
+	{
+		uid: "732e4260",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "randomthings:summoningpendulum"
+		}
+	}]
+}

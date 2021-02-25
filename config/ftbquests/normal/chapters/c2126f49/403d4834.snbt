@@ -1,0 +1,32 @@
+{
+	title: "{title.torchquestline.name}",
+	x: -1.5d,
+	y: 1.5d,
+	shape: "rsquare",
+	dependencies: [
+		"6ce4d59a"
+	],
+	tasks: [{
+		uid: "f6c76242",
+		type: "item",
+		items: [{
+			item: "primal_tech:fibre_torch"
+		}]
+	}],
+	rewards: [{
+		uid: "159a3627",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	},
+	{
+		uid: "64e2bb55",
+		type: "xp",
+		xp: 1
+	},
+	{
+		uid: "1e7c6dc7",
+		type: "item",
+		item: "primal_tech:fibre_torch",
+		count: 16
+	}]
+}

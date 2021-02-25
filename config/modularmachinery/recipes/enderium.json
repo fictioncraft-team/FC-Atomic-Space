@@ -1,0 +1,25 @@
+{
+    "machine": "steam_machine",
+    "registryName": "enderium",
+    "recipeTime": 120,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "thermaldynamics:duct_0@4",
+            "amount": 1
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "ender",
+            "amount": 100
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "thermaldynamics:duct_0@8",
+            "amount": 1
+        }
+    ]
+}

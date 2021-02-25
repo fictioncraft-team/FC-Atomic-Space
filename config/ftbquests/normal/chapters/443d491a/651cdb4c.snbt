@@ -1,0 +1,21 @@
+{
+	title: "{title.overworldhome.name}",
+	icon: "minecraft:grass",
+	x: -7.0d,
+	y: 2.0d,
+	shape: "gear",
+	dependencies: [
+		"fb0c26e8"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "841ae0f7",
+		type: "dimension",
+		dim: 0
+	}],
+	rewards: [{
+		uid: "28d6e7b8",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

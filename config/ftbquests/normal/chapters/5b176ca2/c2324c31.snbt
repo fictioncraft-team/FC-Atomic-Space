@@ -1,0 +1,27 @@
+{
+	title: "{title.chickeninfo.name}",
+	icon: {
+		id: "roost:chicken",
+		tag: {
+			Chicken: "minecraft:chicken"
+		}
+	},
+	x: 0.0d,
+	y: -3.0d,
+	shape: "rsquare",
+	text: [
+		"{des.chickenlore}",
+		"",
+		"{des.chickeninfo}"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "44ab9eae",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "0eb7b35b",
+		type: "xp_levels",
+		xp_levels: 2
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	title: "{title.metalpress.name}",
+	icon: "immersiveengineering:metal_multiblock",
+	x: 7.5d,
+	y: 3.0d,
+	text: [
+		"{des.metalpress}"
+	],
+	dependencies: [
+		"b6090a61"
+	],
+	tasks: [{
+		uid: "d28966c3",
+		type: "observation",
+		icon: "immersiveengineering:metal_multiblock",
+		match_type: "block_entity_id",
+		match: "immersiveengineering:metalpress",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "e1a6e957",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

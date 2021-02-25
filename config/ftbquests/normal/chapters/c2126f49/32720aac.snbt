@@ -1,0 +1,16 @@
+{
+	x: 7.5d,
+	y: -4.5d,
+	tasks: [{
+		uid: "ab421c38",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:atomicdisassembler"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

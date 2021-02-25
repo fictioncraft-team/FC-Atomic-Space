@@ -1,0 +1,34 @@
+{
+	x: 4.5d,
+	y: 0.5d,
+	text: [
+		"{des.claykiln}"
+	],
+	dependencies: [
+		"6ed6a59e"
+	],
+	tasks: [{
+		uid: "16003bb4",
+		type: "item",
+		items: [{
+			item: "primal_tech:clay_kiln"
+		}],
+		consume_items: false
+	}],
+	rewards: [{
+		uid: "5b6c6528",
+		type: "item",
+		item: "nuclearcraft:radaway"
+	},
+	{
+		uid: "62bc70fb",
+		type: "item",
+		item: "harvestcraft:gingerbreaditem",
+		count: 2
+	},
+	{
+		uid: "787146d0",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

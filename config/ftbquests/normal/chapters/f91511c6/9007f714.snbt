@@ -1,0 +1,31 @@
+{
+	title: "{title.treatedwood.name}",
+	icon: "immersiveengineering:treated_wood",
+	x: 0.5d,
+	y: 2.0d,
+	text: [
+		"{des.treatedwood}"
+	],
+	dependencies: [
+		"59ce759b"
+	],
+	tasks: [{
+		uid: "dcd1b811",
+		type: "item",
+		title: "Any plankTreatedWood",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "plankTreatedWood",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}],
+	rewards: [{
+		uid: "2a5be330",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

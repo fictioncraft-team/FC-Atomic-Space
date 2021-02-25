@@ -1,0 +1,8 @@
+[
+	{
+    	"dimension": 1101,
+    	"mob": "minecraft:wither_skeleton",
+    	"block": "chisel:ice1@9",
+    	"random": 0.1
+	}
+]

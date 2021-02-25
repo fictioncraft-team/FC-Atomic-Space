@@ -1,0 +1,19 @@
+{
+	x: -1.5d,
+	y: -10.5d,
+	dependencies: [
+		"a5969394"
+	],
+	tasks: [{
+		uid: "5d46feef",
+		type: "item",
+		items: [{
+			item: "contenttweaker:compact_metal_ingot"
+		}]
+	}],
+	rewards: [{
+		uid: "882635eb",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

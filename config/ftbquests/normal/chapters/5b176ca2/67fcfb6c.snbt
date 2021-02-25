@@ -1,0 +1,12 @@
+{
+	x: 1.5d,
+	y: -3.0d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "08bdc314",
+		type: "item",
+		items: [{
+			item: "roost:collector"
+		}]
+	}]
+}

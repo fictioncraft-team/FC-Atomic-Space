@@ -1,0 +1,21 @@
+{
+	x: -5.5d,
+	y: 4.5d,
+	shape: "hexagon",
+	dependencies: [
+		"7c2a53ff"
+	],
+	optional: true,
+	tasks: [{
+		uid: "49b8a323",
+		type: "item",
+		items: [{
+			item: "minecraft:lever"
+		}]
+	}],
+	rewards: [{
+		uid: "f8bb0815",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

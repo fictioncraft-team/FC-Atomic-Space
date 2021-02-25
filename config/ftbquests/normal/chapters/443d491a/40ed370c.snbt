@@ -1,0 +1,20 @@
+{
+	x: -1.0d,
+	y: 6.5d,
+	dependencies: [
+		"19ba136e",
+		"4e5a197b"
+	],
+	tasks: [{
+		uid: "b4161647",
+		type: "item",
+		items: [{
+			item: "minecraft:dragon_egg"
+		}]
+	}],
+	rewards: [{
+		uid: "fc31fb3a",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

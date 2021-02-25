@@ -1,0 +1,19 @@
+{
+	x: -4.5d,
+	y: -6.0d,
+	dependencies: [
+		"dccbd482"
+	],
+	tasks: [{
+		uid: "b5e83272",
+		type: "item",
+		items: [{
+			item: "enderio:item_material 1 12"
+		}]
+	}],
+	rewards: [{
+		uid: "e00e5030",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	title: "{title.cobblegen.name}",
+	x: -3.0d,
+	y: -4.5d,
+	tasks: [{
+		uid: "9243abf0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "purified_water",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "6d7ceb06",
+		type: "item",
+		items: [{
+			item: "minecraft:lava_bucket"
+		}]
+	}]
+}

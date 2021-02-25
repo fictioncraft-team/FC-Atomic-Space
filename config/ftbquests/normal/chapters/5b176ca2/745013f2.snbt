@@ -1,0 +1,30 @@
+{
+	x: 0.0d,
+	y: 2.5d,
+	text: [
+		"{des.cancraftchicken}"
+	],
+	tasks: [{
+		uid: "e908a69d",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "contenttweaker:chaos_chicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "b3320228",
+		type: "item",
+		item: "draconicevolution:chaos_shard"
+	},
+	{
+		uid: "dad13f29",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

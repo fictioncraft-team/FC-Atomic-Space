@@ -1,0 +1,17 @@
+{
+	title: "{title.chapter5.name}",
+	icon: "botania:manaresource 1 2",
+	x: -1.5d,
+	y: -12.0d,
+	shape: "gear",
+	dependencies: [
+		"ce66cd6b",
+		"176b844d",
+		"7d433ddc"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "8153d1cb",
+		type: "checkmark"
+	}]
+}

@@ -1,0 +1,51 @@
+{
+	x: 14.0d,
+	y: -3.0d,
+	shape: "octagon",
+	dependencies: [
+		"c95ceff8"
+	],
+	tasks: [{
+		uid: "1ee728fe",
+		type: "item",
+		items: [{
+			item: "yabba:item_barrel_connector"
+		}]
+	}],
+	rewards: [{
+		uid: "bda2e0a2",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "yabba:wrench"
+		}
+	},
+	{
+		uid: "2ce37adf",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "yabba:hammer"
+		}
+	},
+	{
+		uid: "af513586",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "yabba:painter"
+		}
+	},
+	{
+		uid: "cea00396",
+		type: "item",
+		item: "translocators:translocator_part",
+		count: 2
+	}]
+}

@@ -1,0 +1,70 @@
+{
+	title: "{title.preparerocket.name}",
+	x: 2.5d,
+	y: 1.0d,
+	dependencies: [
+		"db64d795"
+	],
+	tasks: [{
+		uid: "0ccef542",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:cuttingmachine"
+		}]
+	},
+	{
+		uid: "fbb33a63",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:precisionassemblingmachine"
+		}]
+	},
+	{
+		uid: "74823a21",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:electrolyser"
+		}]
+	},
+	{
+		uid: "41462198",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:rollingmachine"
+		}]
+	},
+	{
+		uid: "d36f23a0",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:chemicalreactor"
+		}]
+	},
+	{
+		uid: "c819091b",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:launchpad"
+		}],
+		count: 9L
+	},
+	{
+		uid: "d5569b1e",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:structuretower"
+		}]
+	},
+	{
+		uid: "f1fff29e",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:rocketbuilder"
+		}]
+	}],
+	rewards: [{
+		uid: "894a3ab6",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	x: -2.0d,
+	y: 2.0d,
+	shape: "rsquare",
+	dependencies: [
+		"06d6901c"
+	],
+	tasks: [{
+		uid: "e0bff10c",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:productingot 1 1"
+		}]
+	},
+	{
+		uid: "1f5e8319",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:productingot"
+		}]
+	}],
+	rewards: [{
+		uid: "b6af3715",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

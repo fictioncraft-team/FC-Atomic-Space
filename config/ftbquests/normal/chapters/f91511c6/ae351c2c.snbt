@@ -1,0 +1,14 @@
+{
+	x: 0.5d,
+	y: -0.5d,
+	dependencies: [
+		"599ed4f8"
+	],
+	tasks: [{
+		uid: "3303aec5",
+		type: "item",
+		items: [{
+			item: "survivalism:barrel_soaking 1 1"
+		}]
+	}]
+}

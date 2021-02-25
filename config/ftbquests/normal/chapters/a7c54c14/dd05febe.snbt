@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: -6.0d,
+	shape: "diamond",
+	dependencies: [
+		"554b1875"
+	],
+	tasks: [{
+		uid: "50bafabe",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wirecoil 1 7"
+		}]
+	}]
+}

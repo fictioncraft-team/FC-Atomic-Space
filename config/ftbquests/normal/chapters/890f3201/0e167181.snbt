@@ -1,0 +1,29 @@
+{
+	title: "{title.ethanol.name}",
+	x: 2.0d,
+	y: 2.0d,
+	dependencies: [
+		"241c3b48"
+	],
+	tasks: [{
+		uid: "8490b9bd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "ethanol",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "68285b37",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,31 @@
+{
+	x: 1.0d,
+	y: 4.0d,
+	text: [
+		"{des.dropghoul}"
+	],
+	tasks: [{
+		uid: "8cee5b91",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "morechickens:iridiumchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "1300bfbb",
+		type: "item",
+		item: "thermalfoundation:material 1 135",
+		count: 16
+	},
+	{
+		uid: "c7d697fb",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

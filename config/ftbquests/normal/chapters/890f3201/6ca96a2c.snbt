@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	dependencies: [
+		"ca91f69d"
+	],
+	tasks: [{
+		uid: "f4e2f93d",
+		type: "item",
+		items: [{
+			item: "environmentaltech:erodium_crystal"
+		}]
+	}],
+	rewards: [{
+		uid: "cea2888d",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 1.5d,
+	y: 2.5d,
+	dependencies: [
+		"9d9afc49"
+	],
+	tasks: [{
+		uid: "f70dd3d0",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:ingot 1 6"
+		}]
+	}],
+	rewards: [{
+		uid: "e3e43e72",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

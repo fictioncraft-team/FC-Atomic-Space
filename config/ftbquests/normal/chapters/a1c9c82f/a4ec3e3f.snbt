@@ -1,0 +1,22 @@
+{
+	x: 7.5d,
+	y: 5.5d,
+	text: [
+		"{des.ironberry}"
+	],
+	dependencies: [
+		"75997185"
+	],
+	tasks: [{
+		uid: "5efb3290",
+		type: "item",
+		items: [{
+			item: "rustic:ironberries"
+		}]
+	}],
+	rewards: [{
+		uid: "d4a9dd8a",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

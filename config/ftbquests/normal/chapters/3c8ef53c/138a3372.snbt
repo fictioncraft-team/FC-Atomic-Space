@@ -1,0 +1,15 @@
+{
+	x: 7.0d,
+	y: -0.5d,
+	shape: "hexagon",
+	dependencies: [
+		"3c2debb2"
+	],
+	tasks: [{
+		uid: "958018ff",
+		type: "item",
+		items: [{
+			item: "contenttweaker:crystal_heart"
+		}]
+	}]
+}

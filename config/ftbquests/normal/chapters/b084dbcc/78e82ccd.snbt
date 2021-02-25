@@ -1,0 +1,33 @@
+{
+	x: -5.0d,
+	y: 2.0d,
+	text: [
+		"{des.steamiumprocessor}"
+	],
+	dependencies: [
+		"334e2ece"
+	],
+	tasks: [{
+		uid: "81d276d9",
+		type: "item",
+		items: [{
+			item: "contenttweaker:steamium_processor"
+		}]
+	}],
+	rewards: [{
+		uid: "f5f8bf21",
+		type: "item",
+		item: "nuclearcraft:radaway"
+	},
+	{
+		uid: "7eafd583",
+		type: "item",
+		item: "harvestcraft:blackberryyogurtitem",
+		count: 2
+	},
+	{
+		uid: "e818d368",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

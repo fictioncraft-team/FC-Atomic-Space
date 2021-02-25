@@ -1,0 +1,68 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "1002",
+  "items": [
+    {
+      "weight": 33.60672378540039,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "libvulpes:productingot",
+        "damage": 7,
+        "count": 1
+      }
+    },
+    {
+      "weight": 4.6146769523620605,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "roost:chicken",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Growth": {
+              "nbtType": "int",
+              "nbt": 1
+            },
+            "Chicken": {
+              "nbtType": "string",
+              "nbt": "morechickens:titaniumchicken"
+            },
+            "Gain": {
+              "nbtType": "int",
+              "nbt": 1
+            },
+            "Strength": {
+              "nbtType": "int",
+              "nbt": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 10.897062301635742,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "enderutilities:syringe",
+        "damage": 1,
+        "count": 1
+      }
+    },
+    {
+      "weight": 63.148109436035156,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "enderutilities:syringe",
+        "damage": 0,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

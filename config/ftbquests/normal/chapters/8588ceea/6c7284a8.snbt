@@ -1,0 +1,26 @@
+{
+	x: -1.5d,
+	y: -0.5d,
+	dependencies: [
+		"f06b4aab"
+	],
+	tasks: [{
+		uid: "842799ea",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:air_compressor"
+		}]
+	},
+	{
+		uid: "f9393d1c",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:pressure_tube"
+		}]
+	}],
+	rewards: [{
+		uid: "b7fd030e",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 5.5d,
+	y: -4.5d,
+	dependencies: [
+		"5bcc7a2b"
+	],
+	tasks: [{
+		uid: "8b290b33",
+		type: "item",
+		items: [{
+			id: "silentgems:chaosrune",
+			tag: {
+				chaos_buff: "silentgems:flight"
+			}
+		}]
+	}]
+}

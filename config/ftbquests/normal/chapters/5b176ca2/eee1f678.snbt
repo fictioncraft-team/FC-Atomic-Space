@@ -1,0 +1,31 @@
+{
+	x: 1.0d,
+	y: 1.0d,
+	text: [
+		"{des.compactchicken}"
+	],
+	tasks: [{
+		uid: "9713ea9a",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "contenttweaker:compactmetal_chicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "b802e32f",
+		type: "item",
+		item: "contenttweaker:compact_metal_ingot",
+		count: 16
+	},
+	{
+		uid: "9e6435fc",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

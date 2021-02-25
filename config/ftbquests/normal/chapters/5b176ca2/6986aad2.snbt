@@ -1,0 +1,31 @@
+{
+	x: -2.0d,
+	y: -1.5d,
+	text: [
+		"{des.titaniumchicken}"
+	],
+	tasks: [{
+		uid: "aecee41b",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "morechickens:titaniumchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "6b653afc",
+		type: "item",
+		item: "libvulpes:productingot 1 7",
+		count: 16
+	},
+	{
+		uid: "a2685e02",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

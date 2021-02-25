@@ -1,0 +1,21 @@
+{
+	x: -5.5d,
+	y: 5.5d,
+	shape: "hexagon",
+	dependencies: [
+		"7c2a53ff"
+	],
+	optional: true,
+	tasks: [{
+		uid: "5a73864e",
+		type: "item",
+		items: [{
+			item: "embers:caminite_lever"
+		}]
+	}],
+	rewards: [{
+		uid: "0dcd1b23",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

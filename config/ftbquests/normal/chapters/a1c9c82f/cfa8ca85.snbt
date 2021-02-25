@@ -1,0 +1,27 @@
+{
+	x: 6.0d,
+	y: 7.0d,
+	shape: "hexagon",
+	hide_dependency_lines: true,
+	dependencies: [
+		"24dab6f8"
+	],
+	optional: true,
+	tasks: [{
+		uid: "594babfb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "waterstrainer:strainer_survivalist_dense"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "641b2f0c",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

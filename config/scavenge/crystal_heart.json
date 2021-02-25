@@ -1,0 +1,40 @@
+{
+    "block_pools": [
+		{
+            "name": "CrystalHeart",
+            "type": {
+                "type": "block",
+                "name": "minecraft:obsidian"
+            },
+            "clicktype": "leftclick",
+            "properties": [
+                {
+                    "type": "swing_hand"
+                },
+                {
+                    "type": "require_item_list",
+					"items": [
+						{"name": "contenttweaker:dense_crystal_rad"}
+					]
+
+                },
+                {
+					"type": "consume_item",
+					"amount": "1",
+					"chance": "100"
+				},
+                {
+                    "type": "play_sound",
+                    "name": "entity.wither.spawn"
+                }
+            ],
+            "drops": [
+                {
+                    "name": "contenttweaker:crystal_heart",
+                    "amount": "1",
+                    "chance": "100"
+                }
+            ]
+        }
+    ]
+}

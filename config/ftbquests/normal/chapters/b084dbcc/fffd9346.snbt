@@ -1,0 +1,23 @@
+{
+	title: "{title.mechcore.name}",
+	x: -3.5d,
+	y: 2.5d,
+	text: [
+		"{des.mechcore}"
+	],
+	dependencies: [
+		"78e82ccd"
+	],
+	tasks: [{
+		uid: "74ca7afc",
+		type: "item",
+		items: [{
+			item: "embers:mech_core"
+		}]
+	}],
+	rewards: [{
+		uid: "97f389e3",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,25 @@
+{
+    "machine": "steam_machine",
+    "registryName": "sunflower",
+    "recipeTime": 100,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:double_plant",
+            "amount": 1
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "glowstone",
+            "amount": 200
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:yellow_flower",
+            "amount": 1
+        }
+    ]
+}

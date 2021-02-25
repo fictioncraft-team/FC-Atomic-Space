@@ -1,0 +1,31 @@
+{
+	x: 3.0d,
+	y: -1.5d,
+	shape: "rsquare",
+	dependencies: [
+		"1e262f45"
+	],
+	tasks: [{
+		uid: "e7e342fe",
+		type: "item",
+		items: [{
+			item: "harvestcraft:energydrinkitem"
+		}]
+	}],
+	rewards: [{
+		uid: "8e37f157",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	},
+	{
+		uid: "435753e3",
+		type: "xp_levels",
+		xp_levels: 2
+	},
+	{
+		uid: "9d79cb95",
+		type: "item",
+		item: "harvestcraft:seedenergygelitem",
+		count: 4
+	}]
+}

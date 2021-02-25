@@ -1,0 +1,21 @@
+{
+	x: 13.0d,
+	y: 3.5d,
+	shape: "diamond",
+	dependencies: [
+		"d2d2693b"
+	],
+	tasks: [{
+		uid: "96e8e43f",
+		type: "item",
+		items: [{
+			item: "minecraft:bread"
+		}]
+	}],
+	rewards: [{
+		uid: "19d5fb05",
+		type: "item",
+		item: "minecraft:bread",
+		count: 4
+	}]
+}

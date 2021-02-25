@@ -1,0 +1,17 @@
+{
+	x: 1.0d,
+	y: -1.5d,
+	shape: "square",
+	tasks: [{
+		uid: "9edd21d1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "simplyacceleration:linking_tool"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

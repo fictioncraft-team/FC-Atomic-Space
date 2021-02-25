@@ -1,0 +1,19 @@
+{
+	x: -5.0d,
+	y: 5.5d,
+	dependencies: [
+		"fd8774c7"
+	],
+	tasks: [{
+		uid: "24e2b5fe",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:rock_crusher"
+		}]
+	}],
+	rewards: [{
+		uid: "f56fd40f",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

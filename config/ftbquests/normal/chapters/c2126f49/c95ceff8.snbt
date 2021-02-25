@@ -1,0 +1,23 @@
+{
+	x: 11.5d,
+	y: -2.5d,
+	shape: "square",
+	tasks: [{
+		uid: "bdbb7cc2",
+		type: "item",
+		items: [{
+			item: "yabba:item_barrel"
+		}]
+	}],
+	rewards: [{
+		uid: "87a746f1",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	},
+	{
+		uid: "164bb4ee",
+		type: "item",
+		item: "yabba:item_barrel",
+		count: 3
+	}]
+}

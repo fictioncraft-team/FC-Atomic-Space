@@ -1,0 +1,18 @@
+{
+    "machine": "managenerator",
+    "registryName": "mana_oil",
+    "recipeTime": 100,
+    "requirements": [
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "oil",
+            "amount": 1000
+        },
+        {
+            "type": "mana",
+            "io-type": "output",
+            "mana": 2500
+        }
+    ]
+}

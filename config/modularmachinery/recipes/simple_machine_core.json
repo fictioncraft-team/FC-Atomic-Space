@@ -1,0 +1,48 @@
+{
+    "machine": "assembly",
+    "registryName": "simple_machine_core",
+    "recipeTime": 600,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "contenttweaker:simple_machine_core",
+            "amount": 3
+        },
+		{
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 10
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "mekanism:controlcircuit",
+            "amount": 2
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "lubricant",
+            "amount": 200
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "mekanism:enrichedalloy",
+            "amount": 3
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "appliedenergistics2:material@43",
+            "amount": 1
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "embers:wildfire_core",
+            "amount": 1
+        }
+    ]
+}

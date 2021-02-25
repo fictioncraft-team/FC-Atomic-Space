@@ -1,0 +1,18 @@
+{
+	x: 8.0d,
+	y: 1.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"b4897351",
+		"1f2e1889"
+	],
+	dependency_requirement: "one_completed",
+	size: 0.75d,
+	tasks: [{
+		uid: "15abc5c6",
+		type: "item",
+		items: [{
+			item: "advgenerators:turbine_iron"
+		}]
+	}]
+}

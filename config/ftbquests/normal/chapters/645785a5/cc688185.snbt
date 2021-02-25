@@ -1,0 +1,18 @@
+{
+	x: 2.0d,
+	y: 0.0d,
+	shape: "gear",
+	size: 1.5d,
+	tasks: [{
+		uid: "4920b27b",
+		type: "item",
+		items: [{
+			item: "contenttweaker:meme3"
+		}]
+	}],
+	rewards: [{
+		uid: "580d1827",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

@@ -1,0 +1,31 @@
+{
+	x: -3.0d,
+	y: 3.0d,
+	shape: "rsquare",
+	dependencies: [
+		"9a4c0a19"
+	],
+	tasks: [{
+		uid: "0f6e84c5",
+		type: "item",
+		items: [{
+			item: "minecraft:torch"
+		}]
+	}],
+	rewards: [{
+		uid: "0b605106",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	},
+	{
+		uid: "441a954e",
+		type: "xp",
+		xp: 1
+	},
+	{
+		uid: "1830b759",
+		type: "item",
+		item: "minecraft:torch",
+		count: 16
+	}]
+}

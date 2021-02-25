@@ -1,0 +1,27 @@
+{
+	x: 2.0d,
+	y: 3.0d,
+	shape: "gear",
+	size: 1.5d,
+	tasks: [{
+		uid: "6bc2419b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:manatablet",
+			tag: {
+				mana: 500000,
+				creative: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 2b
+	}],
+	rewards: [{
+		uid: "6b7a63b7",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

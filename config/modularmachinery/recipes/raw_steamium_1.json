@@ -1,0 +1,25 @@
+{
+    "machine": "steam_machine",
+    "registryName": "raw_steamium_1",
+    "recipeTime": 200,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "contenttweaker:raw_steamium_1",
+            "amount": 3
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "steam",
+            "amount": 432
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "embers:ingot_dawnstone",
+            "amount": 1
+        }
+    ]
+}

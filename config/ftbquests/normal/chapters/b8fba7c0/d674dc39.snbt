@@ -1,0 +1,26 @@
+{
+	title: "{title.thelab.name}",
+	x: 2.0d,
+	y: 2.5d,
+	shape: "pentagon",
+	text: [
+		"{des.thelab}"
+	],
+	dependencies: [
+		"2bde4b98"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "53f031a1",
+		type: "location",
+		location: [I;
+			1102,
+			20000,
+			0,
+			10000,
+			1,
+			1,
+			1
+		]
+	}]
+}

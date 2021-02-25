@@ -1,0 +1,20 @@
+{
+	title: "{title.chapter7.name}",
+	icon: "minecraft:end_stone",
+	x: -6.5d,
+	y: 2.0d,
+	shape: "gear",
+	dependencies: [
+		"921cfb56"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "ab6b4492",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "118a85ac",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

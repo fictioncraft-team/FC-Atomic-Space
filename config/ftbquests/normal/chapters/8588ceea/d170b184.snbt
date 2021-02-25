@@ -1,0 +1,19 @@
+{
+	x: -6.5d,
+	y: 7.5d,
+	dependencies: [
+		"fd8774c7"
+	],
+	tasks: [{
+		uid: "a3e89eb2",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:infuser"
+		}]
+	}],
+	rewards: [{
+		uid: "2af01d38",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

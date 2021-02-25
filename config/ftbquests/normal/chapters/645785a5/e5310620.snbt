@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: 6.5d,
+	shape: "gear",
+	dependencies: [
+		"350ab610"
+	],
+	tasks: [{
+		uid: "a5c6adf0",
+		type: "item",
+		items: [{
+			item: "botania:pool 1 1"
+		}]
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	title: "{title.hopgraphite.name}",
+	x: 4.0d,
+	y: -0.5d,
+	text: [
+		"{des.hopgraphite}"
+	],
+	dependencies: [
+		"9aa208f8"
+	],
+	tasks: [{
+		uid: "8bbbdb7c",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:material 1 19"
+		}]
+	}],
+	rewards: [{
+		uid: "6a72650f",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

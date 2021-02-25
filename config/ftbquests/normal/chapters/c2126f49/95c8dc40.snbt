@@ -1,0 +1,30 @@
+{
+	x: 3.0d,
+	y: 1.5d,
+	shape: "rsquare",
+	dependencies: [
+		"71334de5"
+	],
+	tasks: [{
+		uid: "1416c609",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:geiger_block"
+		}]
+	}],
+	rewards: [{
+		uid: "16963a20",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	},
+	{
+		uid: "97df3549",
+		type: "xp",
+		xp: 1
+	},
+	{
+		uid: "fc0a723b",
+		type: "xp_levels",
+		xp_levels: 2
+	}]
+}

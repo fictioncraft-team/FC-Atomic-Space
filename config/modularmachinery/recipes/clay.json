@@ -1,0 +1,25 @@
+{
+    "machine": "steam_machine",
+    "registryName": "clay",
+    "recipeTime": 100,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:clay_ball",
+            "amount": 1
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "water",
+            "amount": 500
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "contenttweaker:dry_clay",
+            "amount": 1
+        }
+    ]
+}

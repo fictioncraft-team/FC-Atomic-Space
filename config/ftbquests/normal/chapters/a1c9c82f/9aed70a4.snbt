@@ -1,0 +1,24 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	shape: "hexagon",
+	text: [
+		"\"I should put some fiber on the top of the stick, so I'm will be able to fire it up and light up this place.\" You said."
+	],
+	dependencies: [
+		"f1176490"
+	],
+	optional: true,
+	tasks: [{
+		uid: "59c1d17e",
+		type: "item",
+		items: [{
+			item: "primal_tech:fibre_torch"
+		}]
+	}],
+	rewards: [{
+		uid: "fb477f9d",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

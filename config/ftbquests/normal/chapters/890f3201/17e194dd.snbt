@@ -1,0 +1,21 @@
+{
+	title: "{title.manageneration.name}",
+	x: 3.5d,
+	y: 3.5d,
+	text: [
+		"{des.manageneration}"
+	],
+	dependencies: [
+		"3588c561"
+	],
+	tasks: [{
+		uid: "377ac39f",
+		type: "item",
+		items: [{
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:managenerator"
+			}
+		}]
+	}]
+}

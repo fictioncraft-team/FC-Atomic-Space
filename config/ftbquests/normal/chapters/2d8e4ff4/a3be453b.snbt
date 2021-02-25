@@ -1,0 +1,13 @@
+{
+	x: 1.5d,
+	y: -6.0d,
+	shape: "rsquare",
+	size: 2.0d,
+	tasks: [{
+		uid: "b307fdf6",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:sink"
+		}]
+	}]
+}

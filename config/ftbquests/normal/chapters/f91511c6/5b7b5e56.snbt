@@ -1,0 +1,23 @@
+{
+	title: "{title.atomicreconstructor.name}",
+	x: 0.0d,
+	y: -1.5d,
+	text: [
+		"{des.atomicreconstructor}"
+	],
+	dependencies: [
+		"599ed4f8"
+	],
+	tasks: [{
+		uid: "82b1007c",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_atomic_reconstructor"
+		}]
+	}],
+	rewards: [{
+		uid: "89cea578",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

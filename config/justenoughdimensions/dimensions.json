@@ -1,0 +1,208 @@
+{
+	"config_version": {
+        "id": "atomicspace",
+        "version": 1
+    },
+	"dimensions":[
+        {
+            "dim": -1,
+            "unregister": true
+        },
+        {
+			"dim": 4598,
+			"worldinfo_onetime": {
+				"GameRules": {
+					"doDaylightCycle": "false"
+				},
+				"DayTime": 18000
+			}
+		},
+		{
+			"dim": 1102,
+			"biome": "biometweaker:overworld_2464",
+			"dimensiontype": 
+			{
+				"id": 1102,
+				"name": "Overworld-2464 Crust",
+				"suffix": "_dim1102",
+				"keeploaded": false,
+				"worldprovider": "WorldProviderSurfaceJED",
+				"require_exact_match": true
+			},
+            "worldinfo_onetime": {
+                "generatorName": "default",
+				"GameRules": {
+					"doDaylightCycle": "false"
+				},
+				"DayTime": 12500
+			},
+			"jed":
+			{
+				"CanRespawnHere": true,
+				"SkyRenderType": 1,
+                "SkyDisableFlags": 7,
+                "CloudRenderer": "DummyRenderer",
+                "SkyBlend": 1.0,
+                "DisableDawnDuskColors": true,
+                "SkyColor": "000000",
+                "FogColor": "031A1C",
+                "void_teleport": {
+					"dimension": 1100,
+					"trigger_y": -5,
+					"teleport_type": "spawn",
+					"remove_fall_damage": true
+				}
+
+			}
+		},
+		{
+			"dim": 1100,
+			"biome": "biometweaker:underground_overworld",
+			"dimensiontype":
+			{
+				"id": 1100,
+				"name": "Overworld-2464 Mantle",
+				"suffix": "_dim1100",
+				"keeploaded": false,
+				"existing_dimensiontype": "Deep Dark",
+				"require_exact_match": true
+			},
+			"worldinfo_onetime": {
+                "generatorName": "default"
+			},
+			"jed":
+			{
+				"CanRespawnHere": false,
+				"RespawnDimension": 1102,
+				"SkyColor": "2ADEEB",
+                "CloudColor": "DEDEDE",
+                "FogColor": "2ADEEB",
+                "CloudHeight": 234,
+				"SkyRenderType": 1
+
+			}
+		},
+		{
+			"dim": 1101,
+			"biome": "biometweaker:overworld_core",
+			"dimensiontype":
+			{
+				"id": 1101,
+				"name": "Overworld-2464 Core",
+				"suffix": "_dim1101",
+				"keeploaded": false,
+				"worldprovider": "WorldProviderHellJED",
+				"require_exact_match": true
+			},
+			"jed":
+			{
+				"CanRespawnHere": false,
+				"RespawnDimension": 1102,
+				"SkyColor": "2ADEEB",
+                "CloudColor": "DEDEDE",
+                "FogColor": "2ADEEB",
+                "CloudHeight": 234
+
+			},
+            "worldinfo_onetime": {
+                "generatorName": "default"
+			}
+		},
+		{
+			"dim": 1103,
+			"biome": "minecraft:plains",
+			"dimensiontype":
+			{
+				"id": 1103,
+				"name": "Overworld Simulation Chamber",
+				"suffix": "_dim1103",
+				"keeploaded": false,
+				"worldprovider": "WorldProviderSurfaceJED",
+				"require_exact_match": true
+			},
+			"spawn_structure": {
+        		"name": "ovsimchamber.schematic"
+      		},
+			"jed":
+			{
+				"CanRespawnHere": false,
+				"RespawnDimension": 1102,
+				"DayLength": "8000",
+				"NightLength": "5500"
+				
+			},
+            "worldinfo_onetime": {
+                "generatorName": "flat",
+                "generatorOptions": "3;minecraft:air;3",
+                "SpawnX": 0,
+          		"SpawnY": 0,
+          		"SpawnZ": 0
+			}
+		},
+		{
+			"dim": 1104,
+			"biome": "minecraft:void",
+			"dimensiontype":
+			{
+				"id": 1104,
+				"name": "Glit&23#&*2 Dimen3&*#",
+				"suffix": "_dim1104",
+				"keeploaded": false,
+				"worldprovider": "WorldProviderSurfaceJED",
+				"require_exact_match": true
+			},
+			"spawn_structure": {
+        		"name": "gp.schematic",
+        		"offset": [-0.5,3, 25],
+        		"centered": true
+      		},
+			"jed":
+			{
+				"CanRespawnHere": false,
+				"RespawnDimension": 1102,
+				"void_teleport": {
+					"dimension": 1102,
+					"trigger_y": -1,
+					"teleport_type": "spawn",
+					"remove_fall_damage": true
+				}
+				
+			},
+            "worldinfo_onetime": {
+                "generatorName": "flat",
+                "generatorOptions": "3;minecraft:air;3",
+                "SpawnX": 0,
+          		"SpawnY": 1,
+          		"SpawnZ": 0,
+				"GameRules": {
+					"doDaylightCycle": "false"
+				},
+				"DayTime": 18000
+			}
+
+		},
+		{
+			"dim": 1105,
+			"biome": "minecraft:ocean",
+			"dimensiontype":
+			{
+				"id": 1105,
+				"name": "Oceano",
+				"suffix": "_dim1105",
+				"keeploaded": false,
+				"worldprovider": "WorldProviderSurfaceJED",
+				"require_exact_match": true
+			},
+			"jed":
+			{
+				"CanRespawnHere": false,
+				"RespawnDimension": 1102
+				
+			},
+            "worldinfo_onetime": {
+                "generatorName": "default"
+			}
+
+		}
+	]
+}

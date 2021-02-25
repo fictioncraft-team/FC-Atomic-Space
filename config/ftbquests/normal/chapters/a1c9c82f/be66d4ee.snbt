@@ -1,0 +1,25 @@
+{
+	title: "{title.watersaw.name}",
+	x: 1.5d,
+	y: 7.0d,
+	shape: "hexagon",
+	text: [
+		"{des.watersaw}"
+	],
+	dependencies: [
+		"a3d6d35e"
+	],
+	optional: true,
+	tasks: [{
+		uid: "6e5c5805",
+		type: "item",
+		items: [{
+			item: "primal_tech:water_saw"
+		}]
+	}],
+	rewards: [{
+		uid: "c07cb22e",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

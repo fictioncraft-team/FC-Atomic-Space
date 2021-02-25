@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: 8.0d,
+	dependencies: [
+		"599ed4f8"
+	],
+	hide: true,
+	tasks: [{
+		uid: "d5152d2c",
+		type: "item",
+		items: [{
+			item: "sky_orchards:sapling_aluminum"
+		}]
+	}]
+}

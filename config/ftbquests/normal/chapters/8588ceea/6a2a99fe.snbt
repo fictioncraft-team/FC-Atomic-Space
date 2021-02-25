@@ -1,0 +1,49 @@
+{
+	title: "{title.buildrocket.name}",
+	x: 3.5d,
+	y: 4.0d,
+	dependencies: [
+		"ef40253d",
+		"622e1835"
+	],
+	tasks: [{
+		uid: "bb6ed37b",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:rocketmotor"
+		}],
+		count: 2L
+	},
+	{
+		uid: "4c1a4019",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:fueltank"
+		}],
+		count: 4L
+	},
+	{
+		uid: "33e60f06",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:seat"
+		}]
+	},
+	{
+		uid: "97dc8e70",
+		type: "item",
+		items: [{
+			item: "advancedrocketry:guidancecomputer"
+		}]
+	}],
+	rewards: [{
+		uid: "6a831e7c",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	},
+	{
+		uid: "1546956d",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,31 @@
+{
+	title: "{title.naga.name}",
+	icon: "twilightforest:miniature_structure 1 5",
+	x: 3.5d,
+	y: 2.5d,
+	dependencies: [
+		"f6752920"
+	],
+	tasks: [{
+		uid: "4ec15b40",
+		type: "kill",
+		entity: "twilightforest:naga",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "a884097b",
+		type: "item",
+		item: "nuclearcraft:radaway"
+	},
+	{
+		uid: "4176b9c1",
+		type: "item",
+		item: "actuallyadditions:item_food 1 14",
+		count: 2
+	},
+	{
+		uid: "a8f09a7d",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

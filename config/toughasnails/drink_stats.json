@@ -1,0 +1,29 @@
+[
+  {
+    "item": {
+      "name": "minecraft:milk_bucket",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:energydrinkitem",
+      "metadata": 0
+    },
+    "thirst": 10,
+    "hydration": 1.4,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "harvestcraft:seedenergygelitem",
+      "metadata": 0
+    },
+    "thirst": 3,
+    "hydration": 0.4,
+    "poisonChance": 0.2
+  }
+]

@@ -1,0 +1,25 @@
+{
+    "machine": "steam_machine",
+    "registryName": "signalum",
+    "recipeTime": 120,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "thermaldynamics:duct_0@3",
+            "amount": 1
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "redstone",
+            "amount": 100
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "thermaldynamics:duct_0@7",
+            "amount": 1
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+	x: -3.5d,
+	y: -3.0d,
+	dependencies: [
+		"a2abfbde"
+	],
+	tasks: [{
+		uid: "aabb70f2",
+		type: "item",
+		items: [{
+			item: "contenttweaker:simple_machine_core"
+		}]
+	}],
+	rewards: [{
+		uid: "a118289b",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "{title.ghoul.name}",
+	x: 6.0d,
+	y: 4.0d,
+	shape: "hexagon",
+	dependencies: [
+		"025c0080"
+	],
+	optional: true,
+	tasks: [{
+		uid: "43b676d2",
+		type: "kill",
+		entity: "nuclearcraft:feral_ghoul",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "43273307",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

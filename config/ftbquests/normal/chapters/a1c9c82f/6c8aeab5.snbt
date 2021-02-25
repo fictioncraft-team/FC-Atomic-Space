@@ -1,0 +1,51 @@
+{
+	title: "{title.fire.name}",
+	icon: "cyclicmagic:fire_dark",
+	x: 6.0d,
+	y: 0.5d,
+	shape: "hexagon",
+	text: [
+		"{des.fire}"
+	],
+	dependencies: [
+		"ce092fc8"
+	],
+	optional: true,
+	tasks: [{
+		uid: "b8e08086",
+		type: "item",
+		items: [{
+			item: "primal_tech:charcoal_block"
+		}],
+		consume_items: false
+	},
+	{
+		uid: "0d20b7fd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "primal_tech:fire_sticks"
+		}],
+		count: 2L,
+		consume_items: false,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "20e2e549",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	},
+	{
+		uid: "68b74355",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "roughtweaks:salve"
+		}
+	}]
+}

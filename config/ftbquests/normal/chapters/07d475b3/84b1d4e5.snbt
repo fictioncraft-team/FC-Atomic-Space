@@ -1,0 +1,33 @@
+{
+	x: -3.5d,
+	y: -0.5d,
+	shape: "square",
+	hide_dependency_lines: true,
+	dependencies: [
+		"599ed4f8"
+	],
+	hide: true,
+	tasks: [{
+		uid: "4794f7f4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "randomthings:diviningrod",
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6b151071",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	},
+	{
+		uid: "bca6a721",
+		type: "item",
+		item: "minecraft:iron_ore",
+		count: 2
+	}]
+}

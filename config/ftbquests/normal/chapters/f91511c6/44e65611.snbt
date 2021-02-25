@@ -1,0 +1,32 @@
+{
+	title: "{title.imtechboiler.name}",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "immersivepetroleum:schematic",
+		tag: {
+			multiblock: "IT:Boiler"
+		}
+	},
+	x: -2.5d,
+	y: -4.0d,
+	text: [
+		"{des.nowaterboiler}"
+	],
+	dependencies: [
+		"f7aa7f42"
+	],
+	tasks: [{
+		uid: "3b49c26a",
+		type: "observation",
+		match_type: "block_entity_id",
+		match: "immersivetech:boilerslave",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "99fba9a2",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

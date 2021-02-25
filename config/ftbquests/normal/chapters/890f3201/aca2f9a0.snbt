@@ -1,0 +1,30 @@
+{
+	x: 0.0d,
+	y: 4.5d,
+	shape: "gear",
+	dependencies: [
+		"6ca96a2c",
+		"29ea0645"
+	],
+	tasks: [{
+		uid: "fa4b12b6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "plastic",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b619b3e5",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

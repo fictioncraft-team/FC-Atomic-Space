@@ -1,0 +1,21 @@
+{
+	x: 10.0d,
+	y: 3.5d,
+	shape: "diamond",
+	dependencies: [
+		"2b2305da"
+	],
+	tasks: [{
+		uid: "73a8034e",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_food 1 17"
+		}]
+	}],
+	rewards: [{
+		uid: "0e632ebe",
+		type: "item",
+		item: "xlfoodmod:rice_bread",
+		count: 2
+	}]
+}

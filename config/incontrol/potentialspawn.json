@@ -1,0 +1,14 @@
+[
+	{
+   		"dimension": 1101,
+    	"block": "chisel:ice1@9",
+    	"mobs": [
+    		{
+        		"mob": "minecraft:wither_skeleton",
+        		"weight": 1,
+        		"groupcountmin": 1,
+        		"groupcountmax": 1
+    		}
+		]
+  	}
+]

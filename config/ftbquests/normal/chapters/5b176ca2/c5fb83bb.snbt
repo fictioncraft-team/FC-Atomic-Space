@@ -1,0 +1,28 @@
+{
+	x: 2.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "8e6dd457",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "contenttweaker:raster_chicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "281ebe86",
+		type: "item",
+		item: "contenttweaker:meme1",
+		count: 64
+	},
+	{
+		uid: "7dda159b",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

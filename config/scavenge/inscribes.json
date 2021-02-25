@@ -1,0 +1,283 @@
+{
+	"block_pools": [
+		{
+			"name": "silicon",
+			"type": {
+				"type": "block",
+				"name": "extrautils2:largishchest"
+			},
+			"disableJEI": "true",
+			"clicktype": "rightclick",
+			"properties": [
+				{
+					"type": "use_command",
+					"name": "summon",
+					"arguments": "minecraft:lightning_bolt ~ ~ ~"
+				},
+				{
+					"type": "play_sound",
+					"name": "entity.blaze.hurt"
+				},
+				{
+					"type": "consume_tile_items",
+					"items": [
+						{
+							"name": "minecraft:iron_block"
+						},
+						{
+							"name": "appliedenergistics2:material",
+							"meta": 5
+						}
+					]
+				},
+				{
+					"type": "require_tile_items",
+					"items": [
+						{
+							"name": "minecraft:iron_block"
+						},
+						{
+							"name": "appliedenergistics2:material",
+							"meta": 5
+						}
+					]
+				},
+				{
+					"type": "item_has_FE",
+					"bigger": "true",
+					"amount": "1024"
+				},
+				{
+					"type": "modify_Item_FE",
+					"consume": "true",
+					"amount": 512
+				}
+			],
+			"drops": [
+				{
+					"name": "appliedenergistics2:material",
+					"meta": 19,
+					"amount": "1",
+					"chance": "100"
+				}
+			]
+		},
+		{
+			"name": "gold",
+			"type": {
+				"type": "block",
+				"name": "extrautils2:largishchest"
+			},
+			"disableJEI": "true",
+			"clicktype": "rightclick",
+			"properties": [
+				{
+					"type": "use_command",
+					"name": "summon",
+					"arguments": "minecraft:lightning_bolt ~ ~ ~"
+				},
+				{
+					"type": "play_sound",
+					"name": "entity.blaze.hurt"
+				},
+				{
+					"type": "consume_tile_items",
+					"items": [
+						{
+							"name": "minecraft:iron_block"
+						},
+						{
+							"name": "contenttweaker:chrysos"
+						}
+					]
+				},
+				{
+					"type": "require_tile_items",
+					"items": [
+						{
+							"name": "minecraft:iron_block"
+						},
+						{
+							"name": "contenttweaker:chrysos"
+						}
+					]
+				},
+				{
+					"type": "item_has_FE",
+					"bigger": "true",
+					"amount": "1024"
+				},
+				{
+					"type": "modify_Item_FE",
+					"consume": "true",
+					"amount": 512
+				}
+			],
+			"drops": [
+				{
+					"name": "appliedenergistics2:material",
+					"meta": 15,
+					"amount": "1",
+					"chance": "100"
+				}
+			]
+		},
+		{
+			"name": "diamond",
+			"type": {
+				"type": "block",
+				"name": "extrautils2:largishchest"
+			},
+			"disableJEI": "true",
+			"clicktype": "rightclick",
+			"properties": [
+				{
+					"type": "use_command",
+					"name": "summon",
+					"arguments": "minecraft:lightning_bolt ~ ~ ~"
+				},
+				{
+					"type": "play_sound",
+					"name": "entity.blaze.hurt"
+				},
+				{
+					"type": "consume_tile_items",
+					"items": [
+						{
+							"name": "minecraft:iron_block"
+						},
+						{
+							"name": "actuallyadditions:item_crystal",
+							"meta": 2
+						}
+					]
+				},
+				{
+					"type": "require_tile_items",
+					"items": [
+						{
+							"name": "minecraft:iron_block"
+						},
+						{
+							"name": "actuallyadditions:item_crystal",
+							"meta": 2
+						}
+					]
+				},
+				{
+					"type": "item_has_FE",
+					"bigger": "true",
+					"amount": "1024"
+				},
+				{
+					"type": "modify_Item_FE",
+					"consume": "true",
+					"amount": 512
+				}
+			],
+			"drops": [
+				{
+					"name": "appliedenergistics2:material",
+					"meta": 14,
+					"amount": "1",
+					"chance": "100"
+				}
+			]
+		},
+		{
+			"name": "quartz",
+			"type": {
+				"type": "block",
+				"name": "extrautils2:largishchest"
+			},
+			"disableJEI": "true",
+			"clicktype": "rightclick",
+			"properties": [
+				{
+					"type": "use_command",
+					"name": "summon",
+					"arguments": "minecraft:lightning_bolt ~ ~ ~"
+				},
+				{
+					"type": "play_sound",
+					"name": "entity.blaze.hurt"
+				},
+				{
+					"type": "consume_tile_items",
+					"items": [
+						{
+							"name": "minecraft:iron_block"
+						},
+						{
+							"name": "appliedenergistics2:material"
+						}
+					]
+				},
+				{
+					"type": "require_tile_items",
+					"items": [
+						{
+							"name": "minecraft:iron_block"
+						},
+						{
+							"name": "appliedenergistics2:material"
+						}
+					]
+				},
+				{
+					"type": "item_has_FE",
+					"bigger": "true",
+					"amount": "1024"
+				},
+				{
+					"type": "modify_Item_FE",
+					"consume": "true",
+					"amount": 512
+				}
+			],
+			"drops": [
+				{
+					"name": "appliedenergistics2:material",
+					"meta": 13,
+					"amount": "1",
+					"chance": "100"
+				}
+			]
+		},
+		{
+			"name": "removeOriginal",
+			"type": {
+				"type": "block",
+				"name": "appliedenergistics2:sky_stone_chest"
+			},
+			"disableJEI": "true",
+			"clicktype": "rightclick",
+			"properties": [
+				{
+					"type": "consume_tile_items",
+					"items": [
+						{
+							"name": "appliedenergistics2:material",
+							"meta": 13
+						},
+						{
+							"name": "appliedenergistics2:material",
+							"meta": 14
+						},
+						{
+							"name": "appliedenergistics2:material",
+							"meta": 15
+						},
+						{
+							"name": "appliedenergistics2:material",
+							"meta": 19
+						}
+					]
+				},
+				{
+                    "type": "swing_hand"
+                }
+			]
+		}
+	]
+}

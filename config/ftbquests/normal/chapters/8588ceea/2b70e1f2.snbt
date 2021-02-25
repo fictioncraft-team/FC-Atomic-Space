@@ -1,0 +1,36 @@
+{
+	title: "{title.pressurechamber.name}",
+	x: -3.5d,
+	y: -0.5d,
+	dependencies: [
+		"6c7284a8"
+	],
+	tasks: [{
+		uid: "ecc72135",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:pressure_chamber_wall"
+		}],
+		count: 20L
+	},
+	{
+		uid: "8f1b48d3",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:pressure_chamber_valve"
+		}]
+	},
+	{
+		uid: "d309cb0e",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:pressure_chamber_interface"
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "eca36405",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

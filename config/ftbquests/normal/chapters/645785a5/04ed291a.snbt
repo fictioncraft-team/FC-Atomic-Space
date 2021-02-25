@@ -1,0 +1,16 @@
+{
+	x: 11.25d,
+	y: 5.0d,
+	shape: "hexagon",
+	dependencies: [
+		"3ccc611d"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "cb8058ce",
+		type: "item",
+		items: [{
+			item: "draconicevolution:chaotic_core"
+		}]
+	}]
+}

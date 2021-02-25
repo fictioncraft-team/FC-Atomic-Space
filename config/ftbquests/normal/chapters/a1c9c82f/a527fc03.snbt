@@ -1,0 +1,32 @@
+{
+	title: "{title.sticks.name}",
+	icon: "minecraft:stick",
+	x: 1.5d,
+	y: 2.5d,
+	text: [
+		"{des.sticks}"
+	],
+	dependencies: [
+		"3c6f4ce9"
+	],
+	tasks: [{
+		uid: "bafe75c2",
+		type: "item",
+		title: "Any stickWood",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "stickWood",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}],
+		consume_items: false
+	}],
+	rewards: [{
+		uid: "85318d0c",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

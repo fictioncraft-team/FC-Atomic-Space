@@ -1,0 +1,19 @@
+{
+	x: -2.0d,
+	y: 6.0d,
+	dependencies: [
+		"f7071f3b"
+	],
+	tasks: [{
+		uid: "c3528b50",
+		type: "item",
+		items: [{
+			item: "contenttweaker:platinum_crystal"
+		}]
+	}],
+	rewards: [{
+		uid: "4db3f102",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

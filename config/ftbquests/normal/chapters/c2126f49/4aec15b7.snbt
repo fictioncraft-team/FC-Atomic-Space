@@ -1,0 +1,11 @@
+{
+	x: -4.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "59832741",
+		type: "item",
+		items: [{
+			item: "enderio:block_inventory_panel"
+		}]
+	}]
+}

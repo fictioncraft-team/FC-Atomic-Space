@@ -1,0 +1,28 @@
+{
+	x: -5.5d,
+	y: -10.5d,
+	dependencies: [
+		"f5800a80"
+	],
+	tasks: [{
+		uid: "ece9c877",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "liquid_sunshine",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2b4ebf1a",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 3.0d,
+	dependencies: [
+		"fa2e8aec",
+		"599ed4f8"
+	],
+	hide: true,
+	tasks: [{
+		uid: "165027f0",
+		type: "item",
+		items: [{
+			item: "sky_orchards:acorn_lead"
+		}]
+	}]
+}

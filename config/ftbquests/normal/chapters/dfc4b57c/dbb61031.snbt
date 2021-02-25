@@ -1,0 +1,11 @@
+{
+	x: -6.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "f8aeb38b",
+		type: "item",
+		items: [{
+			item: "sky_orchards:sapling_lapis"
+		}]
+	}]
+}

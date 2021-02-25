@@ -1,0 +1,14 @@
+{
+	x: -8.0d,
+	y: 12.0d,
+	dependencies: [
+		"26fceb43"
+	],
+	tasks: [{
+		uid: "d8f95f56",
+		type: "item",
+		items: [{
+			item: "mekanism:clump 1 1"
+		}]
+	}]
+}

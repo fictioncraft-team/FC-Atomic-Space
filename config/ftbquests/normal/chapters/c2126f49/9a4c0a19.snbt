@@ -1,0 +1,26 @@
+{
+	x: -1.5d,
+	y: 3.0d,
+	shape: "rsquare",
+	dependencies: [
+		"403d4834"
+	],
+	tasks: [{
+		uid: "eb982b1c",
+		type: "item",
+		items: [{
+			item: "primal_tech:fibre_torch_lit"
+		}]
+	}],
+	rewards: [{
+		uid: "3f50390f",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	},
+	{
+		uid: "e2e58570",
+		type: "item",
+		item: "silentgems:stonetorch",
+		count: 16
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: -8.0d,
+	text: [
+		"{des.astralupgrade}"
+	],
+	dependencies: [
+		"13b188b6"
+	],
+	tasks: [{
+		uid: "82343a65",
+		type: "item",
+		items: [{
+			item: "contenttweaker:ovsimchamber"
+		}]
+	}]
+}

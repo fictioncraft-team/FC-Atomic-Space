@@ -1,0 +1,30 @@
+{
+	title: "{title.hvpowah.name}",
+	x: 2.0d,
+	y: -4.5d,
+	shape: "square",
+	dependencies: [
+		"554b1875"
+	],
+	tasks: [{
+		uid: "4f179941",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:connector 1 4"
+		}]
+	},
+	{
+		uid: "6f9c42cc",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:connector 1 5"
+		}]
+	},
+	{
+		uid: "b50034b3",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wirecoil 1 2"
+		}]
+	}]
+}

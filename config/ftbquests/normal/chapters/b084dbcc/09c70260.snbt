@@ -1,0 +1,33 @@
+{
+	title: "{title.yeti.name}",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "twilightforest:yeti_helmet",
+		tag: {
+			ench: [{
+				lvl: 2s,
+				id: 0
+			}]
+		}
+	},
+	x: 5.5d,
+	y: 5.5d,
+	shape: "hexagon",
+	dependencies: [
+		"eb8bd223"
+	],
+	optional: true,
+	tasks: [{
+		uid: "e894ad3e",
+		type: "kill",
+		entity: "twilightforest:yeti_alpha",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "350ece87",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

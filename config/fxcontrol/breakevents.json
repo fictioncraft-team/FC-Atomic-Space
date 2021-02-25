@@ -1,0 +1,12 @@
+[
+ {
+   "dimension": 1104,
+   "message": "Breaking blocks here might cause the dimension to collapse!",
+   "result": "deny"
+ },
+ {
+   "block": "appliedenergistics2:sky_stone_chest",
+   "message": "I don't think you are suppose to bring this chest home",
+   "result": "deny"
+ }
+]

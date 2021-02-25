@@ -1,0 +1,16 @@
+{
+	x: 8.5d,
+	y: 1.5d,
+	shape: "diamond",
+	dependencies: [
+		"3864f7ca"
+	],
+	tasks: [{
+		uid: "0163b934",
+		type: "item",
+		items: [{
+			item: "contenttweaker:iron_ore_proton"
+		}],
+		count: 4L
+	}]
+}

@@ -1,0 +1,67 @@
+{
+    "block_pools": [
+		{
+            "name": "Warm1",
+            "type": {
+                "type": "block",
+                "name": "contenttweaker:ice_stone"
+            },
+            "clicktype": "rightclick",
+            "disablejei": true,
+            "properties": [
+                {
+                    "type": "consume_block",
+                    "chance": "1"
+                },
+				{
+                    "type": "require_sneak"
+                },
+                {
+                    "type": "swing_hand"
+                },
+                {
+                    "type": "require_empty_hand"
+                },
+                {
+                    "type": "modify_temperature",
+                    "name": "warm_stone",
+                    "amount": 35,
+                    "rate": 10,
+                    "duration": 80
+                }
+            ]
+        },
+		{
+            "name": "Warm2",
+            "type": {
+                "type": "block",
+                "name": "quark:biome_cobblestone",
+                "meta": 1
+            },
+            "clicktype": "rightclick",
+            "disablejei": true,
+            "properties": [
+                {
+                    "type": "consume_block",
+                    "chance": "1"
+                },
+				{
+                    "type": "require_sneak"
+                },
+                {
+                    "type": "swing_hand"
+                },
+                {
+                    "type": "require_empty_hand"
+                },
+                {
+                    "type": "modify_temperature",
+                    "name": "warm_cobble",
+                    "amount": 35,
+                    "rate": 15,
+                    "duration": 60
+                }
+            ]
+        }
+    ]
+}

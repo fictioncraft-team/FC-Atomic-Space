@@ -1,0 +1,20 @@
+{
+	title: "{title.minoshroom.name}",
+	icon: "twilightforest:trophy 1 6",
+	x: 1.0d,
+	y: 2.5d,
+	dependencies: [
+		"e4658062"
+	],
+	tasks: [{
+		uid: "a809a6aa",
+		type: "kill",
+		entity: "twilightforest:minoshroom",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "f5d367d6",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

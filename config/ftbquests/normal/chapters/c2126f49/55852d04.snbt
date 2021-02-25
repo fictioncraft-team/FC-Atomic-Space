@@ -1,0 +1,31 @@
+{
+	x: -3.0d,
+	y: -3.0d,
+	shape: "rsquare",
+	dependencies: [
+		"f7da71af"
+	],
+	tasks: [{
+		uid: "3c07b4e4",
+		type: "item",
+		items: [{
+			item: "minecraft:magma"
+		}]
+	}],
+	rewards: [{
+		uid: "b4887a14",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	},
+	{
+		uid: "cfcbf2c4",
+		type: "xp",
+		xp: 1
+	},
+	{
+		uid: "96304347",
+		type: "item",
+		item: "toughasnails:magma_shard",
+		count: 4
+	}]
+}

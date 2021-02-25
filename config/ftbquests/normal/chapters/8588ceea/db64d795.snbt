@@ -1,0 +1,24 @@
+{
+	x: 2.5d,
+	y: 2.5d,
+	dependencies: [
+		"febffef4"
+	],
+	tasks: [{
+		uid: "b0da46e0",
+		type: "item",
+		items: [{
+			item: "libvulpes:structuremachine"
+		}]
+	}],
+	rewards: [{
+		uid: "c76dbaaa",
+		type: "item",
+		item: "libvulpes:holoprojector"
+	},
+	{
+		uid: "23a07f79",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

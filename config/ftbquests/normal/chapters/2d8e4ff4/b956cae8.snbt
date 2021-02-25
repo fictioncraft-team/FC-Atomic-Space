@@ -1,0 +1,22 @@
+{
+	title: "JEI !!",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "ftbquests:custom_icon",
+		tag: {
+			icon: "fictioncraft:ftbquests/!ftb.png"
+		}
+	},
+	x: 4.5d,
+	y: -3.5d,
+	text: [
+		"Search Infused Ore in JEI!"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "6d7bd1e5",
+		type: "checkmark"
+	}]
+}

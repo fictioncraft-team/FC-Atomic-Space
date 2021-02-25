@@ -1,0 +1,19 @@
+{
+	x: 13.0d,
+	y: 1.0d,
+	dependencies: [
+		"f1a5907d"
+	],
+	tasks: [{
+		uid: "b92e03fa",
+		type: "item",
+		items: [{
+			item: "farmingforblockheads:market"
+		}]
+	}],
+	rewards: [{
+		uid: "93a151a0",
+		type: "item",
+		item: "minecraft:emerald"
+	}]
+}

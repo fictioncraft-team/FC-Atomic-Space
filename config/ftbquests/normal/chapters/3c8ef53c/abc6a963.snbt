@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 0.0d,
+	shape: "square",
+	dependencies: [
+		"fedb3c6d"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "8a6659ee",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:manufactory"
+		}]
+	}]
+}

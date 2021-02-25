@@ -1,0 +1,25 @@
+{
+	x: -3.0d,
+	y: 1.5d,
+	shape: "rsquare",
+	dependencies: [
+		"ca440d67"
+	],
+	tasks: [{
+		uid: "db1a58f6",
+		type: "item",
+		items: [{
+			item: "torchmaster:mega_torch"
+		}]
+	}],
+	rewards: [{
+		uid: "26ff77ed",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	},
+	{
+		uid: "4aa9ac13",
+		type: "xp_levels",
+		xp_levels: 2
+	}]
+}

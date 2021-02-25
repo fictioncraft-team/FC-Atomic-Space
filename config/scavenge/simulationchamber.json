@@ -1,0 +1,90 @@
+{
+    "block_pools": [
+		{
+            "name": "EnterOverworldChamber",
+            "type": {
+                "type": "block",
+                "name": "contenttweaker:ovsimchamber"
+            },
+            "disableJEI": "true",
+            "clicktype": "rightclick",
+            "properties": [
+                {
+                    "type": "swing_hand"
+                },
+                {
+                    "type": "consume_block",
+                    "chance": "100"
+                },
+                {
+                    "type": "require_item",
+                    "name": "compactmachines3:psd"
+
+                },
+                {
+                    "type": "damage_item",
+                    "amount": "1"
+                },
+                {
+                    "type": "use_command",
+                    "name": "tpj",
+                    "arguments": "@p 1103 8 67 7"
+                },
+                {
+                    "type": "play_sound",
+                    "name": "item.totem.use"
+                }
+            ],
+            "drops": [
+                {
+                    "name": "contenttweaker:ovsimchamber1",
+                    "amount": "1",
+                    "chance": "100"
+                }
+            ]
+        },
+        {
+            "name": "EnterOverworldChamber",
+            "type": {
+                "type": "block",
+                "name": "contenttweaker:ovsimchamber1"
+            },
+            "disableJEI": "true",
+            "clicktype": "rightclick",
+            "properties": [
+                {
+                    "type": "swing_hand"
+                },
+                {
+                    "type": "consume_block",
+                    "chance": "100"
+                },
+                {
+                    "type": "require_item",
+                    "name": "compactmachines3:psd"
+
+                },
+                {
+                    "type": "damage_item",
+                    "amount": "1"
+                },
+                {
+                    "type": "use_command",
+                    "name": "tpj",
+                    "arguments": "@p 1102"
+                },
+                {
+                    "type": "play_sound",
+                    "name": "item.totem.use"
+                }
+            ],
+            "drops": [
+                {
+                    "name": "contenttweaker:ovsimchamber",
+                    "amount": "1",
+                    "chance": "100"
+                }
+            ]
+        }
+    ]
+}

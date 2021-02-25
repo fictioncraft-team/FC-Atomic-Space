@@ -1,0 +1,19 @@
+{
+	x: 3.5d,
+	y: 3.0d,
+	dependencies: [
+		"03ecd710"
+	],
+	tasks: [{
+		uid: "539a2e57",
+		type: "item",
+		items: [{
+			item: "astralsorcery:itemcraftingcomponent 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "ac660b88",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,59 @@
+{
+	title: "{title.oreminertier1.name}",
+	icon: "environmentaltech:void_ore_miner_cont_1",
+	x: 0.0d,
+	y: 1.5d,
+	dependencies: [
+		"51f80bdd"
+	],
+	tasks: [{
+		uid: "d2fdab69",
+		type: "item",
+		items: [{
+			item: "environmentaltech:void_ore_miner_cont_1"
+		}]
+	},
+	{
+		uid: "a692722a",
+		type: "item",
+		items: [{
+			item: "environmentaltech:structure_frame_1"
+		}],
+		count: 24L
+	},
+	{
+		uid: "dc4f87be",
+		type: "item",
+		items: [{
+			item: "environmentaltech:structure_panel"
+		}],
+		count: 20L
+	},
+	{
+		uid: "25f1da2a",
+		type: "item",
+		items: [{
+			item: "environmentaltech:laser_core"
+		}],
+		count: 2L
+	},
+	{
+		uid: "dbdbb348",
+		type: "item",
+		title: "Any etLaserLens",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "etLaserLens",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}],
+	rewards: [{
+		uid: "455e2f88",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

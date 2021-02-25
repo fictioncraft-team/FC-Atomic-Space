@@ -1,0 +1,15 @@
+{
+	title: "{title.comfort.name}",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "square",
+	tasks: [{
+		uid: "5fb99dce",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "8ce35dea",
+		type: "xp",
+		xp: 1
+	}]
+}

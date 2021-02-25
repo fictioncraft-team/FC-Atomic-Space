@@ -1,0 +1,2 @@
+background = addStretchedTexture("top_left", "fictioncraft:menu/bg.png")
+background.setRelRender(1, 1)

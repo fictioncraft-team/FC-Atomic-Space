@@ -1,0 +1,15 @@
+{
+	x: 3.5d,
+	y: -4.5d,
+	shape: "hexagon",
+	dependencies: [
+		"c5d4948c"
+	],
+	tasks: [{
+		uid: "ad2797f8",
+		type: "item",
+		items: [{
+			item: "enderio:item_power_conduit"
+		}]
+	}]
+}

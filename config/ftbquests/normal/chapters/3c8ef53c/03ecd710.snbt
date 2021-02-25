@@ -1,0 +1,15 @@
+{
+	title: "{title.iecrusher.name}",
+	icon: "immersiveengineering:metal_multiblock 1 1",
+	x: -1.0d,
+	y: 0.0d,
+	shape: "square",
+	size: 1.5d,
+	tasks: [{
+		uid: "f469c6d2",
+		type: "observation",
+		match_type: "block_entity_id",
+		match: "immersiveengineering:crusher",
+		timer: 0L
+	}]
+}

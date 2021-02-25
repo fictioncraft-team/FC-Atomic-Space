@@ -1,0 +1,630 @@
+#Chapter 1
+title.geiger.name=Extra Geiger
+
+title.getwarm.name=Warm Up Myself
+des.getwarmscavenge=It's pretty cold here, maybe I can try hit the rocks with my fist to warm myself up. [Shift rightclick on Icy stone or permafrost]
+
+title.first.name=Woke Up In An Unfamiliar Place
+des.first=Tip: The longer you stay in this icy dimension, the more radiation you get. So make sure not spend too much time before you get radaway production. Btw, you can do /sethome
+
+title.radioactivateplanet.name=Radioactive Planet
+des.radioactivateplanet=Your name is Steve. You wake up in the ice, freezing cold. You look at your surroundings, very confused. Because you remember that you lived on a beautiful planet, named, the "Overworld". But this place, is full of ice and darkness. You are in a hazmat suit, and upon closer inspection you see strange glowing symbols on it, you also have a geiger counter. You realize that this place has high levels of radiation.
+
+title.dirtresource.name=Resources From The Dirt
+des.dirtresource=After digging around a little bit, I find out that there is frozen dirt underneath the ice. I might be able to find something useful in the dirt by digging through it a little more. [Shift-Rightclick Icy Dirt]
+
+title.sapling.name=Sapling
+des.sapling=I find out that it is possible to create a tree sapling with the poor resources I discovered from the frozen dirt.
+
+title.sticks.name=Sticks
+des.sticks=I am able to find some branches in the sapling that I created.
+
+title.plank.name=Good Old Planks
+des.plank=I found out that if I put the sticks together, I am able to make a little little piece of wooden plank.
+
+title.craftingtable.name=Legacy Crafting
+des.craftingtable=With the useful resource I got. I can make a simple work table with 4 wood planks, that will help me work other stuffs in the future.
+
+title.log.name=Wood Log
+des.log=I choped down the tree, and got some log without hurting myself :)
+
+title.chop.name=Chop Chop Chop
+des.chopingblock=Craft a chopping block to chop down wood to get planks
+
+title.bed.name=A Weird Block
+des.bed=The dust I got from burning the bottom of the seems unusual. I can make a weird looking block with it. And it seems to have some kind of attraction to me. [Right click to set spawnpoint]	
+
+title.watersaw.name=Water Powered Saw
+des.watersaw=I realize that to get wooden planks and sticks, vital resources for survival, I need to make a water-powered saw. I realize that i will need multiple materials to make the saw, which include wood and flint. It comes to me that to operate the saw, I will need to place water so it flows over the saw, and then right-click with something to cut it.
+
+title.basictool.name=Basic Tools
+des.woodpick=Under the couple layers of icy dirt, apparently, stone got frosted into icy stone. I should be able to break those with a pickaxe
+
+title.artisan.name=More Crafting
+des.artisan=The current crafting table does not seem to be conducive to the production of sophisticated things, I should be able to use some other tools on the basis of the original workbench to create a better workbench for more complex synthesis.
+
+title.fire.name=Eternal Fire
+des.fire=After burning some log in the kiln, the logs changed into a charcoal looking block. Looks like a good block  to start a fire on.
+
+title.grill.name=Simple Furnace
+des.stonegrill=I must make a stone grill next. It is made using cobblestone slabs, cobblestone, and bricks in a mason's worktable. It can be used as a primitive furnace, you realize.
+
+title.strainer.name=Resources From The Water
+des.strainer=Now I got the grill. I can start processing up cobblestone to get stone. I think stone is a stronger material then cobblestone. I should probably use stone to make something like a strainer and a net that I can make with the twine I got, to see if there are anything useful in the water here.
+
+title.enterbeneath.name=An Odd Place
+des.wthishere=Oh Merlin's Beard! Where is here? Is this like the underground part of this planet? Oh look! There are even resources here. Even though its full of ice. Also, it seems like there are even more radiation here than where I was according to my geiger.
+
+title.beneathresource.name=The Other Part of The Planet
+des.beneathresource=The bottom layer of this place seems unusual. When it comes into contact with flames, it will produce a chemical reaction, and there is a certain probability that a strange kind of dust will be produced.
+
+title.chapter2.name=What Happens Next
+des.chapter2=I realize that I can summon an mysterious important piece of writing. I can make it with 4 iron, 4 infinity dust, and one book. It seems that someone or something has written a book, and reading it would help me survive and progress in this harsh world
+
+title.iron.name=Iron
+des.iron=Yes! I was right. Even though it doesn't seem like there are any resources on the planet, but I can still find useful stuff in the water.
+
+title.underportal.name=Going Deeper
+des.underportal=A weird thing happened, this isn't my memory, but I know that this iron port key can magically remove bedrock. Somehow, when I shift-right-click this key onto bedrock, it will remove it. This is the key to moving from the crust to the mantle of overworld-2464. I can jump into the hole to arrive safely into the mantle. Note: Shift-rightclick  the bedrock on the top with the iron port key to go back to the crust.
+
+title.bedexplode.name=§6READ THIS
+des.bedexplode=Bed will explode on this planet. Do not use bed.
+
+#Chapter 1 description
+des.cobblestone=It comes to me that my next step in surviving is to obtain a basic material, cobblestone. I understand that i will need to throw permafrost into fire to obtain this ordinary rock. Fire is something I see I can make with two fire sticks, with one in my main hand and one in my offhand. I right-click both sticks on a block to set it aflame. Lastly, I will throw the permafrost, obtained from the mining of icy stone, into the fire I have created to make cobblestone.
+
+des.brick=I must get bricks now. I can achieve this by burning clay in a kiln, which will give me a brick. Clay I can get by crushing sand in a mortar.
+
+des.mortar=The next step I must take is to make a wooden mortar. It is constructed with flint, wood, and sticks in a crafting table. This mortar will be used for many things in the future, so I would be wise not to lose it.
+des.mortar2=Note: You get flint from gravel, gravel from rocks, rocks from using a pickaxe on bedrock
+
+des.crucible=A crucible, I realize, is what i need to survive and progress. It is made using bricks in a mason table, and it will be used to melt various items into fluids. One important use it has is obtaining molten iron.
+
+des.ironwoodsap=Iron is an important resource to obtain now, I realize. I can make it primitively with the ironwood sapling, which is made when I throw a sapling into molten iron. The ironwood sapling can be grown, and it will drop ironberries, which can be processed into iron.
+
+des.ironberry=The Ironwood tree has finally produced iron berries. These, as I understand, can be processed into iron. First I must crush them in a crushing tub into iron berry juice, then I can dry it in a drying basin to get iron dust, which can be smelted to finally get iron nuggets.
+
+des.crushingtub=I realize that i need to make a crushing tub. It is made out of adobe bricks, which can be made in a crafting table with anything that has the oredictionary entry `materialbinding`, some clay, and 2 sand piles. This tub can be used by placing an item in it and jumping on it.
+
+des.ironnugget=Iron nuggets, I remember, can be made by smelting the iron dust made from drying ironberry juice. The process of making ironberry juice is described in the iron berry quest.
+
+des.dryingbasin=I realize I need a drying basin, which can easily be made with 3 terracotta. It is used to dry various resources to turn them into other resources.
+
+des.dryingrack=I think I should be able to make a simple drying rack to dry up the icy dirt, so I will be able to plant the sapling on there.
+
+des.dirt=I was correct. After dehydrating the icy dirt, I got some normal dirt.
+
+des.storagebarrel=Its a storage barrel. What are you expecting it to be?
+
+des.twine=This twine made out of plant fiber seems to be pretty strong, it should work as strings as well.
+
+des.bladder=After scavenging some sand, I found some rotten flesh in the sand. I should be able to dry those into leather with the drying rack
+
+des.claykiln=I've seen people using clay to make a simple kiln when i was still on the Overworld with other people... I should be able to make a kiln with the clay I got.
+
+cat.chapter1.name=Chapter 1 - Stone Age
+
+cat.sub.chapter1.name=Getting Started
+
+
+
+
+
+
+#Chapter 2
+title.ores.name=All The Ores
+des.orespawnchapter2=TIP: Ores spawn in the underground overworld-2464 very rarely. If you decided to go mine, you can go do so. But its not recommended. You can have a look at resource tab, there are some options for resource generation.
+
+title.lab.name=A Lab
+
+title.platemachine.name=Inefficient Plating Machine
+
+title.cokeoven.name=Coke Oven
+des.cokebrick=The next step in progressing technologically would to make a coke oven. Doing this is fairly complicated. The coke oven brick, which I need 27 of. I will need 4 hardened bricks, 4 dry clay, and a piece of clay. To make a hardened brick, I need to smelt a unhardened brick, which is clay, a brick, and a cob ball, which is a flow, clay, and a mud ball, which is made using dirt balls and a water bucket. These coke oven brick I realize, can be constructed in a 3x3x3 structure, and right-clicked with a engineer's hammer to form. This oven can be primarily used to create coal coke, and requires no fuel
+
+title.engineering.name=Useful Stuff
+des.engineering=I should make some useful tools for myself since I'm getting into some machines. They will help me do a lot of stuff.
+
+title.furnace.name=HooRay! Furnace
+
+title.coalcoke.name=Better Fuel
+des.coalcoke=After putting the coal into the coke oven, its turned into a enhanced version of coal, coal coke after a while. It is a better fuel than coal
+
+title.treatedwood.name=Treated Wood
+des.treatedwood=After soaking the wood with some creosote oil I got from refining the coal, it turns into a stronger wood material that is most likely not going to decay.
+
+title.alloykiln.name=Alloying
+des.kilnbrick=I realize that metallurgy is something I must get into to survive. Making alloys should be something I should get into, and I believe that can be achieved with the Alloy Kiln. It is constructed out of 8 Kiln Bricks, which are made in a masons' worktable, with 250mB of lava, 4 hardened bricks, 4 sandstone, 1 coal coke, and a hammer. This makes 2 Kiln Bricks, which can be arranged in a 2x2x2 pattern and right-clicked with an engineer's hammer for form the Alloy Kiln. It is slow and requires fuel, but it is the only way for now to make alloys
+
+title.carbonalloy.name=Efficient, Noice
+des.carbonalloy=I belive I have found a good fuel source. It is called an Carbon Alloy, which can be made in the Alloy Kiln with 1 Carbon Brick, which is 3 Charcoal in an crafting table, and 1 Coal Coke. This is what I should use as a fuel source from now on, and with this I can finally make an actual torch with this
+
+title.blast.name=Blast Furnace
+des.blast=Now I think I would need a blast furnace for some stronger materials that I can not process with a normal furnace. I will need 27 of blast furnace bricks and place them as a 3x3x3 cube, and wack it with the engineer's hammer in the face, just like the coke oven, and since its a stronger furnace, I will probably need a stronger fuel as well. Normal fuels will not last very long in the blast furnace. The carbon alloy actually seems like a pretty decent fuel.
+
+title.aluminum.name=Aluminium? or Aluminum
+des.aluminum=With the blast furnace up and running, I am now able to process the aluminum amber/ore into aluminum, which is a pretty important ingredient for some stuff I'm going to make.
+
+title.waterwheel.name=Water Powered
+des.waterwheel=With some aluminum and treated wood, I should be able to make a water wheel and a kinetic dynamo to generate some power! Even though its not a lot of power, but good enough for now.
+
+title.oildrill.name=Looking For Oil
+des.oildrill=I realize if I want to keep moving forward, I will need oil. Hopefully the oil is not completely drained on the planet. However, I will need a oil sample drill to locate the oil deposit.
+
+title.pumpjack.name=PumpJack
+des.pumpjack=Now I know where the oil is. I just need a pumpjack to pump the oil out. That should be as simple as building a pumpjack in the chunk where I found the oil, and provide it some power. However, I think it does take quite a bit of power, I might want to make some thermoelectric generators.
+
+title.distallatetower.name=Distillation Tower
+des.distallatetower=To process the oil I just obtained, I will need a distillation tower, I realize. It can process the oil into 3 different kinds of fluid, what we need and the post important one is lubricant. I will need lubricant for some precision mechanics. Also, I can use the gasoline and diesel to generate more power.
+
+title.hopper.name=That's Good Lubricant!
+des.hopper=With the lubricant I got from distillation oil, I should be able to make some hoppers to transfer items around.
+
+title.immersivecrusher.name=**CAUTION** DO NOT JUMP INSIDE
+des.immersivecrusher=Now I got the hoppers which allows me to transfer item a lot easier and faster.I should use the hoppers to make a crusher that I can crush materials into their dust variance. That way I can get coke dust easier, and more efficiently
+
+title.metalpress.name=Metal Press
+des.metalpress=This simple machine should help me out a lot, I've been making plates very inefficiently through a plate presser before, and its very inefficient. This machine will allow me to press ingots into plates easier.
+
+title.oilgenmk1.name=Oil Generator MK1
+des.ieoilgendisable=Note: IE Oil Generator, Steam turbine is disabled
+
+title.squeezer.name=Squeeky Ducky
+des.squeezer=In order to progress, I need graphite. Graphite is made out of a lot of carbon, and one thing I know have a lot of carbon is carbon alloy. I should be able to squeeze all the coke dust into HOP graphite dust. That way I can get graphite ingot.
+
+title.hopgraphite.name=Hop Hop Hop
+des.hopgraphite=This material is highly condensed carbon. It should open up easy access of steel for me. It is a strong material which I could potentially use for high-tech items in the future as well.
+
+title.researchtable.name=Acquiring Knowledge
+des.researchtable=This world is mysterious, and to only hope to come back home, acquiring more knowledge is something needed. HOP Graphite and Steamium provide me sturdy materials for the conception of my next goal. This so-called "Next Goal" would be some sort of device, for analyzing materials and complex constructs, a machine that could help me understand this world more and more, allow me to research for more advanced technologies. A screen as a visual support would be useful as well.
+
+title.chapter3.name=Entering The Next Chapter
+des.chapter3=It's time, to move on. The research table I made really helped me out a lot. After doing some research, with the knowledge I have now, it would not be hard to progress to another whole new section of my journey now I think.
+
+title.processmachine.name=Processing Machine
+des.processmachine=This, is the first large machine that I designed, and built. I don't know if it is going to do what I want it to, but its worth a shot. If it works properly, I will be able to create some materials that are not commonly seen by human.
+
+title.empower.name=Empowering
+des.empower=Tech? Magic? I have no idea. But the idea of this machine pop into my mind one day, and it will allow me to create some physically and chemically combined materials to create or empower materials rather than just physical alloy. I should be able to put it in good use.
+
+title.imtechboiler.name=Boiler
+
+title.fluidpipe.name=Fluid Transfer
+
+title.modularium.name=Here We Are, Modular Machinery
+des.modularium=This, a human made metal. Not an alloy, not an element, it is actually surprisingly strong and malleable. I can use it to make some large machines.
+
+title.distilleryname=Distillery
+
+title.thermallogistics.name=Thermal Logistics
+
+title.atomicreconstructor.name=Reconstructing the Atoms
+des.atomicreconstructor=This machine will allow me to reconstruct the pattern of atoms of matter in this world. That would allow me to create some normally unobtainable materials like ethetic blocks and crystals of many kinds.
+
+des.steamium=Wow, it is actually incredible. I did not expect this to work this well. It successfully infused steam into the modular metal I created with the empowering machine. So far, the metal looks stable, has high corrosion resistance ability and conductivity. I should be able to use it well.
+
+des.nowaterboiler=Note: You do not get steam from boiling water!
+
+cat.chapter2.name=Chapter 2 - Getting an Upgrade
+
+cat.sub.chapter2.name=Multiblocks..
+
+
+
+
+
+
+#Chapter 3
+title.immersivemixer.name=Mixing Fluids With Items
+des.immersivemixer=In this specific case, I will need to create a special material kind of like glue and clay. Construable and has the effect of glue or slime. For that, I think I will need to mix several different materials with some distilled water and infuse that liquid into some polymer clay.
+
+des.inscriber=Inscribing processors would be necessary now I think. Some machines I am about to make contains some high tech which will require some sort of processors or circuits in order for it to work.
+
+title.assemblymachine.name=Assembling Machine
+des.assemblymachine=Obviously, in order to make some more advanced stuff, I can not just keep making them in a basic crafting table with my hands. To do these precision crafts I would need an assembly machine to do the job for me.
+
+des.steamiumprocessor=Aha! The steamium I made earlier in the processing machine is now coming in handy. It is actually a very good material to produce processors because the high conductivity of the material.
+
+title.emberhammer.name=This Is Not The Hammer From Tinker
+
+title.mechcore.name=Heart Of Mechanisms
+des.mechcore=Mechanical core, a very complex mechanism, require steel, lead, steamium, and variance processors. Used to construct a lot of important machines. I should be able to craft it in the new assembly machine I designed.
+
+title.emberbore.name=Ancient Potentia
+des.emberbore=After some research, I believe that I accidentally discovered a sort of ancient energy. Those energy are stronger, and preciser than you think. It contains heat, and some sort of sorcery and enchantments. I believe that I can use it to power some machines.
+des.emberboretip=Note: Ember can be only mined from the Overworld-2464 Mantle
+
+title.embercrystal.name=Crystals From Thousands Year Ago
+des.embercrystal=Hmm, these crystals, they might be what I am looking for. Even though they look tiny. But do not question the power that is contained inside it. I believe, these small tiny little crystals will help me rekindle the civilization of humans.
+
+title.generateember.name=Generate These Ancient Energy
+des.generateember=Ember, seems like thats the name of the ancient energy. I think I will need to make this machine to turn the crystals into usable energy for machines.
+
+title.transferember.name=Transferring And Receiving
+des.transferember=For transferring this "ember", I think I will need something like a transmitter and receiver. In theory, it is kind of like a orange laser beam, that could be transfered around using these transmitter and receiver. Note:It needs a redstone signal to start.
+
+title.embermelter.name=Melt It Down
+des.embermelter=
+
+title.emberalloy.name=Mixing Fluids
+
+
+title.stamper.name=Stampers
+
+
+title.dawnstone.name=Don't Let Me Dawn
+
+
+title.oilmk2.name=Oil Generator MK2
+
+
+title.produceash.name=It's All Ash
+
+
+title.ancientgolem.name=Ancient Golem
+
+
+title.exchangecraft.name=Exchange With Ash
+
+
+title.chapter4.name=The Next Chapter...
+
+
+title.twilightportal.name=A Magical Portal
+des.steamiumkey=Build the portal with twilight leaves, light it with the key
+
+title.twilight.name=The Forest Of Eternal Twilight
+
+
+title.feather.name=Raven Feather
+
+
+title.naga.name=Naga
+
+
+title.lich.name=Evil Lich
+
+
+title.minoshroom.name=Cow Head Horse Body
+
+
+title.hydra.name=Hail Hydra
+
+
+title.phantom.name=The Ghost Of Dead Knight
+
+
+title.urghast.name=Ghast...Ghost...
+
+
+title.yeti.name=Poor Yeti
+
+
+title.twilightmatter.name=Matter Of The Forest
+
+
+cat.chapter3.name=Chapter 3 - Acquire Hardware
+cat.sub.chapter3.name=The Mysterious In The Ancient Forest...
+
+
+
+
+
+
+#Chapter 4
+title.cuttingmachine.name=Cutting Machine
+
+
+title.crystal.name=Shiny Crystal
+
+
+title.astralsorcery.name=Researching the stars
+
+
+title.ae2.name=Better Storage
+
+
+title.assemblymk2.name=Even Better Assembling Machine
+
+
+title.compactprojector.name=Compacting Projectors
+
+
+title.deepmob.name=Knowledge About Mobs
+
+
+title.chapter5.name=Greetings, Advanced Machines..
+
+
+des.astralupgrade=I don't think there is enough arcane energy here for me to upgrade the altar. I maybe be need to create a chamber full of arcane energy for me to upgrade the altar. [You can not upgrade your altar in Overworld-2464 Crust]
+
+cat.sub.chapter4.name=Stars, Machines.
+cat.chapter4.name=Chapter 4 - Isn't It Iron Pick
+
+
+
+
+
+
+
+#Chapter 5
+title.sulfuricacid.name=Sulfuric Acid Production
+
+
+title.createcrystal.name=Crystal Creation
+
+
+title.crystalmek.name=Purest Metal
+
+
+title.createhdpe.name=Plastic!
+
+
+title.manainfuse.name=Mana Infusion
+
+
+title.apothecary.name=Industrial Apothecary
+
+
+title.botaniaflower.name=Mystical Flowers
+
+
+title.manageneration.name=Generating Mana
+
+
+title.ethanol.name=Ethanol
+
+
+title.organic.name=Organic Reconstructor
+
+
+title.dilutedmanapool.name=Diluted Mana Pool
+
+
+title.oreminertier1.name=Void Ore Miner
+
+
+title.chapter6.name=Space, I'm Coming!
+
+
+des.manageneration=Yes, you didn't read this wrong. You have to generate mana from a machine in this place. The mana generating flowers are too weak to survive under the strong radiation here. (This modular machinery machine works a bit wonky, even its say energy input hatch not found, other recipes still work!)(The mana output hatch is kinda like a mana pool, put spreader beside the output hatch will extract the mana from the hatch)
+cat.sub.chapter5.name=Environmental Friendly?
+cat.chapter5.name=Chapter 5 - Hot Stuff
+
+
+
+
+
+
+#Chapter 6
+title.pressurechamber.name=Pressure Chamber
+
+
+title.circuitetching.name=Circuit Etching
+
+
+title.preparerocket.name=Preparing For Space
+
+
+title.buildrocket.name=Build Your Rocket
+
+
+title.chapter7.name=Near the End
+
+
+title.ncwasteland.name=Overworld-2400 Danger-zone
+
+
+title.ghoul.name=Feral Ghoul
+
+
+title.resurgence.name=Resurgence Machine
+
+
+title.chickenstory.name=Abandoned Secret Lab
+
+
+title.resourcenuclear.name=Resource In the Wasteland
+
+
+des.metalalloykey=Shift-Rightclick the bottom bedrock in the Overworld-2464 Mantle, Use the key on top bedrock in Overworld-2464 Core to go back.
+
+
+des.dangerzone.note=[Note: It is highly recommended that you make some radiation shielding before entering the danger zone. The radiation there is extremely dense. There are also deadly ghouls that will try to kill you.]
+
+
+cat.chapter6.name=Chapter 6 - We Need to Go Deeper
+
+
+
+
+
+
+#Chapter 7
+title.laser.name=Laser Engraving
+
+
+title.endportal.name=End Portal
+
+
+title.revivedragon.name=Enderdragon Revival
+
+
+title.infusiondrac.name=Fusion Crafting
+
+
+title.overworldhome.name=I'm... Home......
+
+
+title.enderdragon.name=Dragon Slayer
+
+
+title.wyverninfusion.name=Wyvern Infusion
+
+
+title.collectdata.name=Collect Satellite Data
+
+
+title.buildsatellite.name=Building Some Satellites
+
+
+des.end=Shift-right click a piece of bedrock to go back
+
+
+cat.chapter7.name=Chapter 7 - The End......
+
+
+
+
+
+
+#Misc Chapter
+title.cobblegen.name=(Cobble)Stone Generator
+
+
+title.comfort.name=Make yourself comfortable here
+
+
+title.warmquestline.name=Warm Up Yourself
+
+
+title.waterquestline.name=I Need Water
+
+
+title.torchquestline.name=Light These Up
+
+
+title.radiationquestline.name=Radiation, QUIT!
+
+
+title.cleanupradiation.name=Cleaning Up Radiation
+
+
+title.backpack.name=Useful Backpack
+
+
+title.seeds.name=Collect All The Seeds!
+
+
+title.artisanauto.name=Automating Artisan Workbench
+
+
+title.brew.name=Are You An Alcoholic?
+
+
+title.foodmachine.name=Food Making Machine, For You
+
+des.linertip=You can put multiple liners on 1 armor :P
+
+cat.comfort.name=Make Yourself Comfortable!
+
+
+
+
+
+#Powah
+title.lvpowah.name=Lv Transfer
+
+
+title.mvpowah.name=Mv Transfer
+
+
+title.hvpowah.name=Hv Transfer
+
+
+title.oilmk1powah.name=Oil Generator Mk1
+
+
+title.oilmk2powah.name=Oil Generator Mk2
+
+
+title.steampowah.name=Steam Power
+
+
+title.cryfluxductpowah.name=Ultimate Power Transfer
+
+
+cat.powah.name=Powah
+
+
+
+
+
+
+#Resouce gen chapter
+cat.resources.name=Resources
+
+subcat.oredup1.name=Ore Duplication
+
+title.iecrusher.name=Immersive Crusher
+
+des.oregeninfo=The ore generation in this modpack only happens in the Underground Overworld-2464 or the End, and it works kind of like gregtech ore generation. But the ore veins are generally smaller and rarer, because resource generation mods are recommended over mining.
+
+subcat.resourcegen1.name=Resource Generation | Method 1
+
+subcat.resourcegen2.name=Resource Generation | Method 2
+title.automatemethod2.name=Automate This Method
+title.resourcegenmethod2.name=Recipes for Fluid Interactions
+subtitle.resourcegenmethod2=The in-world fluid interactions work a little weird due to how minecraft works. So we suggest you to use the chalice to generate resource under this method.
+title.secondaryres2.name=For players can not open the sheet
+subtitle.secondaryres2=IO=Infused Ore, MF=Mineral Fluid
+
+subcat.resourcegen3.name=Resource Generation | Method 3
+
+subtitle.skyorchard=Note: The drops have been nerfed!
+
+
+#Challenge chapter
+cat.challenge.name=Challenge-You Need a Mint
+title.allthequests.name=Congrats! You finished All The Quests
+
+
+#Chicken chapter
+title.chickeninfo.name=Chicken Info
+
+title.eggseparator.name=Egg Enrichment Separator
+
+des.chickeninfo=Note: Chicken is not §6necessary§f if you are not going to the creative items. Some of the chickens can be obtained from crafting, some chickens can be only obtained from exploring dimensions look for the custom resource chicken lab structures. Also, at this point, chickens aren't really the way you get resource anymore, its a way to collect stacks of stacks of resources for the grindy recipes for the creative items.
+des.chickenlore=After doing some research in the abandoned labs from all over the universe, seems like there was an organization of a group of people(questionable) or some creature was doing some cruel experience with chickens, by mutating them and infuse different kind of materials into their body to make some produce these infused materials. They must be out of resources on their planets, if not why would they do this to these innocent chickens. The chickens all seem to be alive, maybe I can actually put them to use?
+
+des.draconiumchicken=Can be found with a 5% chance in the §6end city loot chest§f and the "Abandoned Void Chicken Lab" on the first chaos guardian island (not 5% on this one).
+
+des.awakenedchicken=Have a very low chance that can be found in the loot chest of §6"Abandoned Void Chicken Lab"§f on the first chaos guardian island. Also can be obtained from crafting.
+
+des.smartchicken=Can be found in the "Secret Chicken Lab" on the §6Overworld-2400 Danger-zone§f. (The lab spawn at x200 z200)
+
+des.titaniumchicken=Have a low chance that can be found in the loot chest of "Abandoned Mutant Chicken Lab" that spawns on the §6Luna.
+
+des.emeraldchicken=Can be found in §6dungeon§f also can be §6crafted.
+
+des.glitchchicken=Can be found from the §6Glitched Dimension Challenge.
+
+des.silverchicken=Can be found from the §6Glitched Dimension Challenge.
+
+des.compactchicken=Can be found from the §6Glitched Dimension Challenge.
+
+des.cancraftchicken=Can be §6crafted.
+
+des.lumiumchicken=Can be found in under water temple §6on Ocenato Planet.
+
+des.mithrilchicken=Can be found in under water temple §6on Ocenato Planet.
+
+des.enderpearlchicken=Can be found in under water temple §6on Ocenato Planet.
+
+des.aquamarinechicken=Can be found in under water temple 2 §6on Ocenato Planet.
+
+des.dropghoul=Can be obtained as a §6 drop from feral ghoul when killed with magic damage.
+
+des.canbreed=Can be obtained from breeding 2 different kinds of chicken together.
+
+des.mercurychicken=Can be found in a lab ruin §6on Mercury§f, found in both §6Volcanic and HotDryRock biome§f, more commonly seen in Volcanic biomes
+
+
+
+
+#hidden chapter
+cat.story.name=The Mystery of Atomic Space
+title.noteinchest.name=Mysterious Notebook
+des.noteinchest=Find a meteor and open the chest inside.
+title.thelab.name=The Lab
+des.thelab=Find the lab.

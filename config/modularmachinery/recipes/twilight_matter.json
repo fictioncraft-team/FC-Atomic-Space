@@ -1,0 +1,48 @@
+{
+    "machine": "assembly",
+    "registryName": "twilight_matter",
+    "recipeTime": 150,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "deepmoblearning:living_matter_twilight",
+            "amount": 7
+        },
+		{
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 10
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "twilightforest:fiery_ingot",
+            "amount": 1
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "twilightforest:knightmetal_ingot",
+            "amount": 3
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "twilightforest:torchberries",
+            "amount": 5
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "twilightforest:liveroot",
+            "amount": 2
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "twilightforest:steeleaf_ingot",
+            "amount": 1
+        }
+    ]
+}

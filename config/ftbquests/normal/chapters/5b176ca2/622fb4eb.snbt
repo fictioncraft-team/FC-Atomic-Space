@@ -1,0 +1,31 @@
+{
+	x: -2.0d,
+	y: 3.5d,
+	text: [
+		"{des.glitchchicken}"
+	],
+	tasks: [{
+		uid: "7d801b1a",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "contenttweaker:glitched_chicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "26bcff3f",
+		type: "item",
+		item: "deepmoblearning:glitch_heart",
+		count: 6
+	},
+	{
+		uid: "76e6fb9f",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

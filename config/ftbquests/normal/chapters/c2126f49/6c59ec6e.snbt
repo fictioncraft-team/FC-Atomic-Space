@@ -1,0 +1,11 @@
+{
+	x: -4.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "e549801d",
+		type: "item",
+		items: [{
+			item: "randomthings:rainshield"
+		}]
+	}]
+}

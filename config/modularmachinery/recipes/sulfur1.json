@@ -1,0 +1,24 @@
+{
+    "machine": "cutting_machine",
+    "registryName": "sulfur1",
+    "recipeTime": 150,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "thermalfoundation:material@771",
+            "amount": 20
+        },
+        {
+			"type": "ember",
+			"io-type": "input",
+			"ember": 40.0
+		},
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:blaze_rod",
+            "amount": 1
+        }
+    ]
+}

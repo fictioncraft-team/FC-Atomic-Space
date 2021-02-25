@@ -1,0 +1,25 @@
+{
+	x: -3.5d,
+	y: -1.5d,
+	dependencies: [
+		"2b70e1f2"
+	],
+	tasks: [{
+		uid: "ccf92773",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "pneumaticcraft:amadron_tablet",
+			Damage: 30000s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "966adf9c",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

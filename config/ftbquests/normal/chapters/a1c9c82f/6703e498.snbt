@@ -1,0 +1,24 @@
+{
+	title: "{title.craftingtable.name}",
+	x: -0.5d,
+	y: 4.0d,
+	text: [
+		"{des.craftingtable}"
+	],
+	dependencies: [
+		"abd38773"
+	],
+	tasks: [{
+		uid: "221b79bd",
+		type: "item",
+		items: [{
+			item: "minecraft:crafting_table"
+		}],
+		consume_items: false
+	}],
+	rewards: [{
+		uid: "1e5e18a5",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

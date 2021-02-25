@@ -1,0 +1,60 @@
+{
+	title: "{title.first.name}",
+	icon: "minecraft:stone",
+	x: -0.5d,
+	y: 0.5d,
+	shape: "rsquare",
+	text: [
+		"{des.first}"
+	],
+	tasks: [{
+		uid: "f1213254",
+		type: "checkmark",
+		title: "This is FLAT and ICY"
+	}],
+	rewards: [{
+		uid: "cf5a6386",
+		type: "item",
+		item: "nuclearcraft:radaway"
+	},
+	{
+		uid: "c0b71943",
+		type: "item",
+		item: "harvestcraft:cornonthecobitem",
+		count: 2
+	},
+	{
+		uid: "e322c5b4",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "chisel:chisel_hitech",
+			tag: {
+				chiseldata: {}
+			}
+		}
+	},
+	{
+		uid: "f51d1bc0",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "jecalculation:item_calculator"
+		}
+	},
+	{
+		uid: "913c94b7",
+		type: "item",
+		item: "minecraft:torch",
+		count: 16
+	},
+	{
+		uid: "f5df1771",
+		type: "item",
+		item: "cyclicmagic:food_step"
+	}]
+}

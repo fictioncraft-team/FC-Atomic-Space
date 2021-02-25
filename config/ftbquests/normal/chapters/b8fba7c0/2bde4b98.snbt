@@ -1,0 +1,82 @@
+{
+	title: "{title.noteinchest.name}",
+	disable_toast: true,
+	x: 2.0d,
+	y: 0.5d,
+	text: [
+		"{des.noteinchest}"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "ea1d248d",
+		type: "interaction",
+		icon: "appliedenergistics2:sky_stone_chest",
+		match_type: "block_id",
+		match: "appliedenergistics2:sky_stone_chest"
+	},
+	{
+		uid: "c0ffce9e",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "2dcb77c6",
+		type: "item",
+		team_reward: false,
+		auto: "invisible",
+		item: {
+			id: "minecraft:written_book",
+			tag: {
+				pages: [
+					"{\"text\":\"October 17th 2464:\\n\\nI saw some weird black marks on the sun during the daily sun observation task. I do not think it is a good sign. I should start a research about it... I need to tell my boss.\"}",
+					"{\"text\":\"October 18th 2464:\\n\\nThe black marks are growing... I don\\u0027t think I have any idea what it is, but I think its not good.\"}",
+					"{\"text\":\"October 19th 2464:\\n\\nIts growing really big now, you can see it without the scientific telescope. I am afraid that this is a sign of deprecation of the sun...\"}",
+					"{\"text\":\"October 20th 2464\\n\\nIt is even bigger now, people are able to see it from the street. People are freaking out. Some other space scientists are starting a research project on it.\\n\"}",
+					"{\"text\":\"October 21st 2464:\\n\\nThe marks are growing, the sun\\u0027s ray gradually dimmed\\nPeople are freaking out. Governments are freaking out... They think that humanity is doomed.\"}",
+					"{\"text\":\"October 22nd 2464:\\n\\nChaos... Murder, robbery, crimes, even war... Civilization, its just a lie. Everything will be different, when a time like this comes. Actual high educated people are being ruled by the vilians.\"}",
+					"{\"text\":\"October 23rd 2464:\\n\\nSuicides, a ton of suicide cases just got reported this morning. Bodies are all over the streets, shops are no longer avaliable. No one have faith to continue their lives. Most people are dead, or dying.\"}",
+					"{\"text\":\"October 24th 2464:\\n\\nThe black spot, its huge now covered 3 quarters of the sun. The sun is old... its dying, like humans... I will probably be dead in a few days... If anyone sees this by any chance. Go to my lab. There are some information that I\"}",
+					"{\"text\":\"discovered. It is at X: 20000, Z: 10000. Go! You will find something that will help revive humanity.\"}",
+					"{\"text\":\"October 25th 2464:\"}",
+					"{\"text\":\"October 26th 2464:\"}",
+					"{\"text\":\"October 27th 2464\"}",
+					"{\"text\":\"October 28th 2464:\"}",
+					"{\"text\":\"October 29th 2464:\"}",
+					"{\"text\":\"October 30th 2464:\"}",
+					"{\"text\":\"October 31st 2464:\"}"
+				],
+				author: "Professor Alex",
+				title: "Alex's NoteBook"
+			}
+		}
+	},
+	{
+		uid: "4cdc097d",
+		type: "item",
+		auto: "invisible",
+		item: {
+			id: "minecraft:written_book",
+			tag: {
+				pages: [
+					"{\"text\":\"10月17日2464:\\n\\n我在每天的太阳观测任务中看到太阳上有一些奇怪的黑印, 我不认为这是一个好兆头\\n我应该开始研究一下...\"}",
+					"{\"text\":\"10月18日2464:\\n\\n黑印越来越多... ... 我不知道那是什么 但我觉得它不太妙\"}",
+					"{\"text\":\"10月19日2464:\\n\\n现在它变得非常大，不用科学望远镜就可以看到它. 我担心这是太阳衰落的征兆...\"}",
+					"{\"text\":\"10月20日2464:\\n\\n它现在变得更大了 人们在街上就能看到它了，人们都吓坏了，一些其他的太空科学家正在开始一个研究项目...\"}",
+					"{\"text\":\"10月21日2464:\\n\\n...印记在增长，太阳的光线逐渐变暗... ...人们都吓坏了，政府也吓坏了... 他们认为人类注定要灭亡...\"}",
+					"{\"text\":\"10月22日2464:\\n\\n混乱... 谋杀、抢劫、犯罪，甚至战争... ... 文明，只是一个谎言 到了这个时候，一切都会不一样了. 真正受过高等教育的人，正被恶人统治着\"}",
+					"{\"text\":\"10月23日2464:\\n\\n自杀案，今天早上刚收到一吨自杀案的报告。街上到处都是尸体，商店也无法营业了. 没有人有信心继续生活 大部份人都死了，或者快死了...\"}",
+					"{\"text\":\"10月24日2464:\\n\\n黑点，巨大的黑点现在已经覆盖了四分之三的太阳。太阳已经老了... 它正在死去，就像人类一样... 我可能过几天就会死了... ... 如果有谁看到这个 到我的实验室去看看 有一些资料是我发现的。它在X: 20000, Z: 10000. 去吧! 你会发现一些有助于重振人类的东西\"}",
+					"{\"text\":\"10月25日2464:\"}",
+					"{\"text\":\"10月26日2464:\"}",
+					"{\"text\":\"10月27日2464:\"}",
+					"{\"text\":\"10月28日2464\"}",
+					"{\"text\":\"10月29日2464:\"}",
+					"{\"text\":\"10月30日2464:\"}",
+					"{\"text\":\"10月31日2464:\"}"
+				],
+				author: "教授Alex",
+				title: "Alex的笔记本",
+				resolved: 1b
+			}
+		}
+	}]
+}

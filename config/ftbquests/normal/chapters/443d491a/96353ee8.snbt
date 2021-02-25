@@ -1,0 +1,26 @@
+{
+	title: "{title.wyverninfusion.name}",
+	x: -7.0d,
+	y: 8.0d,
+	dependencies: [
+		"4e0a3aac"
+	],
+	tasks: [{
+		uid: "8a80d99c",
+		type: "item",
+		items: [{
+			item: "draconicevolution:crafting_injector 1 1"
+		}],
+		count: 9L
+	}],
+	rewards: [{
+		uid: "d5c375aa",
+		type: "item",
+		item: "draconicevolution:draconium_chest"
+	},
+	{
+		uid: "66e9af56",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

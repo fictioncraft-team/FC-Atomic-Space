@@ -1,0 +1,28 @@
+{
+	x: 0.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "27594b07",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "morechickens:blackquartzchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "c8e19316",
+		type: "item",
+		item: "actuallyadditions:item_misc 1 5",
+		count: 16
+	},
+	{
+		uid: "61fc92f7",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,16 @@
+ {
+  "name": "additionalcompression:dirt_compressed:7",
+  "mod": "additionalcompression",
+  "soil": {
+    "name": "additionalcompression:dirt_compressed",
+    "data": 7,
+    "ignoreMeta": false
+  },
+
+  "modifiers": {
+    "growTime": 0.2,
+    "dropChance": 2.6
+  },
+
+  "providedTags": [ "dirt", "grass" ]
+}

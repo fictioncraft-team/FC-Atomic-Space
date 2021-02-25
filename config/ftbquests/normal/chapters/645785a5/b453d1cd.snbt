@@ -1,0 +1,35 @@
+{
+	title: "{title.allthequests.name}",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "buildinggadgets:constructionpastecontainercreative"
+	},
+	x: 8.0d,
+	y: 3.0d,
+	shape: "gear",
+	dependencies: [
+		"8588ceea",
+		"a1c9c82f",
+		"443d491a",
+		"07d475b3",
+		"b084dbcc",
+		"890f3201",
+		"a7c54c14",
+		"3c8ef53c",
+		"f91511c6",
+		"aacd5b79",
+		"5b176ca2",
+		"dfc4b57c",
+		"2d8e4ff4",
+		"c2126f49",
+		"c56a82f7"
+	],
+	size: 1.5d,
+	rewards: [{
+		uid: "5e8ab12a",
+		type: "item",
+		item: "extrautils2:creativechest"
+	}]
+}

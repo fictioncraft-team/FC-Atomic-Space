@@ -1,0 +1,19 @@
+{
+	x: -2.5d,
+	y: 6.0d,
+	dependencies: [
+		"c2a4d25b"
+	],
+	tasks: [{
+		uid: "92d04f2b",
+		type: "item",
+		items: [{
+			item: "embers:stamp_bar"
+		}]
+	}],
+	rewards: [{
+		uid: "4f32d0a8",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

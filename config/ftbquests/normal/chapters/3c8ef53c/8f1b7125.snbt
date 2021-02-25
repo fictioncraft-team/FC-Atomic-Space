@@ -1,0 +1,19 @@
+{
+	x: 12.5d,
+	y: 1.5d,
+	shape: "circle",
+	hide_dependency_lines: true,
+	dependencies: [
+		"a731ed31"
+	],
+	tasks: [{
+		uid: "f8cac8af",
+		type: "item",
+		items: [{
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:molecule_reformer"
+			}
+		}]
+	}]
+}

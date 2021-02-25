@@ -1,0 +1,31 @@
+{
+	x: -4.0d,
+	y: -0.5d,
+	text: [
+		"{des.silverchicken}"
+	],
+	tasks: [{
+		uid: "f690d092",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "morechickens:silverorechicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "11aa7399",
+		type: "item",
+		item: "thermalfoundation:material 1 130",
+		count: 16
+	},
+	{
+		uid: "7991a303",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

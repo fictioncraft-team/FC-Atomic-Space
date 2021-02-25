@@ -1,0 +1,31 @@
+{
+	x: 1.0d,
+	y: 5.0d,
+	text: [
+		"{des.canbreed}"
+	],
+	tasks: [{
+		uid: "cda43766",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "morechickens:platinumchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "5ec78762",
+		type: "item",
+		item: "thermalfoundation:material 1 134",
+		count: 16
+	},
+	{
+		uid: "10fb5d74",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

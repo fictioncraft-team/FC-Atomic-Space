@@ -1,0 +1,21 @@
+{
+	x: 4.875d,
+	y: 2.625d,
+	shape: "square",
+	dependencies: [
+		"56e5a09e"
+	],
+	size: 0.75d,
+	tasks: [{
+		uid: "30e78c59",
+		type: "item",
+		items: [{
+			item: "enderutilities:enderpart 1 52"
+		}]
+	}],
+	rewards: [{
+		uid: "8c21bc99",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

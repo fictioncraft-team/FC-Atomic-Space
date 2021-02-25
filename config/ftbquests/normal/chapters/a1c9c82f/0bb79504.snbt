@@ -1,0 +1,21 @@
+{
+	title: "{title.enterbeneath.name}",
+	x: 9.0d,
+	y: 2.5d,
+	text: [
+		"{des.wthishere}"
+	],
+	dependencies: [
+		"35210e7f"
+	],
+	tasks: [{
+		uid: "d20c3ce3",
+		type: "dimension",
+		dim: 1100
+	}],
+	rewards: [{
+		uid: "0c4d70c1",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

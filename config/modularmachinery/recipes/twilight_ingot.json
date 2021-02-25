@@ -1,0 +1,25 @@
+{
+    "machine": "steam_machine",
+    "registryName": "twilight_ingot",
+    "recipeTime": 200,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "contenttweaker:twilight_ingot",
+            "amount": 8
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "iron",
+            "amount": 1152
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "deepmoblearning:living_matter_twilight",
+            "amount": 4
+        }
+    ]
+}

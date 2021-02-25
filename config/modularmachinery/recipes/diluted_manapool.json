@@ -1,0 +1,48 @@
+{
+    "machine": "assembly_mk2",
+    "registryName": "diluted_manapool",
+    "recipeTime": 200,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "botania:pool@2",
+            "amount": 1
+        },
+		{
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 512
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "botania:livingrock",
+            "amount": 5
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "contenttweaker:compact_metal_gear",
+            "amount": 1
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "environmentaltech:litherite_crystal",
+            "amount": 3
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "deepmoblearning:glitch_infused_ingot",
+            "amount": 1
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "contenttweaker:thermal_paste",
+            "amount": 1
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+	title: "{title.ores.name}",
+	icon: "thermalfoundation:ore 1 6",
+	x: -1.0d,
+	y: -0.5d,
+	shape: "rsquare",
+	text: [
+		"{des.orespawnchapter2}"
+	],
+	dependencies: [
+		"604f0b87"
+	],
+	tasks: [{
+		uid: "25efe1f4",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "55b77100",
+		type: "item",
+		item: "nuclearcraft:radaway"
+	},
+	{
+		uid: "d222ecfd",
+		type: "item",
+		item: "harvestcraft:kiwijellysandwichitem",
+		count: 2
+	},
+	{
+		uid: "09e75c46",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	},
+	{
+		uid: "7c0ce8d3",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -6578482755241870400L,
+					AS_Amulet_HolderMost: 246370443283877194L
+				}
+			},
+			id: "thermalfoundation:tool.hammer_platinum",
+			tag: {
+				ench: [{
+					lvl: 4s,
+					id: 32
+				},
+				{
+					lvl: 1s,
+					id: 70
+				},
+				{
+					lvl: 3s,
+					id: 34
+				}],
+				RepairCost: 1
+			}
+		}
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	shape: "gear",
+	size: 1.5d,
+	tasks: [{
+		uid: "a1c898c5",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:creative_energy_cell"
+		}]
+	}],
+	rewards: [{
+		uid: "b90f524d",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

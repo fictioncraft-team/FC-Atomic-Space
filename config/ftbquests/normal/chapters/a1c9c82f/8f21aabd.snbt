@@ -1,0 +1,36 @@
+{
+	title: "{title.strainer.name}",
+	x: 6.0d,
+	y: 4.0d,
+	shape: "circle",
+	text: [
+		"{des.strainer}"
+	],
+	dependencies: [
+		"094c2233"
+	],
+	tasks: [{
+		uid: "c6fd4855",
+		type: "item",
+		items: [{
+			item: "waterstrainer:strainer_base"
+		}]
+	},
+	{
+		uid: "787c2033",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "waterstrainer:strainer_survivalist"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c4287772",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

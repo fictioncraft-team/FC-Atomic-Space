@@ -1,0 +1,19 @@
+{
+	x: 2.0d,
+	y: 7.5d,
+	dependencies: [
+		"93dc1f98"
+	],
+	tasks: [{
+		uid: "cf5ee889",
+		type: "item",
+		items: [{
+			item: "mekanism:polyethene 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "6cfa9618",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

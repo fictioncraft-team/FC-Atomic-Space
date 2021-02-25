@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: 7.0d,
+	shape: "circle",
+	dependencies: [
+		"f66d4630"
+	],
+	tasks: [{
+		uid: "62dd8e60",
+		type: "item",
+		items: [{
+			item: "cyclicmagic:block_workbench"
+		}]
+	}]
+}

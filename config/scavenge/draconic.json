@@ -1,0 +1,53 @@
+{
+    "block_pools": [
+		{
+            "name": "AwakendDraconium",
+            "type": {
+                "type": "block",
+                "name": "draconicevolution:draconium_block",
+                "meta": "1"
+            },
+            "clicktype": "rightclick",
+            "properties": [
+                {
+                    "type": "swing_hand"
+                },
+                {
+                    "type": "use_command",
+                    "name": "summon",
+                    "arguments": "minecraft:lightning_bolt ~ ~ ~"
+                },
+                {
+                    "type": "require_item",
+                    "name": "draconicevolution:dragon_heart"
+
+                },
+                {
+                    "type": "spawn_explosion",
+                    "disableJEI": true,
+                    "power": 1.2,
+                    "flame": false,
+                    "smoking": true
+                },
+                {
+                	"type": "require_item",
+                	"name": "draconicevolution:wyvern_core",
+                	"offhand": true
+                },
+                {
+                    "type": "damage_item",
+                    "amount": "1"
+                },
+                {
+                    "type": "play_sound",
+                    "name": "entity.wither.spawn"
+                },
+                {
+                    "type": "consume_block",
+                    "chance": "100.0",
+                    "name": "draconicevolution:draconic_block"
+                }
+            ]
+        }
+    ]
+}

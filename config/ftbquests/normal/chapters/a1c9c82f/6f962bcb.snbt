@@ -1,0 +1,33 @@
+{
+	title: "{title.geiger.name}",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "ftbquests:custom_icon",
+		tag: {
+			icon: "fictioncraft:ftbquests/!ftb.png"
+		}
+	},
+	x: 1.5d,
+	y: 0.5d,
+	shape: "diamond",
+	can_repeat: true,
+	dependencies: [
+		"8eef079d"
+	],
+	tasks: [{
+		uid: "7514a3bc",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "18a066ff",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "nuclearcraft:geiger_counter"
+		}
+	}]
+}

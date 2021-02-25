@@ -1,0 +1,22 @@
+{
+	x: 11.25d,
+	y: 1.5d,
+	shape: "circle",
+	dependencies: [
+		"f6f221f1"
+	],
+	tasks: [{
+		uid: "1bcdf9a9",
+		type: "item",
+		items: [{
+			item: "extrautils2:ingredients 1 17"
+		}]
+	},
+	{
+		uid: "ea13cc74",
+		type: "item",
+		items: [{
+			item: "extrautils2:simpledecorative"
+		}]
+	}]
+}

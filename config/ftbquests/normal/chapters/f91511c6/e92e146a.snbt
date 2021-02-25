@@ -1,0 +1,19 @@
+{
+	x: -0.5d,
+	y: -4.5d,
+	dependencies: [
+		"9343d1c0"
+	],
+	tasks: [{
+		uid: "ab314407",
+		type: "item",
+		items: [{
+			item: "contenttweaker:empowered_chrysos"
+		}]
+	}],
+	rewards: [{
+		uid: "3650ea3a",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

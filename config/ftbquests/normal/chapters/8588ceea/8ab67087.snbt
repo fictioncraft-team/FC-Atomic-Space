@@ -1,0 +1,22 @@
+{
+	x: -5.0d,
+	y: 2.0d,
+	text: [
+		"{des.metalalloykey}"
+	],
+	dependencies: [
+		"e85b38d8"
+	],
+	tasks: [{
+		uid: "5d60b25c",
+		type: "item",
+		items: [{
+			item: "contenttweaker:strong_metal_key_e"
+		}]
+	}],
+	rewards: [{
+		uid: "ca5f9ee4",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

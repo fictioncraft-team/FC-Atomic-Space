@@ -1,0 +1,22 @@
+{
+	x: 2.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "44407514",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "contenttweaker:winter_chicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "660e6908",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

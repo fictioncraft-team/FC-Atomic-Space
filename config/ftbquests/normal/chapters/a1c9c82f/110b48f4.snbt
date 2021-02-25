@@ -1,0 +1,23 @@
+{
+	x: 3.0d,
+	y: 7.0d,
+	text: [
+		"{des.mortar}",
+		"",
+		"{des.mortar2}"
+	],
+	dependencies: [
+		"f66d4630"
+	],
+	tasks: [{
+		uid: "c2d684a6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "advancedmortars:mortar"
+		}],
+		ignore_nbt: 1b
+	}]
+}

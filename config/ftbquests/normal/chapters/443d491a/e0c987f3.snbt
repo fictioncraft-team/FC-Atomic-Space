@@ -1,0 +1,26 @@
+{
+	x: -5.5d,
+	y: 8.0d,
+	shape: "hexagon",
+	dependencies: [
+		"d8a03b12"
+	],
+	optional: true,
+	tasks: [{
+		uid: "d068ff2b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "deepmoblearning:data_model_dragon"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "70638a23",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

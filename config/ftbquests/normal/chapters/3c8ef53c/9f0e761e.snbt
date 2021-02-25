@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 1.5d,
+	shape: "gear",
+	dependencies: [
+		"b909ae1f"
+	],
+	tasks: [{
+		uid: "ba61e4e2",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_ingot"
+		}],
+		count: 4L
+	}]
+}

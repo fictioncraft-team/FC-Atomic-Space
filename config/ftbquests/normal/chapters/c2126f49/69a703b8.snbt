@@ -1,0 +1,26 @@
+{
+	x: 7.125d,
+	y: 3.75d,
+	shape: "square",
+	dependencies: [
+		"56e5a09e"
+	],
+	size: 0.75d,
+	tasks: [{
+		uid: "4c60866f",
+		type: "item",
+		items: [{
+			item: "enderutilities:enderpart 1 54"
+		}]
+	}],
+	rewards: [{
+		uid: "62ec09ec",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	},
+	{
+		uid: "49fc68f2",
+		type: "item",
+		item: "darkutils:ender_hopper"
+	}]
+}

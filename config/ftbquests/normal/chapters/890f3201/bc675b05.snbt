@@ -1,0 +1,44 @@
+{
+	title: "{title.ae2.name}",
+	x: -3.5d,
+	y: 7.5d,
+	shape: "hexagon",
+	dependencies: [
+		"604e8c36"
+	],
+	optional: true,
+	tasks: [{
+		uid: "a9a6a63d",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:controller"
+		}]
+	},
+	{
+		uid: "4b2c12b5",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:drive"
+		}]
+	},
+	{
+		uid: "82cf4be5",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:part 1 16"
+		}],
+		count: 16L
+	},
+	{
+		uid: "d882a89a",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:part 1 360"
+		}]
+	}],
+	rewards: [{
+		uid: "a5619fba",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

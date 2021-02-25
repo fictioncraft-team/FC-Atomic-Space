@@ -1,0 +1,33 @@
+{
+	x: -5.0d,
+	y: -2.0d,
+	shape: "square",
+	hide_dependency_lines: true,
+	dependencies: [
+		"599ed4f8"
+	],
+	hide: true,
+	tasks: [{
+		uid: "dc19c247",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "randomthings:diviningrod",
+			Damage: 20s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "dca73bdb",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	},
+	{
+		uid: "1a7266fd",
+		type: "item",
+		item: "actuallyadditions:item_misc 1 5",
+		count: 2
+	}]
+}

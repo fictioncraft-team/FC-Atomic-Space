@@ -1,0 +1,42 @@
+{
+    "machine": "assembly_mk2",
+    "registryName": "electrolytic_core",
+    "recipeTime": 400,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "mekanism:electrolyticcore",
+            "amount": 1
+        },
+		{
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 512
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "contenttweaker:compact_metal_plate",
+            "amount": 1
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "contenttweaker:compact_metal_rod",
+            "amount": 2
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "thermalfoundation:material@1",
+            "amount": 1
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "mekanism:reinforcedalloy",
+            "amount": 2
+        }
+    ]
+}

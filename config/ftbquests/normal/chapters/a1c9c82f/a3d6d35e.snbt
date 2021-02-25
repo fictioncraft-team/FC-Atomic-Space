@@ -1,0 +1,27 @@
+{
+	title: "{title.chop.name}",
+	x: -0.5d,
+	y: 7.0d,
+	shape: "hexagon",
+	text: [
+		"{des.chopingblock}"
+	],
+	dependencies: [
+		"0604a798"
+	],
+	optional: true,
+	tasks: [{
+		uid: "fc85236e",
+		type: "item",
+		items: [{
+			item: "survivalist:chopping_block"
+		}],
+		consume_items: false,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d3d851c1",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

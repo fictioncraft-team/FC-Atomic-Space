@@ -1,0 +1,19 @@
+{
+	x: -5.5d,
+	y: 6.5d,
+	dependencies: [
+		"67a4f698"
+	],
+	tasks: [{
+		uid: "296e5323",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_core"
+		}]
+	}],
+	rewards: [{
+		uid: "2017da11",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

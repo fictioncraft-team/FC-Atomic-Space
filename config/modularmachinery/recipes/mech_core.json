@@ -1,0 +1,48 @@
+{
+    "machine": "assembly",
+    "registryName": "mechanical_core",
+    "recipeTime": 600,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "embers:mech_core",
+            "amount": 2
+        },
+		{
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 30
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "contenttweaker:steamium_plate",
+            "amount": 4
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "appliedenergistics2:material@22",
+            "amount": 1
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "contenttweaker:steamium_processor",
+            "amount": 1
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "thermalfoundation:material@259",
+            "amount": 2
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "immersiveengineering:sheetmetal@8",
+            "amount": 4
+        }
+    ]
+}

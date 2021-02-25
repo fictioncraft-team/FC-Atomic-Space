@@ -1,0 +1,25 @@
+{
+	title: "{title.immersivecrusher.name}",
+	icon: "immersiveengineering:metal_multiblock 1 1",
+	x: 5.5d,
+	y: 4.5d,
+	text: [
+		"{des.immersivecrusher}"
+	],
+	dependencies: [
+		"a8787c45"
+	],
+	tasks: [{
+		uid: "73354fe9",
+		type: "observation",
+		icon: "immersiveengineering:metal_multiblock 1 1",
+		match_type: "block_entity_id",
+		match: "immersiveengineering:crusher",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "d8fcd8ec",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,31 @@
+{
+	x: 0.0d,
+	y: 4.5d,
+	text: [
+		"{des.cancraftchicken}"
+	],
+	tasks: [{
+		uid: "adec328e",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "morechickens:invarchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "c0d108ea",
+		type: "item",
+		item: "thermalfoundation:material 1 162",
+		count: 16
+	},
+	{
+		uid: "83410f40",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

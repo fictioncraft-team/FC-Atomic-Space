@@ -1,0 +1,14 @@
+{
+	x: -4.5d,
+	y: 0.5d,
+	dependencies: [
+		"803650ea"
+	],
+	tasks: [{
+		uid: "f3514fde",
+		type: "item",
+		items: [{
+			item: "sky_orchards:amber_redstone"
+		}]
+	}]
+}

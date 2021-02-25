@@ -1,0 +1,30 @@
+{
+	title: "{title.underportal.name}",
+	x: 9.0d,
+	y: 0.5d,
+	text: [
+		"{des.underportal}"
+	],
+	dependencies: [
+		"c5d2e186"
+	],
+	tasks: [{
+		uid: "84d0f2f3",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_ingot"
+		}]
+	},
+	{
+		uid: "ea2594b8",
+		type: "item",
+		items: [{
+			item: "contenttweaker:iron_key_e"
+		}]
+	}],
+	rewards: [{
+		uid: "d311ef4f",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

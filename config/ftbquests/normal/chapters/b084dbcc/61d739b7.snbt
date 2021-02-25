@@ -1,0 +1,22 @@
+{
+	x: -2.5d,
+	y: 0.0d,
+	text: [
+		"{des.inscriber}"
+	],
+	dependencies: [
+		"c8a20bbc"
+	],
+	tasks: [{
+		uid: "070f5151",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:inscriber"
+		}]
+	}],
+	rewards: [{
+		uid: "a6491ca5",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

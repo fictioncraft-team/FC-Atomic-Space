@@ -1,0 +1,22 @@
+{
+	title: "{title.ncwasteland.name}",
+	icon: "nuclearcraft:wasteland_earth",
+	x: 4.5d,
+	y: 5.5d,
+	text: [
+		"{des.dangerzone.note}"
+	],
+	dependencies: [
+		"69d67ec6"
+	],
+	tasks: [{
+		uid: "1c39661a",
+		type: "dimension",
+		dim: 4598
+	}],
+	rewards: [{
+		uid: "0eab93c6",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

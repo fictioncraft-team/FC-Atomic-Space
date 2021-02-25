@@ -1,0 +1,25 @@
+{
+	title: "{title.bedexplode.name}",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "ftbquests:custom_icon",
+		tag: {
+			icon: "fictioncraft:ftbquests/!ftb.png"
+		}
+	},
+	x: -0.5d,
+	y: -0.5d,
+	shape: "diamond",
+	text: [
+		"{des.bedexplode}"
+	],
+	dependencies: [
+		"8eef079d"
+	],
+	tasks: [{
+		uid: "a4f83628",
+		type: "checkmark"
+	}]
+}

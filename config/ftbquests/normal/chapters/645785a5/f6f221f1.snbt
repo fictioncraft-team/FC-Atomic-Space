@@ -1,0 +1,16 @@
+{
+	x: 11.25d,
+	y: 0.0d,
+	shape: "diamond",
+	dependencies: [
+		"71116b9e"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "4e0e91ff",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:table_basic"
+		}]
+	}]
+}

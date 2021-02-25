@@ -1,0 +1,29 @@
+{
+	x: 6.0d,
+	y: 0.0d,
+	shape: "diamond",
+	dependencies: [
+		"300b3e14"
+	],
+	size: 0.75d,
+	tasks: [{
+		uid: "3281d12b",
+		type: "item",
+		items: [{
+			item: "improvedbackpacks:upgrade 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "2d53b4c4",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "silentgems:returnhomecharm",
+			tag: {
+				ChaosCharge: 100000
+			}
+		}
+	}]
+}

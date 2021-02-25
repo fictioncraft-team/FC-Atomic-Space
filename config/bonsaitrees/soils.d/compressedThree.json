@@ -1,0 +1,16 @@
+{
+  "name": "extrautils2:compresseddirt:2",
+  "mod": "extrautils2",
+  "soil": {
+    "name": "extrautils2:compresseddirt",
+    "data": 2,
+    "ignoreMeta": false
+  },
+
+  "modifiers": {
+    "growTime": 0.7,
+    "dropChance": 1.6
+  },
+
+  "providedTags": [ "dirt", "grass" ]
+}

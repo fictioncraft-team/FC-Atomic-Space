@@ -1,0 +1,17 @@
+{
+	x: 4.5d,
+	y: 2.5d,
+	text: [
+		"{des.brick}"
+	],
+	dependencies: [
+		"ce092fc8"
+	],
+	tasks: [{
+		uid: "f1061d02",
+		type: "item",
+		items: [{
+			item: "minecraft:brick"
+		}]
+	}]
+}

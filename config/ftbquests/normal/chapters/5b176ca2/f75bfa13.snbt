@@ -1,0 +1,31 @@
+{
+	x: 4.0d,
+	y: 2.5d,
+	text: [
+		"{des.mercurychicken}"
+	],
+	tasks: [{
+		uid: "3ffe3b6e",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "contenttweaker:ironchicken_fix",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "5135079c",
+		type: "item",
+		item: "minecraft:iron_ingot",
+		count: 16
+	},
+	{
+		uid: "0d417d71",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 2.5d,
+	y: 7.5d,
+	dependencies: [
+		"9b74c91d"
+	],
+	tasks: [{
+		uid: "6fda8501",
+		type: "item",
+		items: [{
+			item: "arcanearchives:gemcutters_table"
+		}]
+	}],
+	rewards: [{
+		uid: "10227392",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

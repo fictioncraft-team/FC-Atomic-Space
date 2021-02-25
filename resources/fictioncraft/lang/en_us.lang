@@ -1,0 +1,86 @@
+tip.as=Check the quest when you are stuck
+tip.as1=Don't waste your time, the radiation you got increase every second
+tip.as2=You learn more knowledge by reading the chapter books and doing research
+tip.as3=I am sorry tinker fans, but tinker's construct is not in this modpack
+tip.as4=You can try disable animated texture in the foamfix config or install optifine if you have any performance issues
+tip.as5=You can make living wood with spectre logs as well, and they are faster than using infused wood as well!
+tip.as6=This modpack is inspired by novel "Wesley: Atomic Space" and awesome modpack Exoria by davqvist!
+tip.as7=There is a unique resource generation method using fluids
+tip.as8=You can turn bone meal into white pigment and chisel it into all different colored dyes
+tip.as9=Ambers are just like ores, you can process them the same way. They drop like ores too, you break coal amber, it drop coal (effected by fortune). You break iron amber, it drop iron amber
+tip.as10=Making a bed in the Overworld-2464 does not sound like a good idea
+
+tooltip.as2=Can be obtained from breaking aquamarine ore/amber from tree in the emerald ore vein
+tooltip.as3=Use this to unlock ore excavation for ores
+tooltip.as4=Chisel from white pigment
+tooltip.as5=Need lava beneath
+tooltip.as8=Raster_Mk2 just like north...
+tooltip.as9=Apparently its a food...
+tooltip.as10=Use undet Y level 1 in the Underworld Overworld-2464
+tooltip.as11=Toss this into a mana pool to generate a bit of mana
+tooltip.as12=How dare you killed a chicken to get this
+tooltip.as13=There is a bug with this pipe, try avoid using it other than building multiblocks for immersive machines
+tooltip.as14=Glowstone no longer drop from witches
+tooltip.as15=Replace the block above machine controller to apply upgrades. Only 1 upgrade per machine
+tooltip.as16=Can not use this to craft custom recipes (eg: Compact Metal)
+tooltip.as17=Can use this for custom recipes
+
+rename.as=Icy Gold Ore
+rename.as1=Icy Diamond Ore
+rename.as2=Icy Quartz Ore
+rename.as3=Icy Osmium Ore
+rename.as4=Icy Aluminum Ore
+rename.as5=Icy Nickel Ore
+rename.as6=Icy Redstone Ore
+rename.as7=Icy Lapis Ore
+rename.as8=Icy Coal Ore
+rename.as9=Icy Iron Ore
+rename.as10=Icy Certus Quartz Ore
+rename.as11=Icy Charged Certus Quartz Ore
+rename.as12=Icy Fence
+
+jei.as=Can be only found in the Overworld - 2200 between y level 0-32.
+jei.as1=Can be only found in the Overworld - 2200 between y level 0-28.
+jei.as2=Can be only found in the Overworld - 2200 between y level 0-28.
+jei.as3=Can be only found in the Overworld - 2200 between y level 0-24.
+jei.as4=This key doesn't seem normal. It seems to contain a lot of knowledge. Maybe try using a normal iron key on a bookshelf
+jei.as6=Fluid output can be picked up with a glass bottle or a bladder.
+jei.as8l1=Ancient item... Can be created with the power of lightning.
+jei.as8l2=Put a iron block and a piece of certus quartz in a slightly larger chest. Then hit it with any sort of energy storage that contains at least 1024 rf inside.
+jei.as9=Put a iron block and a piece of diamatine in a slightly larger chest. Then hit it with any sort of energy storage that contains at least 1024 rf inside.
+jei.as10=Put a iron block and a piece of chrysos in a slightly larger chest. Then hit it with any sort of energy storage that contains at least 1024 rf inside.
+jei.as11=Put a iron block and a piece of silicon in a slightly larger chest. Then hit it with any sort of energy storage that contains at least 1024 rf inside.
+jei.as12=Can be obtained as a Mighty Ender Chicken drop.
+jei.as13=Its the head of the ULTIMATE boss- Raster_Mk2 (one of the contributers of this modapck)
+jei.as14=Does not generate in world. Platinum can be obtained from platinum crystal.
+jei.as15=This metal... Is different, it consumes the greatful power of the awakened dragon... (right click charged draconium block with a dragon heart, also put a wyvern core in the off hand to stabilize it)
+jei.as16=This block is extremely unstable. If you want to enter this you need something to stablize it. Obsidian, Glitched Infused Block and Fiery Blocks seems to be a good material of stabilizing the chamber. [Build a multiblock in order to travel into the chamber] [Multiblock pattern: glitch=Glitched Infused Block fiery=Fiery Block obi=Obsidian Chamber in the centre on the fiery block    pattern: glitch,obi,glitch.   obi,fiery,obi.   glitch,obi,glitch] [Right click with a tower key when multiblock is formed]
+
+research.title.chapter_3=Chapter 3
+research.des.chapter_3=Chapter 3
+research.title.chapter_4=Chapter 4
+research.des.chapter_4=Chapter 4
+research.title.chapter_5=Chapter 5
+research.des.chapter_5=Chapter 5
+research.title.chapter_6=Chapter 6
+research.des.chapter_6=Chapter 6
+research.title.chapter_7=Chapter 7
+research.des.chapter_7=Chapter 7
+research.title.automation_simple=Simple Automation
+research.des.automation_simple=Unlocks Thermal Logistics, Chambers and hopping bonsai pots
+research.title.automation_advanced=Advanced Automation
+research.des.automation_advanced=Unlocks Applied Energistics 2
+research.title.power_advanced=Advanced Power Generation
+research.des.power_advanced=Unlocks advanced generators
+research.title.power_elite=Elite Power Generation
+research.des.power_elite=Unlocks Lunar Array Generators
+research.title.machinery_advanced=Advanced Machinery
+research.des.machinery_advanced=Unlocks Rftools, Open Modular Turrents, Wireless crafting terminal
+research.title.beyond_human=Beyond Human
+research.des.beyond_human=Unlocks Creative Items
+
+menu.options=Options
+menu.music=Custom Music Composed By Raster_Mk2
+
+requious.jei.recipe.liquid_interaction=Fluid Interaction
+requious.jei.recipe.chalice=Chalice-Interaction

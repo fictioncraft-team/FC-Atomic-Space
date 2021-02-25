@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: 6.5d,
+	shape: "gear",
+	dependencies: [
+		"a8bb5162"
+	],
+	tasks: [{
+		uid: "ddc905b1",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:creative_compressor"
+		}]
+	}]
+}

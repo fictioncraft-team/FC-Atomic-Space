@@ -1,0 +1,29 @@
+{
+	x: 10.0d,
+	y: -2.0d,
+	shape: "diamond",
+	dependencies: [
+		"c95ceff8"
+	],
+	tasks: [{
+		uid: "37cdc0bb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {}
+			},
+			id: "yabba:upgrade_obsidian_shell"
+		}]
+	}],
+	rewards: [{
+		uid: "db508d92",
+		type: "item",
+		item: "minecraft:obsidian",
+		count: 5
+	},
+	{
+		uid: "f7d93701",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

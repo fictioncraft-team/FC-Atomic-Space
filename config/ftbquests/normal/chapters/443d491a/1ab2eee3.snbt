@@ -1,0 +1,16 @@
+{
+	x: -5.5d,
+	y: 5.0d,
+	shape: "hexagon",
+	dependencies: [
+		"4e0a3aac"
+	],
+	optional: true,
+	tasks: [{
+		uid: "b67e35c5",
+		type: "item",
+		items: [{
+			item: "chambers:fusion_chamber"
+		}]
+	}]
+}

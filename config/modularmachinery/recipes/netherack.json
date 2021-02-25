@@ -1,0 +1,24 @@
+{
+    "machine": "resurgence",
+    "registryName": "netherack",
+    "recipeTime": 20,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:netherrack",
+            "amount": 1
+        },
+		{
+			"type": "mana",
+			"io-type": "input",
+			"mana": 600
+		},
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:packed_ice",
+            "amount": 1
+        }
+    ]
+}

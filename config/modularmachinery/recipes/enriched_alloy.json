@@ -1,0 +1,25 @@
+{
+    "machine": "steam_machine",
+    "registryName": "enriched_alloy",
+    "recipeTime": 200,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "mekanism:enrichedalloy",
+            "amount": 1
+        },
+        {
+            "type": "fluid",
+            "io-type": "input",
+            "fluid": "redstone",
+            "amount": 140
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "contenttweaker:simple_alloy_base",
+            "amount": 1
+        }
+    ]
+}

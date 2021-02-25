@@ -1,0 +1,46 @@
+{
+	x: 2.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "382a1b32",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "contenttweaker:coconut_chicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "221e48e5",
+		type: "item",
+		item: "harvestcraft:coconutitem",
+		count: 8
+	},
+	{
+		uid: "115ccd76",
+		type: "item",
+		item: "harvestcraft:toastedcoconutitem",
+		count: 4
+	},
+	{
+		uid: "b38eb832",
+		type: "item",
+		item: "contenttweaker:meme2",
+		count: 4
+	},
+	{
+		uid: "36b2f9c3",
+		type: "item",
+		item: "harvestcraft:coconutmilkitem",
+		count: 2
+	},
+	{
+		uid: "08583a01",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -5.0d,
+	y: -0.5d,
+	dependencies: [
+		"8ab67087"
+	],
+	tasks: [{
+		uid: "0cfa75f3",
+		type: "dimension",
+		dim: 1101
+	}],
+	rewards: [{
+		uid: "68f5f548",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

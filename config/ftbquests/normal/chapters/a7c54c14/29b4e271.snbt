@@ -1,0 +1,12 @@
+{
+	x: -1.0d,
+	y: 0.0d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "631eca24",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wooden_device1"
+		}]
+	}]
+}

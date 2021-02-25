@@ -1,0 +1,24 @@
+{
+    "machine": "cutting_machine",
+    "registryName": "marble",
+    "recipeTime": 150,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "astralsorcery:blockmarble",
+            "amount": 1
+        },
+        {
+			"type": "ember",
+			"io-type": "input",
+			"ember": 400.0
+		},
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:stone@3",
+            "amount": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+	x: 3.0d,
+	y: 2.0d,
+	text: [
+		"{des.cancraftchicken}"
+	],
+	tasks: [{
+		uid: "67a7b262",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "morechickens:elementiumchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "c2145e22",
+		type: "item",
+		item: "botania:manaresource 1 7",
+		count: 16
+	},
+	{
+		uid: "7b33f7a3",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

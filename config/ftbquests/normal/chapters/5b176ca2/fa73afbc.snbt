@@ -1,0 +1,31 @@
+{
+	x: 4.0d,
+	y: 0.5d,
+	text: [
+		"{des.mercurychicken}"
+	],
+	tasks: [{
+		uid: "e873667e",
+		type: "item",
+		items: [{
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "morechickens:steelchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "96cb7788",
+		type: "item",
+		item: "thermalfoundation:material 1 160",
+		count: 16
+	},
+	{
+		uid: "c9856d8f",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

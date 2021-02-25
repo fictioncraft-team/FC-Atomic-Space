@@ -1,0 +1,23 @@
+{
+	x: -1.5d,
+	y: -4.5d,
+	tasks: [{
+		uid: "af241be4",
+		type: "item",
+		items: [{
+			item: "simplyacceleration:accelerator"
+		}]
+	},
+	{
+		uid: "9f188520",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "simplyacceleration:linking_tool"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

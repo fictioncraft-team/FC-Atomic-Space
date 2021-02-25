@@ -1,0 +1,54 @@
+{
+	title: "{title.pumpjack.name}",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "forge:bucketfilled",
+		tag: {
+			FluidName: "oil",
+			Amount: 1000
+		}
+	},
+	x: 2.5d,
+	y: 1.0d,
+	text: [
+		"{des.pumpjack}"
+	],
+	dependencies: [
+		"3360a1e4"
+	],
+	tasks: [{
+		uid: "a57edb51",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "oil",
+				Amount: 1000
+			}
+		},
+		match_type: "block_entity_id",
+		match: "immersivepetroleum:pumpjackparent",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "7c7802f8",
+		type: "item",
+		item: "nuclearcraft:radaway"
+	},
+	{
+		uid: "31d82a8e",
+		type: "item",
+		item: "harvestcraft:baklavaitem",
+		count: 2
+	},
+	{
+		uid: "5188b7a9",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

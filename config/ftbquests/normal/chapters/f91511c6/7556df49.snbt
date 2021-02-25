@@ -1,0 +1,18 @@
+{
+	title: "{title.chapter3.name}",
+	icon: "embers:ember_cluster",
+	x: 4.0d,
+	y: -4.5d,
+	shape: "gear",
+	text: [
+		"{des.chapter3}"
+	],
+	dependencies: [
+		"fea5b8ae"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "8c43fd37",
+		type: "checkmark"
+	}]
+}

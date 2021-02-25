@@ -1,0 +1,25 @@
+{
+	x: -1.5d,
+	y: -5.0d,
+	dependencies: [
+		"a2abfbde"
+	],
+	tasks: [{
+		uid: "6f0f8100",
+		type: "item",
+		items: [{
+			item: "compactmachines3:wallbreakable"
+		}]
+	}],
+	rewards: [{
+		uid: "8e8040f4",
+		type: "item",
+		item: "compactmachines3:wallbreakable",
+		count: 4
+	},
+	{
+		uid: "70457551",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

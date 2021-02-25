@@ -1,0 +1,26 @@
+{
+	x: 7.875d,
+	y: -3.0d,
+	shape: "diamond",
+	dependencies: [
+		"300b3e14"
+	],
+	size: 0.75d,
+	tasks: [{
+		uid: "c7789660",
+		type: "item",
+		items: [{
+			item: "improvedbackpacks:upgrade 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "b590d5fd",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "silentgems:teleporter_linker"
+		}
+	}]
+}

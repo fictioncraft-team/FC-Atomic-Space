@@ -1,0 +1,26 @@
+{
+	x: 5.0d,
+	y: 1.5d,
+	shape: "square",
+	dependencies: [
+		"56e5a09e"
+	],
+	size: 0.75d,
+	tasks: [{
+		uid: "782d3baf",
+		type: "item",
+		items: [{
+			item: "enderutilities:enderpart 1 51"
+		}]
+	}],
+	rewards: [{
+		uid: "2f7515e6",
+		type: "item",
+		item: "minecraft:ender_pearl"
+	},
+	{
+		uid: "5128c0a6",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

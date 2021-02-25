@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: 2.5d,
+	dependencies: [
+		"cf9cd0b4"
+	],
+	hide: true,
+	tasks: [{
+		uid: "7c3d45bb",
+		type: "item",
+		items: [{
+			item: "sky_orchards:sapling_emerald"
+		}]
+	}]
+}

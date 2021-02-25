@@ -1,0 +1,22 @@
+{
+	x: 6.0d,
+	y: 5.5d,
+	text: [
+		"{des.ironwoodsap}"
+	],
+	dependencies: [
+		"012fcfab"
+	],
+	tasks: [{
+		uid: "707d71aa",
+		type: "item",
+		items: [{
+			item: "rustic:sapling 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "4dcf6b9e",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

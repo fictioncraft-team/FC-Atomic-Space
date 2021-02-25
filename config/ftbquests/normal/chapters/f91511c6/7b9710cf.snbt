@@ -1,0 +1,41 @@
+{
+	title: "{title.distallatetower.name}",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "immersivepetroleum:schematic",
+		tag: {
+			multiblock: "IP:DistillationTower",
+			flip: 1b
+		}
+	},
+	x: 4.0d,
+	y: 3.0d,
+	description: "Environmentally Unfriendly",
+	dependencies: [
+		"7799516c"
+	],
+	tasks: [{
+		uid: "4f04d1f8",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "immersivepetroleum:schematic",
+			tag: {
+				multiblock: "IP:DistillationTower",
+				flip: 1b
+			}
+		},
+		match_type: "block_entity_id",
+		match: "immersivepetroleum:distillationtower",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "734641a1",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

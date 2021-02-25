@@ -1,0 +1,31 @@
+{
+	title: "{title.sapling.name}",
+	icon: "minecraft:sapling",
+	x: -0.5d,
+	y: 2.5d,
+	text: [
+		"{des.sapling}"
+	],
+	dependencies: [
+		"90b458e5"
+	],
+	tasks: [{
+		uid: "96ac4422",
+		type: "item",
+		title: "Any treeSapling",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "treeSapling",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}],
+	rewards: [{
+		uid: "e5fc3a6a",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,33 @@
+{
+	title: "{title.engineering.name}",
+	x: -2.5d,
+	y: -0.5d,
+	text: [
+		"{des.engineering}"
+	],
+	dependencies: [
+		"599ed4f8"
+	],
+	tasks: [{
+		uid: "f7684693",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "immersiveengineering:tool"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ce1c99fb",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "immersiveengineering:tool",
+			Damage: 3s
+		}
+	}]
+}

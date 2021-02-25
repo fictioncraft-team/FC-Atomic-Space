@@ -1,0 +1,44 @@
+{
+	x: 1.5d,
+	y: -3.0d,
+	shape: "rsquare",
+	dependencies: [
+		"1e262f45"
+	],
+	tasks: [{
+		uid: "91b09f4d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "purified_water",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3eb240cc",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	},
+	{
+		uid: "9bdaa179",
+		type: "xp_levels",
+		xp_levels: 2
+	},
+	{
+		uid: "ef9f7b71",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "toughasnails:purified_water_bottle"
+		}
+	}]
+}

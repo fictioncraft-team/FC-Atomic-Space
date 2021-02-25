@@ -1,0 +1,6 @@
+
+{
+  "Name": "ent_EnderChicken",
+  "Registry ID": "mightyenderchicken:ent_enderchicken",
+  "Class": "me.ichun.mods.mmec.common.entity.EntityEnderChicken"
+}

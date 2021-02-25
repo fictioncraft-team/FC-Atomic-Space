@@ -1,0 +1,40 @@
+{
+	title: "{cat.challenge.name}",
+	icon: "minecraft:dragon_breath",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "",
+	images: [{
+		x: 0.0d,
+		y: -2.0d,
+		width: 2.0d,
+		height: 2.0d,
+		rotation: 0.0d,
+		image: "fictioncraft:ftbquests/dragonbreath.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: 4.5d,
+		y: -2.0d,
+		width: 8.5d,
+		height: 1.0d,
+		rotation: 0.0d,
+		image: "fictioncraft:ftbquests/you-need-a-mint.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: 4.0d,
+		y: -3.5d,
+		width: 10.0d,
+		height: 1.25d,
+		rotation: 0.0d,
+		image: "fictioncraft:ftbquests/2.png",
+		hover: [],
+		click: "",
+		dev: false
+	}]
+}

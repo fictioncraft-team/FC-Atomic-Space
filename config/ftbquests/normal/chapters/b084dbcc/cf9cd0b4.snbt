@@ -1,0 +1,37 @@
+{
+	title: "{title.immersivemixer.name}",
+	icon: "immersiveengineering:metal_multiblock 1 15",
+	x: 0.0d,
+	y: 1.5d,
+	shape: "rsquare",
+	text: [
+		"{des.immersivemixer}"
+	],
+	dependencies: [
+		"7556df49"
+	],
+	tasks: [{
+		uid: "866d548d",
+		type: "observation",
+		icon: "immersiveengineering:metal_multiblock 1 15",
+		match_type: "block_entity_id",
+		match: "immersiveengineering:mixer",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "4b726734",
+		type: "item",
+		item: "nuclearcraft:radaway"
+	},
+	{
+		uid: "d97d8e4c",
+		type: "item",
+		item: "harvestcraft:szechuaneggplantitem",
+		count: 2
+	},
+	{
+		uid: "3dfdd334",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

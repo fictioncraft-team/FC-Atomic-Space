@@ -1,0 +1,42 @@
+{
+    "machine": "assembly",
+    "registryName": "ember_mixer",
+    "recipeTime": 300,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "embers:mixer",
+            "amount": 1
+        },
+		{
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 10
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "embers:block_caminite_brick",
+            "amount": 3
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "thermalfoundation:material@32",
+            "amount": 5
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "embers:mech_core",
+            "amount": 1
+        },
+		{
+            "type": "item",
+            "io-type": "input",
+            "item": "thermalfoundation:material@164",
+            "amount": 2
+        }
+    ]
+}

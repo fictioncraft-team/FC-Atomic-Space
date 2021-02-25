@@ -1,0 +1,20 @@
+{
+	x: 0.0d,
+	y: -0.5d,
+	shape: "rsquare",
+	dependencies: [
+		"aca2f9a0"
+	],
+	tasks: [{
+		uid: "29ef7229",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:ingot_iron_compressed"
+		}]
+	}],
+	rewards: [{
+		uid: "b9f583d1",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	icon: "embers:golems_eye",
+	x: -0.5d,
+	y: 8.0d,
+	dependencies: [
+		"634a89e1"
+	],
+	tasks: [{
+		uid: "ca405f7d",
+		type: "kill",
+		title: "{title.ancientgolem.name}",
+		entity: "embers:ancient_golem",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "f1513fff",
+		type: "item",
+		item: "embers:ancient_motive_core"
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	shape: "gear",
+	size: 1.5d,
+	tasks: [{
+		uid: "97229719",
+		type: "item",
+		items: [{
+			item: "botania:pool 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "c12d9bca",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

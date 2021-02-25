@@ -1,0 +1,19 @@
+{
+	title: "{title.chapter6.name}",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "advancedrocketry:spacehelmet"
+	},
+	x: 0.0d,
+	y: 6.25d,
+	dependencies: [
+		"aca2f9a0"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "6e08b64f",
+		type: "checkmark"
+	}]
+}
