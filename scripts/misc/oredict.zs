@@ -81,3 +81,6 @@ asaw.add(<microblockcbe:saw_diamond>);
 
 <ore:blockWarpCoreCore>.remove(<minecraft:gold_block>);
 <ore:blockWarpCoreCore>.add(<draconicevolution:draconic_block>);
+
+//spectre wood
+<ore:spectreWood>.add(<randomthings:spectrelog>);

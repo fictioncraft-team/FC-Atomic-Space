@@ -1,0 +1,15 @@
+{
+	x: 2.0d,
+	y: 9.0d,
+	shape: "square",
+	dependencies: [
+		"571d41a6"
+	],
+	hide: true,
+	size: 2.0d,
+	tasks: [{
+		uid: "1bf3baa8",
+		type: "dimension",
+		dim: 1106
+	}]
+}

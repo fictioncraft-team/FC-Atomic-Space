@@ -1,0 +1,53 @@
+{
+	x: 2.0d,
+	y: 4.0d,
+	dependencies: [
+		"d674dc39"
+	],
+	hide: true,
+	tasks: [{
+		uid: "f5d075ee",
+		type: "interaction",
+		icon: "ironchest:iron_chest",
+		match_type: "block_id",
+		match: "ironchest:iron_chest"
+	}],
+	rewards: [{
+		uid: "e136a042",
+		type: "item",
+		auto: "invisible",
+		item: {
+			id: "minecraft:written_book",
+			tag: {
+				pages: [
+					"{\"text\":\"如果你正在读这篇文章，你可能已经收到了我在流星上留下的信息。不久前，我和我的团队开始了一个秘密项目，我们正在用鸡做一些测试，因为我们知道地球快要毁灭了\"}",
+					"{\"text\":\"我们想在为时已晚之前完成这项工作，这样就可以帮助所有活下来的人重振人类。我们知道在这些鸡身上做试验是很残忍的，但这是我们唯一的选择。有了这些鸡，你就能生产出不可思议的\"}",
+					"{\"text\":\"量的资源，这些将有助于发展技术。我们制造的实验室分布在宇宙的各个角落，有些是在不同的星球上 我们这样做是为了不让人知道...... 这就是我们能做的。但关于到底\"}",
+					"{\"text\":\"要如何拯救人类，我们不知道。这将是你的责任，去重振人类。祝你好运全人类都靠你们了\\n\\n-Alex教授\"}"
+				],
+				author: "Alex教授",
+				title: "一个笔记",
+				resolved: 1b
+			}
+		}
+	},
+	{
+		uid: "5688cabb",
+		type: "item",
+		auto: "invisible",
+		item: {
+			id: "minecraft:written_book",
+			tag: {
+				pages: [
+					"{\"text\":\"If you are reading this, you probably have gotten the message I left in the meteor.\\n\\nNot long ago, me and my team has started a secret project. We are doing some tests on chickens. Yes, chickens. As we know that earth is going to be destroyed really soon.\"}",
+					"{\"text\":\"We wanted to get this done before it is too late. So it could help who ever lives this to revive humanity. We know that it is cruel to test on these chickens. But this was our only choice. With those chickens. You will be able to produce an incredible\"}",
+					"{\"text\":\"amount of resources that human have never seen before. Those will help progress and involve technology. We\\u0027ve made labs scattered all around the universe. Some are on different planets. We did this so no one would know... This is all we can do, about how\"}",
+					"{\"text\":\"to save the humantity exactly, we do not know.  It will be your responsibility to revive it. Good luck. All humanity lies on you.\\n\\n-Professor Alex\"}"
+				],
+				author: "Professor Alex",
+				title: "A Note",
+				resolved: 1b
+			}
+		}
+	}]
+}

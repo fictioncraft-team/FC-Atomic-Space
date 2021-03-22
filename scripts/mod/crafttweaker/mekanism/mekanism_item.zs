@@ -69,7 +69,7 @@ recipes.addShaped(
 	<mekanism:basicblock2:5>, [
 	[<ore:ingotIronCompressed>, <ore:plateConstantan>, <ore:ingotIronCompressed>], 
 	[<ore:plateConstantan>, <mekanism:basicblock:8>, <ore:plateConstantan>], 
-	[<contenttweaker:terrasteel_gear>, <forge:bucketfilled>, <contenttweaker:terrasteel_gear>]
+	[<contenttweaker:terrasteel_gear>, null, <contenttweaker:terrasteel_gear>]
 ]);
 
 //heat pipe

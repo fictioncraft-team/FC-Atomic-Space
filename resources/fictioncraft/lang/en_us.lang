@@ -84,3 +84,5 @@ menu.music=Custom Music Composed By Raster_Mk2
 
 requious.jei.recipe.liquid_interaction=Fluid Interaction
 requious.jei.recipe.chalice=Chalice-Interaction
+requious.jei.recipe.simple_fabricator=Simple Fabricator
+tile.simple_fabricator.name=Simple Fabricator

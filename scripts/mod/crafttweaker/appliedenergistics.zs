@@ -216,3 +216,6 @@ RecipeBuilder.get("engineer")
   .addTool(<ore:artisansSolderer>, 10)
   .addOutput(<appliedenergistics2:molecular_assembler> *4)
   .create();
+
+//skystone chest
+recipes.remove(<appliedenergistics2:sky_stone_chest>);

@@ -19,5 +19,10 @@
     "item": "roost:chicken",
     "nbt": "{Growth: 1, Chicken: \"morechickens:iridiumchicken\", Gain: 1, Strength: 1}",
     "explosion": true
+  },
+  {
+    "mob": "mightyenderchicken:ent_enderchicken",
+    "item": "contenttweaker:chicken_essense",
+    "itemcount": "1"
   }
 ]

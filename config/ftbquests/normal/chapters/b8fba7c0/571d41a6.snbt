@@ -1,0 +1,15 @@
+{
+	x: 2.0d,
+	y: 7.0d,
+	dependencies: [
+		"04918a06"
+	],
+	hide: true,
+	tasks: [{
+		uid: "dcd5ee69",
+		type: "item",
+		items: [{
+			item: "contenttweaker:parrel_universe"
+		}]
+	}]
+}

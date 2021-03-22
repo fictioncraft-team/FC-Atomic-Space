@@ -1,5 +1,5 @@
 //luminum essense
-mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:material:7>, <astralsorcery:itemusabledust>, 25, <extendedcrafting:material:12> *32, 25000);
+mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:material:7> *32, <astralsorcery:itemusabledust>, 25, <extendedcrafting:material:12>, 25000);
 
 //compressed iron
 mods.extendedcrafting.CompressionCrafting.addRecipe(<pneumaticcraft:ingot_iron_compressed>, <enderio:item_alloy_ingot>, 10, <botania_tweaks:compressed_tiny_potato_2>, 50000);

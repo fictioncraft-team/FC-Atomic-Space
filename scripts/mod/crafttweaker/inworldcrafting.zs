@@ -123,7 +123,7 @@ FluidToItem.transform(
 );
 
 //compressed iron
-ExplosionCrafting.explodeItemRecipe(<contenttweaker:compressed_iron>, <pneumaticcraft:compressed_iron_block>, 25);
+ExplosionCrafting.explodeItemRecipe(<contenttweaker:compressed_iron>, <pneumaticcraft:compressed_iron_block>, 75);
 
 //silicon chicken
 FluidToItem.transform(<roost:chicken>.withTag({Growth: 1, Chicken: "morechickens:siliconchicken", Gain: 1, Strength: 1}), <liquid:silicon_mineralfluid>, [<roost:chicken>.withTag({Growth: 1, Chicken: "chickens:smartchicken", Gain: 1, Strength: 1})], true);

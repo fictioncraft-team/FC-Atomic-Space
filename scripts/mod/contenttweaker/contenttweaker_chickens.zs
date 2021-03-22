@@ -106,3 +106,8 @@ var chaosChicken = ChickenFactory.createChicken("chaos_chicken", Color.fromInt(0
 chaosChicken.setForegroundColor(Color.fromInt(0xd45800));
 chaosChicken.spawnType = ("NONE");
 chaosChicken.register();
+
+var godChicken = ChickenFactory.createChicken("god_chicken", Color.fromInt(0xffd829), <item:contenttweaker:parrel_universe>);
+godChicken.setForegroundColor(Color.fromInt(0x6e6e6e));
+godChicken.spawnType = ("NONE");
+godChicken.register();

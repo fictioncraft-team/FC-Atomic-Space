@@ -114,3 +114,8 @@ mods.advancedrocketry.PlatePresser.addRecipe(
 	<astralsorcery:itemcraftingcomponent>*2,
 	<ore:oreAquamarine>*1
 );
+
+mods.advancedrocketry.PlatePresser.addRecipe(
+	<thermalfoundation:material:67>*2,
+	<ore:oreLead>*1
+);

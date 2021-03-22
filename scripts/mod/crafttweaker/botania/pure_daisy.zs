@@ -28,7 +28,7 @@ mods.botania.PureDaisy.addRecipe(
 
 //living wood with spectrelog
 mods.botania.PureDaisy.addRecipe(
-	<randomthings:spectrelog>,
+	<ore:spectreWood>,
 	<botania:livingwood>,
 	40
 );

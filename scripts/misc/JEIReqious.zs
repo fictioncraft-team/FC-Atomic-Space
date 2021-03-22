@@ -7,6 +7,9 @@ import crafttweaker.item.IItemStack;
 #priority 1000
 #modloaded requious
 
+/****
+*Script originally created by LostDragon01 (Krutoy242), edited by winterSteve25
+****/
 function add(ass as Assembly, map as IItemStack[][IIngredient[]][]) {
   for chunk in map {
     for inputs, outputs in chunk {
@@ -46,4 +49,4 @@ function add_liquid_interaction(input1 as IIngredient, input2 as IIngredient, ou
 
 function add_chalice(input1 as IIngredient, input2 as IIngredient, out as IItemStack) {
   add(<assembly:chalice>, [{[input1, input2] : [out]}]);
-}	
+}

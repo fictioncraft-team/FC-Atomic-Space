@@ -12,6 +12,9 @@
 	x: 6.0d,
 	y: 5.5d,
 	shape: "diamond",
+	text: [
+		"Go to x:200 z:200"
+	],
 	dependencies: [
 		"025c0080"
 	],

@@ -9,7 +9,7 @@
 			authorName: "by Sir Hidington"
 		}
 	},
-	always_invisible: true,
+	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""
 }

@@ -27,8 +27,5 @@ witch.addDrop(<minecraft:redstone> % 50,1,1);
 val echicken = <entity:mightyenderchicken:ent_enderchicken>;
 echicken.clearDrops();
 
-echicken.addDrop(<contenttweaker:acceleration_core> % 20,1,1);
-echicken.addDrop(<contenttweaker:chicken_essense> % 100,1,1);
-
 //twilight wraith
 <entity:twilightforest:wraith>.clearDrops();

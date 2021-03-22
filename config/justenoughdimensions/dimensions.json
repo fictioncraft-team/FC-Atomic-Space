@@ -203,6 +203,29 @@
                 "generatorName": "default"
 			}
 
+		},
+		{
+			"dim": 1106,
+			"biome": "biometweaker:parrel_plains",
+			"dimensiontype":
+			{
+				"id": 1106,
+				"name": "Parrel Universe - 2P1A9",
+				"suffix": "_dim1106",
+				"keeploaded": false,
+				"worldprovider": "WorldProviderSurfaceJED",
+				"require_exact_match": true
+			},
+			"jed":
+			{
+				"CanRespawnHere": false,
+				"RespawnDimension": 1102
+				
+			},
+            "worldinfo_onetime": {
+                "generatorName": "default"
+			}
+
 		}
 	]
 }

@@ -22,8 +22,8 @@
   "Enable Rain": true,
   "Enable Snow": true,
   "Dictionary Types": [
-    "WATER",
     "COLD",
+    "WATER",
     "SNOWY",
     "RIVER"
   ],

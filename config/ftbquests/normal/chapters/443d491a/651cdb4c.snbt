@@ -4,6 +4,9 @@
 	x: -7.0d,
 	y: 2.0d,
 	shape: "gear",
+	text: [
+		"Warp to Overworld - 2020"
+	],
 	dependencies: [
 		"fb0c26e8"
 	],

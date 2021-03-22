@@ -1,7 +1,7 @@
 item.contenttweaker.root.name=根须
 item.contenttweaker.dry_clay.name=干粘土
 item.contenttweaker.hard_brick.name=硬化砖
-item.contenttweaker.hard_brick_1.name=未烧纸的硬化砖
+item.contenttweaker.hard_brick_1.name=未烧制的硬化砖
 item.contenttweaker.carbon_alloy.name=碳合金
 item.contenttweaker.hard_iron_1.name=富碳铁
 item.contenttweaker.chrysos.name=黄金水晶
@@ -56,8 +56,8 @@ item.contenttweaker.compressed_iron.name=压缩钢锭
 item.contenttweaker.glitch_awakened.name=觉醒故障锭
 item.contenttweaker.compressed_terrasteel.name=压缩泰拉钢
 item.contenttweaker.crude_pylon.name=粗制盖亚水晶
-item.contenttweaker.crude_pylon.name=濒死魔力鸡
-item.contenttweaker.lushy_sword.name=缠藤剑
+item.contenttweaker.dying_mana_chicken.name=濒死魔力鸡
+item.contenttweaker.parrel_universe.name=平行宇宙
 
 fluid.refining_fluid=精炼油
 fluid.molten_clay=熔融粘土
@@ -165,6 +165,7 @@ entity.winter_chicken.name=作者鸡
 entity.raster_chicken.name=电视鸡
 entity.coconut_chicken.name=椰子鸡
 entity.chaos_chicken.name=混沌鸡
+entity.god_chicken.name=神之鸡
 
 tile.contenttweaker.meme1.name=音乐制作人栅格电视
 item.contenttweaker.meme2.name=画材质的椰子

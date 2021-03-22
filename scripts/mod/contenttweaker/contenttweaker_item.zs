@@ -204,7 +204,12 @@ var meme4 = VanillaFactory.createItemFood("meme4", 10);
 meme4.rarity = "rare";
 meme4.register();
 
-//var meme5 = VanillaFactory.createItem("lushy_sword");
-//meme5.rarity = "epic";
-//meme5.toolClass = "sword";
-//meme5.register();
+var ending2 = VanillaFactory.createItem("parrel_universe");
+ending2.rarity = "epic";
+ending2.itemRightClick = function(stack, world, player, hand) {
+    if (world.isRemote()) { return "PASS"; }
+    Commands.call("tpj @p 1106", player, world, false, true);
+    stack.shrink(1);
+    return "PASS";
+};
+ending2.register();

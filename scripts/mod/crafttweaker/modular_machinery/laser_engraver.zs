@@ -5,13 +5,6 @@ csteel.addMekanismLaserInput(500000);
 csteel.addItemOutput(<ore:ingotCrudeSteel>);
 csteel.build();
 
-//steel
-var steel = mods.modularmachinery.RecipeBuilder.newBuilder("steel_laser", "laser_engraver", 20, 20);
-steel.addItemInput(<enderio:item_alloy_endergy_ingot>);
-steel.addMekanismLaserInput(500000);
-steel.addItemOutput(<thermalfoundation:material:160>);
-steel.build();
-
 //crystalline alloy
 var cryalloy = mods.modularmachinery.RecipeBuilder.newBuilder("crystalline_alloy", "laser_engraver", 60, 20);
 cryalloy.addItemInput(<enderio:item_alloy_endergy_ingot>);

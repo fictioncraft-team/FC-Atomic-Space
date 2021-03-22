@@ -432,6 +432,7 @@ des.metalalloykey=Shift-Rightclick the bottom bedrock in the Overworld-2464 Mant
 
 des.dangerzone.note=[Note: It is highly recommended that you make some radiation shielding before entering the danger zone. The radiation there is extremely dense. There are also deadly ghouls that will try to kill you.]
 
+des.wastelandresource=These spawn in veins. Check the ground under large clusters of glowing mushrooms.
 
 cat.chapter6.name=Chapter 6 - We Need to Go Deeper
 
@@ -585,9 +586,9 @@ title.chickeninfo.name=Chicken Info
 title.eggseparator.name=Egg Enrichment Separator
 
 des.chickeninfo=Note: Chicken is not §6necessary§f if you are not going to the creative items. Some of the chickens can be obtained from crafting, some chickens can be only obtained from exploring dimensions look for the custom resource chicken lab structures. Also, at this point, chickens aren't really the way you get resource anymore, its a way to collect stacks of stacks of resources for the grindy recipes for the creative items.
-des.chickenlore=After doing some research in the abandoned labs from all over the universe, seems like there was an organization of a group of people(questionable) or some creature was doing some cruel experience with chickens, by mutating them and infuse different kind of materials into their body to make some produce these infused materials. They must be out of resources on their planets, if not why would they do this to these innocent chickens. The chickens all seem to be alive, maybe I can actually put them to use?
+des.chickenlore=After doing some research in the abandoned labs that is scattered around the universe, seems like there was an organization of a group of people(questionable) or some creature was doing some cruel experience with chickens, by mutating them and infuse different kind of materials into their body to make some produce these infused materials. They must be out of resources on their planets, if not why would they do this to these innocent chickens. The chickens all seem to be alive, maybe I can actually put them to use?
 
-des.draconiumchicken=Can be found with a 5% chance in the §6end city loot chest§f and the "Abandoned Void Chicken Lab" on the first chaos guardian island (not 5% on this one).
+des.draconiumchicken=Can be found with a 5% chance in the §6end city loot chest§f and the "Abandoned Void Chicken Lab" on the first chaos guardian island (not 5% on this one [x60 z-10000]).
 
 des.awakenedchicken=Have a very low chance that can be found in the loot chest of §6"Abandoned Void Chicken Lab"§f on the first chaos guardian island. Also can be obtained from crafting.
 

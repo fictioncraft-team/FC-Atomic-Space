@@ -32,7 +32,7 @@ RecipeBuilder.get("carpenter")
     [null, <ore:ingotCopper>, <ore:string>],
     [null, <minecraft:stick>, <ore:ingotCopper>],
     [<minecraft:stick>, null, null]])
-  .addTool(<ore:artisansCutters>, 1)
+  .addTool(<ore:artisansCutters>, 4)
   .addOutput(<immersiveengineering:tool>)
   .create();  
 
@@ -59,7 +59,7 @@ RecipeBuilder.get("mason")
     [<ore:sandstone>, <ore:fuelCoke>, <ore:sandstone>],
     [<contenttweaker:hard_brick>, <ore:sandstone>, <contenttweaker:hard_brick>]])
   .setFluid(<liquid:lava> * 250)
-  .addTool(<ore:artisansHammer>, 1)
+  .addTool(<ore:artisansHammer>, 4)
   .addOutput(<immersiveengineering:stone_decoration:10> *2)
   .create();
 
@@ -72,9 +72,9 @@ RecipeBuilder.get("mason")
   .setShaped([
     [<contenttweaker:hard_brick>, <contenttweaker:hard_brick>, <contenttweaker:hard_brick>],
     [<contenttweaker:hard_brick>, <thermalfoundation:material:290>, <contenttweaker:hard_brick>],
-    [<contenttweaker:hard_brick>, <contenttweaker:carbon_alloy>.reuse(), <contenttweaker:hard_brick>]])
+    [<contenttweaker:hard_brick>, <contenttweaker:carbon_alloy>, <contenttweaker:hard_brick>]])
   .setFluid(<liquid:lava> * 1000)
-  .addTool(<artisanworktables:artisans_hammer_wood>, 1)
+  .addTool(<ore:artisansHammer>, 4)
   .addOutput(<immersiveengineering:stone_decoration:1> *3)
   .create();
 
@@ -88,7 +88,7 @@ RecipeBuilder.get("carpenter")
     [null, <immersiveengineering:material:10>, null],
     [<immersiveengineering:material:10>, <immersiveengineering:material:3>, <immersiveengineering:material:10>],
     [null, <immersiveengineering:material:10>, null]])
-  .addTool(<ore:artisansHandsaw>, 1)
+  .addTool(<ore:artisansHandsaw>, 4)
   .addOutput(<immersiveengineering:wooden_device1>)
   .create();
 

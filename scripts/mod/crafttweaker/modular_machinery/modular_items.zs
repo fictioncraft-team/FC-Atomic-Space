@@ -220,6 +220,20 @@ RecipeBuilder.get("engineer")
   .addOutput(<modulardiversity:blockmeklaseracceptor>)
   .create();
 
+//Heat Input
+RecipeBuilder.get("engineer")
+  .setShaped([
+    [null, <botania:manaresource:7>, <botania:manaresource:7>, <botania:manaresource:7>, null],
+    [<botania:manaresource:7>, <mekanism:basicblock2:5>, <modularmachinery:itemmodularium>, <mekanism:basicblock2:5>, <botania:manaresource:7>],
+    [<botania:manaresource:7>, <modularmachinery:itemmodularium>, <modularmachinery:blockcasing>, <modularmachinery:itemmodularium>, <botania:manaresource:7>],
+    [<botania:manaresource:7>, <mekanism:basicblock2:5>, <modularmachinery:itemmodularium>, <mekanism:basicblock2:5>, <botania:manaresource:7>],
+    [null, <botania:manaresource:7>, <botania:manaresource:7>, <botania:manaresource:7>, null]])
+  .addTool(<ore:artisansPunch>, 5)
+  .addTool(<ore:artisansHammer>, 5)
+  .addTool(<ore:artisansDriver>, 5)
+  .addOutput(<modulardiversity:blockmekheatinput>)
+  .create();
+
 //Resurgance blueprint
 RecipeBuilder.get("basic")
   .setShapeless([<survivalist:rack>, <minecraft:paper>])

@@ -6,6 +6,10 @@
 	text: [
 		"{des.noteinchest}"
 	],
+	dependencies: [
+		"31919d79"
+	],
+	hide: true,
 	size: 2.0d,
 	tasks: [{
 		uid: "ea1d248d",
@@ -13,10 +17,6 @@
 		icon: "appliedenergistics2:sky_stone_chest",
 		match_type: "block_id",
 		match: "appliedenergistics2:sky_stone_chest"
-	},
-	{
-		uid: "c0ffce9e",
-		type: "checkmark"
 	}],
 	rewards: [{
 		uid: "2dcb77c6",

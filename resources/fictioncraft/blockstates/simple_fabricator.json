@@ -1,0 +1,10 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "fictioncraft:simple_fabricator"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}

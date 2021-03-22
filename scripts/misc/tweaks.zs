@@ -530,7 +530,7 @@ recipes.addShaped(
 
 recipes.addShapeless(
 	<contenttweaker:chaos_ingot> *9,
-	[<contenttweaker:sub_block_holder_2:6>]
+	[<contenttweaker:sub_block_holder_6:2>]
 );
 
 recipes.addShapeless(
@@ -718,3 +718,22 @@ recipes.addShaped(
 //dragon data module
 recipes.remove(<deepmoblearning:data_model_dragon>);
 recipes.addShapeless(<deepmoblearning:data_model_dragon>.withTag({tier: 4}), [<minecraft:dragon_egg>, <deepmoblearning:data_model_blank>]);
+
+//remove earthworks hammer
+var unusedHammers as IIngredient[] = [
+	<earthworks:tool_wood_hammer>,
+	<earthworks:tool_stone_hammer>,
+	<earthworks:tool_iron_hammer>,
+	<earthworks:tool_gold_hammer>,
+	<earthworks:tool_diamond_hammer>,
+	<earthworks:block_timber>,
+	<earthworks:block_timber_birch>,
+	<earthworks:block_timber_spruce>,
+	<earthworks:block_timber_jungle>,
+	<earthworks:block_timber_acacia>,
+	<earthworks:block_timber_dark_oak>
+];
+
+for item in unusedHammers {
+	recipes.remove(item);
+}

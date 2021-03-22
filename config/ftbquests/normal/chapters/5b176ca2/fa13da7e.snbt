@@ -18,13 +18,22 @@
 		}]
 	}],
 	rewards: [{
-		uid: "75f13820",
-		type: "item",
-		item: "randomthings:ingredient 1 11"
-	},
-	{
 		uid: "4e87f092",
 		type: "ftbmoney:money",
 		ftb_money: 10L
+	},
+	{
+		uid: "a4e944a9",
+		type: "item",
+		item: {
+			id: "roost:chicken",
+			tag: {
+				Growth: 1,
+				Chicken: "chickens:smartchicken",
+				Gain: 1,
+				Strength: 1
+			}
+		},
+		count: 16
 	}]
 }

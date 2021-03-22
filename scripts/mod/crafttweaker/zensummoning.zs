@@ -1,8 +1,8 @@
 import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
-import mods.zensummoning.SummoningDirector;
 import mods.zensummoning.SummoningAttempt;
 import mods.zensummoning.SummoningInfo;
+import mods.zensummoning.SummoningDirector;
 import mods.zensummoning.MobInfo;
 
 //ember golem
@@ -49,7 +49,7 @@ SummoningDirector.addSummonInfo(
 				attempt.message = "The Supreme Mighty EnderChicken has arrived";
 			} else {
 				attempt.success = false;
-				attempt.message = "Lord does not like moon light! Try invite him over in the Undergroud Overworld-2464";
+				attempt.message = "Lord does not like moon light! Try invite him over in the Overworld-2464 Mantle";
             }
 	})
 );

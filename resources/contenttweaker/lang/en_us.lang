@@ -57,7 +57,7 @@ item.contenttweaker.glitch_awakened.name=Awakened Glitched Ingot
 item.contenttweaker.compressed_terrasteel.name=Compressed Terrasteel Ingot
 item.contenttweaker.crude_pylon.name=Crude Gaia Pylon
 item.contenttweaker.dying_mana_chicken.name=Dying Mana Chicken
-item.contenttweaker.lushy_sword.name=Lushy Sword
+item.contenttweaker.parrel_universe.name=Parrel Universe
 
 fluid.refining_fluid=Refining Fluid
 fluid.liquified_sulfur=Liquified Sulfur
@@ -165,6 +165,7 @@ entity.winter_chicken.name=Winter Chicken
 entity.raster_chicken.name=Raster Chicken
 entity.coconut_chicken.name=Coconut Chicken
 entity.chaos_chicken.name=Chaos Chicken
+entity.god_chicken.name=Godly Chicken
 
 tile.contenttweaker.meme1.name=Rastervision
 item.contenttweaker.meme2.name=Charged Coconut

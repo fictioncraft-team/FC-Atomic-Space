@@ -269,5 +269,48 @@
 		"vertical_size": 8,
 		"horizontal_size": 2,
 		"dimensions":[1101]
+	},
+	"deco_parrel_universe": {
+		"type": "sphere",
+		"ore": [
+			{
+				"block": "botania:livingwood",
+				"meta": "5",
+				"weight": 10
+			}
+		],
+		"stone": [
+			{
+				"block": "botania:livingwood"
+			}
+		],
+		"rarity": 6,
+		"min_y": 0,
+		"max_y": 255,
+		"density": 1000,
+		"vertical_size": 2,
+		"horizontal_size": 1,
+		"dimensions":[1106]
+	},
+	"deco_parrel_universe_rock": {
+		"type": "sphere",
+		"ore": [
+			{
+				"block": "botania:livingrock",
+				"weight": 10
+			}
+		],
+		"stone": [
+			{
+				"block": "minecraft:stone"
+			}
+		],
+		"rarity": 6,
+		"min_y": 40,
+		"max_y": 70,
+		"density": 1000,
+		"vertical_size": 10,
+		"horizontal_size": 12,
+		"dimensions":[1106]
 	}
 }
