@@ -2040,7 +2040,7 @@ invar7.addItemInput(<ore:oreElectroninvar>);
 invar7.addItemInput(<ore:oreNeutroninvar>);
 invar7.addItemInput(<ore:oreNucleusinvar>);
 invar7.addEnergyPerTickInput(512);
-invar7.addItemOutput(<ore:ingoinvarvar>, 4);
+invar7.addItemOutput(<ore:ingoInvar>, 4);
 invar7.build();
 
 var lead7 = mods.modularmachinery.RecipeBuilder.newBuilder("lead7", "neutron_reformer", 300, 20);

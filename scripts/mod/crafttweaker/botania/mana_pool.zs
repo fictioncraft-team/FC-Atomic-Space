@@ -33,6 +33,7 @@ mods.botania.ManaInfusion.addInfusion(
 	<thermalfoundation:material:136>,
 	4000
 );
+mods.botania.ManaInfusion.removeRecipe(<botania:storage>);
 
 //mana dust
 mods.botania.ManaInfusion.addInfusion(
@@ -51,11 +52,4 @@ mods.botania.ManaInfusion.addInfusion(
 	<roost:chicken>.withTag({Growth: 1, Chicken: "morechickens:manasteelchicken", Gain: 1, Strength: 1}),
 	<roost:chicken>.withTag({Growth: 10, Chicken: "morechickens:mithrilchicken", Gain: 10, Strength: 10}),
 	8000
-);
-
-//mana infused chicken
-mods.botania.ManaInfusion.addInfusion(
-	<contenttweaker:dying_mana_chicken>,
-	<roost:chicken>.withTag({Growth: 1, Chicken: "chickens:smartchicken", Gain: 1, Strength: 1}),
-	500000
 );

@@ -6,17 +6,20 @@
 		"e3d328d0"
 	],
 	tasks: [{
-		uid: "958d0f24",
+		uid: "c463a4a6",
 		type: "item",
 		items: [{
-			id: "advancedrocketry:bucketrocketfuel",
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
 			tag: {
-				Fluid: {
-					FluidName: "rocketfuel",
-					Amount: 1000
-				}
+				FluidName: "rocketfuel",
+				Amount: 1000
 			}
-		}]
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "62468ffe",

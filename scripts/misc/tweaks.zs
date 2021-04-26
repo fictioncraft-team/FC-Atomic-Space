@@ -338,30 +338,24 @@ recipes.remove(
 	<libvulpes:linker>
 );
 
+recipes.remove(
+	<simplyacceleration:linking_tool>
+);
+
 recipes.addShapeless(
 	<libvulpes:linker>,
 	[<astralsorcery:itemlinkingtool>]
 );
 
 recipes.addShapeless(
-	<libvulpes:linker>,
-	[<simplyacceleration:linking_tool>]
+	<simplyacceleration:linking_tool>,
+	[<libvulpes:linker>]
 );
 
 //linking tool astral
 recipes.addShapeless(
 	<astralsorcery:itemlinkingtool>,
-	[<libvulpes:linker>]
-);
-
-//linking tool acceleration
-recipes.remove(
-	<simplyacceleration:linking_tool>
-);
-
-recipes.addShapeless(
-	<simplyacceleration:linking_tool>,
-	[<libvulpes:linker>]
+	[<simplyacceleration:linking_tool>]
 );
 
 //dense crystal
@@ -731,7 +725,13 @@ var unusedHammers as IIngredient[] = [
 	<earthworks:block_timber_spruce>,
 	<earthworks:block_timber_jungle>,
 	<earthworks:block_timber_acacia>,
-	<earthworks:block_timber_dark_oak>
+	<earthworks:block_timber_dark_oak>,
+	<cyclicmagic:block_miner>,
+	<cyclicmagic:block_miner_smart>,
+	<embers:breaker>,
+	<engineersdecor:small_block_breaker>,
+	<openblocks:block_breaker>,
+	<randomthings:blockbreaker>
 ];
 
 for item in unusedHammers {

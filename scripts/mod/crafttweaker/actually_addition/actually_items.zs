@@ -67,3 +67,15 @@ RecipeBuilder.get("engineer")
 
 
 recipes.replaceAllOccurences(<actuallyadditions:item_misc:5>, <enderio:item_material:20>, <actuallyadditions:item_misc:7>);
+
+//paper cone
+recipes.remove(
+	<actuallyadditions:item_misc>
+);
+
+recipes.addShaped(
+	<actuallyadditions:item_misc>, [
+	[<minecraft:paper>, null, <minecraft:paper>],
+	[<minecraft:paper>, null, <minecraft:paper>],
+	[null, <minecraft:paper>, null]
+]);

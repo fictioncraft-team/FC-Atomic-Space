@@ -81,7 +81,7 @@ for mod in modsChp7{
 }
 
 //Simple automation
-mods.ItemStages.addItemStage("automation_simple", <extrautils2:indexerremote>);
+addItemStage("automation_simple", <extrautils2:indexerremote>);
 var modsSimAuto as string[] = [
 	"thermallogistics",
 	"chambers"
@@ -131,8 +131,8 @@ for mod in modsElitePower{
 	mods.ItemStages.stageModItems("power_elite", mod);
 }
 
-mods.ItemStages.removeItemStage(<advancedrocketry:misc:1>);
-mods.ItemStages.removeItemStage(<advancedrocketry:platepress>);
+removeItemStage(<advancedrocketry:misc:1>);
+removeItemStage(<advancedrocketry:platepress>);
 
 //Chapter 2
 val itemChp2 as IIngredient[] = [
@@ -154,58 +154,59 @@ for item in itemChp2{
 	addItemStage("chapter_2", item);
 }
 
-mods.ItemStages.removeItemStage(<immersiveengineering:metal_multiblock>);
-mods.ItemStages.removeItemStage(<actuallyadditions:item_misc:10>);
-mods.ItemStages.removeItemStage(<actuallyadditions:item_misc:11>);
-mods.ItemStages.removeItemStage(<mekanism:enrichedalloy>);
-mods.ItemStages.removeItemStage(<mekanism:reinforcedalloy>);
-mods.ItemStages.removeItemStage(<mekanism:controlcircuit>);
-mods.ItemStages.removeItemStage(<mekanism:controlcircuit:1>);
-mods.ItemStages.removeItemStage(<appliedenergistics2:inscriber>);
-mods.ItemStages.removeItemStage(<appliedenergistics2:material>);
-mods.ItemStages.removeItemStage(<appliedenergistics2:material:1>);
-mods.ItemStages.removeItemStage(<appliedenergistics2:material:7>);
-mods.ItemStages.removeItemStage(<appliedenergistics2:material:8>);
-mods.ItemStages.removeItemStage(<appliedenergistics2:material:2>);
-mods.ItemStages.removeItemStage(<appliedenergistics2:material:17>);
-mods.ItemStages.removeItemStage(<appliedenergistics2:material:24>);
-mods.ItemStages.removeItemStage(<appliedenergistics2:material:18>);
-mods.ItemStages.removeItemStage(<appliedenergistics2:material:20>);
-mods.ItemStages.removeItemStage(<appliedenergistics2:material:23>);
-mods.ItemStages.removeItemStage(<appliedenergistics2:material:16>);
-mods.ItemStages.removeItemStage(<appliedenergistics2:material:22>);
-mods.ItemStages.removeItemStage(<appliedenergistics2:material:19>);
-mods.ItemStages.removeItemStage(<appliedenergistics2:material:15>);
-mods.ItemStages.removeItemStage(<appliedenergistics2:material:13>);
-mods.ItemStages.removeItemStage(<appliedenergistics2:material:14>);
-mods.ItemStages.removeItemStage(<appliedenergistics2:material:44>);
-mods.ItemStages.removeItemStage(<appliedenergistics2:material:43>);
-mods.ItemStages.removeItemStage(<appliedenergistics2:material:5>);
-mods.ItemStages.removeItemStage(<appliedenergistics2:material:3>);
-mods.ItemStages.removeItemStage(<nuclearcraft:gem_dust:2>);
-mods.ItemStages.removeItemStage(<appliedenergistics2:sky_stone_block>);
-mods.ItemStages.removeItemStage(<appliedenergistics2:sky_stone_chest>);
-mods.ItemStages.removeItemStage(<deepmoblearning:living_matter_twilight>);
-mods.ItemStages.removeItemStage(<twilightforest:aurora_pillar>);
-mods.ItemStages.removeItemStage(<thermalfoundation:tool.shears_stone>);
-mods.ItemStages.removeItemStage(<thermalfoundation:tool.shears_wood>);
-mods.ItemStages.removeItemStage(<enderio:item_alloy_endergy_ingot>);
-mods.ItemStages.removeItemStage(<embers:ore_quartz>);
-mods.ItemStages.removeItemStage(<deepmoblearning:polymer_clay>);
-mods.ItemStages.removeItemStage(<botania:felpumpkin>);
-mods.ItemStages.removeItemStage(<botania:quartz:4>);
-mods.ItemStages.removeItemStage(<appliedenergistics2:quartz_growth_accelerator>);
-mods.ItemStages.removeItemStage(<enderio:item_material:20>);
-mods.ItemStages.removeItemStage(<botania:magnetring>);
-mods.ItemStages.removeItemStage(<appliedenergistics2:material:10>);
-mods.ItemStages.removeItemStage(<appliedenergistics2:crystal_seed>);
-mods.ItemStages.removeItemStage(<appliedenergistics2:energy_acceptor>);
-mods.ItemStages.removeItemStage(<appliedenergistics2:part:16>);
-mods.ItemStages.removeItemStage(<appliedenergistics2:part:140>);
-mods.ItemStages.removeItemStage(<appliedenergistics2:charger>);
-mods.ItemStages.removeItemStage(<appliedenergistics2:fluix_block>);
-mods.ItemStages.removeItemStage(<advancedrocketry:aliensapling>);
-mods.ItemStages.removeItemStage(<mekanism:machineblock2:11>);
+removeItemStage(<immersiveengineering:metal_multiblock>);
+removeItemStage(<actuallyadditions:item_misc:10>);
+removeItemStage(<actuallyadditions:item_misc:11>);
+removeItemStage(<mekanism:enrichedalloy>);
+removeItemStage(<mekanism:reinforcedalloy>);
+removeItemStage(<mekanism:controlcircuit>);
+removeItemStage(<mekanism:controlcircuit:1>);
+removeItemStage(<appliedenergistics2:inscriber>);
+removeItemStage(<appliedenergistics2:material>);
+removeItemStage(<appliedenergistics2:material:1>);
+removeItemStage(<appliedenergistics2:material:7>);
+removeItemStage(<appliedenergistics2:material:8>);
+removeItemStage(<appliedenergistics2:material:2>);
+removeItemStage(<appliedenergistics2:material:17>);
+removeItemStage(<appliedenergistics2:material:24>);
+removeItemStage(<appliedenergistics2:material:18>);
+removeItemStage(<appliedenergistics2:material:20>);
+removeItemStage(<appliedenergistics2:material:23>);
+removeItemStage(<appliedenergistics2:material:16>);
+removeItemStage(<appliedenergistics2:material:22>);
+removeItemStage(<appliedenergistics2:material:19>);
+removeItemStage(<appliedenergistics2:material:15>);
+removeItemStage(<appliedenergistics2:material:13>);
+removeItemStage(<appliedenergistics2:material:14>);
+removeItemStage(<appliedenergistics2:material:44>);
+removeItemStage(<appliedenergistics2:material:43>);
+removeItemStage(<appliedenergistics2:material:5>);
+removeItemStage(<appliedenergistics2:material:3>);
+removeItemStage(<nuclearcraft:gem_dust:2>);
+removeItemStage(<appliedenergistics2:sky_stone_block>);
+removeItemStage(<appliedenergistics2:sky_stone_chest>);
+removeItemStage(<deepmoblearning:living_matter_twilight>);
+removeItemStage(<twilightforest:aurora_pillar>);
+removeItemStage(<thermalfoundation:tool.shears_stone>);
+removeItemStage(<thermalfoundation:tool.shears_wood>);
+removeItemStage(<enderio:item_alloy_endergy_ingot>);
+removeItemStage(<embers:ore_quartz>);
+removeItemStage(<deepmoblearning:polymer_clay>);
+removeItemStage(<botania:felpumpkin>);
+removeItemStage(<botania:quartz:4>);
+removeItemStage(<appliedenergistics2:quartz_growth_accelerator>);
+removeItemStage(<enderio:item_material:20>);
+removeItemStage(<botania:magnetring>);
+removeItemStage(<appliedenergistics2:material:10>);
+removeItemStage(<appliedenergistics2:crystal_seed>);
+removeItemStage(<appliedenergistics2:energy_acceptor>);
+removeItemStage(<appliedenergistics2:part:16>);
+removeItemStage(<appliedenergistics2:part:140>);
+removeItemStage(<appliedenergistics2:charger>);
+removeItemStage(<appliedenergistics2:fluix_block>);
+removeItemStage(<advancedrocketry:aliensapling>);
+removeItemStage(<mekanism:machineblock2:11>);
+removeItemStage(<appliedenergistics2:quartz_glass>);
 
 val itemsChp3 as IIngredient[] = [
 	<mekanism:enrichedalloy>,
@@ -248,7 +249,8 @@ val itemsChp3 as IIngredient[] = [
 	<appliedenergistics2:charger>,
 	<appliedenergistics2:fluix_block>,
 	<mekanism:machineblock2:11>,
-	<advancedrocketry:aliensapling>
+	<advancedrocketry:aliensapling>,
+	<appliedenergistics2:quartz_glass>
 ];
 
 for item in itemsChp3{
@@ -263,14 +265,14 @@ for item in itemsChp4{
 	addItemStage("chapter_4", item);
 }
 
-mods.ItemStages.addItemStage("chapter_5", <sky_orchards:sapling_osmium>);
-mods.ItemStages.removeItemStage(<pneumaticcraft:omnidirectional_hopper>);
-mods.ItemStages.removeItemStage(<pneumaticcraft:liquid_hopper>);
-mods.ItemStages.addItemStage("automation_simple", <bonsaitrees:bonsaipot:1>);
-mods.ItemStages.removeItemStage(<rftools:powercell_card>);
-mods.ItemStages.removeItemStage(<rftools:powercell>);
-mods.ItemStages.removeItemStage(<rftools:powercell_advanced>);
-mods.ItemStages.removeItemStage(<rftools:powercell_simple>);
+addItemStage("chapter_5", <sky_orchards:sapling_osmium>);
+removeItemStage(<pneumaticcraft:omnidirectional_hopper>);
+removeItemStage(<pneumaticcraft:liquid_hopper>);
+addItemStage("automation_simple", <bonsaitrees:bonsaipot:1>);
+removeItemStage(<rftools:powercell_card>);
+removeItemStage(<rftools:powercell>);
+removeItemStage(<rftools:powercell_advanced>);
+removeItemStage(<rftools:powercell_simple>);
 val itemsElitePower as IIngredient[] = [
 	<rftools:powercell_card>,
 	<rftools:powercell>,
@@ -283,14 +285,14 @@ for item in itemsElitePower{
 }
 
 
-mods.ItemStages.removeItemStage(<ae2wtlib:wut_creative>);
-mods.ItemStages.removeItemStage(<appliedenergistics2:creative_energy_cell>);
-mods.ItemStages.removeItemStage(<appliedenergistics2:creative_storage_cell>);
-mods.ItemStages.removeItemStage(<mekanism:gastank>.withTag({tier: 4}));
-mods.ItemStages.removeItemStage(<mekanism:machineblock2:11>.withTag({tier: 4}));
-mods.ItemStages.removeItemStage(<embers:creative_ember_source>);
-mods.ItemStages.removeItemStage(<botania:pool:1>);
-mods.ItemStages.removeItemStage(<rftools:powercell_creative>);
+removeItemStage(<ae2wtlib:wut_creative>);
+removeItemStage(<appliedenergistics2:creative_energy_cell>);
+removeItemStage(<appliedenergistics2:creative_storage_cell>);
+removeItemStage(<mekanism:gastank>.withTag({tier: 4}));
+removeItemStage(<mekanism:machineblock2:11>.withTag({tier: 4}));
+removeItemStage(<embers:creative_ember_source>);
+removeItemStage(<botania:pool:1>);
+removeItemStage(<rftools:powercell_creative>);
 
 
 //Beyond Human
@@ -310,15 +312,15 @@ for item in itemsBeyHum{
 }
 
 mods.ItemStages.stageModItems("beyond_human", "extendedcrafting");
-mods.ItemStages.removeItemStage(<nuclearcraft:helm_hazmat>);
-mods.ItemStages.removeItemStage(<nuclearcraft:chest_hazmat>);
-mods.ItemStages.removeItemStage(<nuclearcraft:legs_hazmat>);
-mods.ItemStages.removeItemStage(<nuclearcraft:boots_hazmat>);
-mods.ItemStages.removeItemStage(<nuclearcraft:geiger_counter>);
-mods.ItemStages.removeItemStage(<nuclearcraft:radaway>);
+removeItemStage(<nuclearcraft:helm_hazmat>);
+removeItemStage(<nuclearcraft:chest_hazmat>);
+removeItemStage(<nuclearcraft:legs_hazmat>);
+removeItemStage(<nuclearcraft:boots_hazmat>);
+removeItemStage(<nuclearcraft:geiger_counter>);
+removeItemStage(<nuclearcraft:radaway>);
 
-mods.ItemStages.removeItemStage(<advancedrocketry:warpcore>);
-mods.ItemStages.removeItemStage(<advancedrocketry:warpmonitor>);
+removeItemStage(<advancedrocketry:warpcore>);
+removeItemStage(<advancedrocketry:warpmonitor>);
 
 val itemsWarp as IIngredient[] = [
 	<advancedrocketry:warpcore>,

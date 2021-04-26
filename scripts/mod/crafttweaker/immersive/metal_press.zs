@@ -1,7 +1,7 @@
 import mods.immersiveengineering.MetalPress;
 
 //Terrasteel plate
-mods.immersiveengineering.MetalPress.addRecipe(
+MetalPress.addRecipe(
 	<contenttweaker:terrasteel_plate>,
 	<botania:manaresource:4>,
 	<immersiveengineering:mold>,
@@ -9,7 +9,7 @@ mods.immersiveengineering.MetalPress.addRecipe(
 );
 
 //Terrasteel Gear
-mods.immersiveengineering.MetalPress.addRecipe(
+MetalPress.addRecipe(
 	<contenttweaker:terrasteel_gear>,
 	<botania:manaresource:4> *4,
 	<immersiveengineering:mold:1>,
@@ -17,7 +17,7 @@ mods.immersiveengineering.MetalPress.addRecipe(
 );
 
 //Blaze Rod
-mods.immersiveengineering.MetalPress.addRecipe(
+MetalPress.addRecipe(
 	<minecraft:blaze_rod>,
 	<minecraft:blaze_powder> *4,
 	<immersiveengineering:mold:2>,
@@ -25,7 +25,7 @@ mods.immersiveengineering.MetalPress.addRecipe(
 );
 
 //vibrantalloy chicken
-mods.immersiveengineering.MetalPress.addRecipe(
+MetalPress.addRecipe(
 	<roost:chicken>.withTag({Growth: 1, Chicken: "morechickens:vibrantalloychicken", Gain: 1, Strength: 1}),
 	<enderio:block_alloy:2> *64,
 	<roost:chicken>.withTag({Growth: 1, Chicken: "chickens:smartchicken", Gain: 1, Strength: 1}),

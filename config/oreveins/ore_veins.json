@@ -210,11 +210,11 @@
 		"ore": [
 			{
 				"ore": "oreIridium",
-				"weight": 3
+				"weight": 1
 			},
 			{
 				"ore": "oreDilithium",
-				"weight": 3
+				"weight": 1
 			},
 			{
 				"ore": "oreRutile",
@@ -222,6 +222,22 @@
 			},
 			{
 				"ore": "oreAstralStarmetal",
+				"weight": 1
+			},
+			{
+				"ore": "oreBoron",
+				"weight": 1
+			},
+			{
+				"ore": "oreLithium",
+				"weight": 1
+			},
+			{
+				"ore": "oreMagnesium",
+				"weight": 1
+			},
+			{
+				"ore": "oreThorium",
 				"weight": 1
 			}
 		],

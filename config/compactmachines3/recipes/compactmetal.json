@@ -14,7 +14,7 @@
 		"c" : { "id": "compactmachines3:wallbreakable"}
 	},
 	
-	"symmetrical": true,
+	"symmetrical": false,
 	
 	"shape": [
 		[

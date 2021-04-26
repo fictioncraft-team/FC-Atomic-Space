@@ -40,3 +40,7 @@ StarlightInfusion.addInfusion(
 StarlightInfusion.removeInfusion(
 	<minecraft:iron_ingot>	
 );
+
+StarlightInfusion.removeInfusion(
+	<minecraft:glowstone_dust>	
+);

@@ -19,7 +19,7 @@ mods.advancedrocketry.PrecisionAssembler.addRecipe(
 	2048,
 	<thermalfoundation:material:352>*2,
 	<advancedrocketry:misc>,
-	<advancedrocketry:ic:3>,
+	<advancedrocketry:ic:3>,	
 	<advancedrocketry:ic:5>,
 	<advancedrocketry:ic>*2,
 	<libvulpes:structuremachine>,
@@ -101,4 +101,18 @@ mods.advancedrocketry.PrecisionAssembler.addRecipe(
 	1024,
 	<thermalfoundation:material:32>*8,
 	<minecraft:chest>
+);
+
+//uumatter
+mods.advancedrocketry.PrecisionAssembler.addRecipe(
+	<contenttweaker:uu_matter>*10,
+	1000,
+	2048,
+	<liquid:hydrofluoric_acid>*200,
+	<liquid:steam>*400,
+	<deepmoblearning:pristine_matter_twilight_darkwood>,
+	<deepmoblearning:pristine_matter_twilight_forest>,
+	<deepmoblearning:pristine_matter_twilight_swamp>,
+	<deepmoblearning:pristine_matter_twilight_glacier>,
+	<appliedenergistics2:material:6>
 );

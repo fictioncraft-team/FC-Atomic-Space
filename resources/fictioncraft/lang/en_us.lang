@@ -39,10 +39,10 @@ rename.as10=Icy Certus Quartz Ore
 rename.as11=Icy Charged Certus Quartz Ore
 rename.as12=Icy Fence
 
-jei.as=Can be only found in the Overworld - 2200 between y level 0-32.
-jei.as1=Can be only found in the Overworld - 2200 between y level 0-28.
-jei.as2=Can be only found in the Overworld - 2200 between y level 0-28.
-jei.as3=Can be only found in the Overworld - 2200 between y level 0-24.
+jei.as=Can be only found in the Overworld - 2400 DangerZone between y level 0-32. Can also be found in ore veins under glowing mushrooms
+jei.as1=Can be only found in the Overworld - 2400 DangerZone between y level 0-28. Can also be found in ore veins under glowing mushrooms
+jei.as2=Can be only found in the Overworld - 2400 DangerZone between y level 0-28. Can also be found in ore veins under glowing mushrooms
+jei.as3=Can be only found in the Overworld - 2400 DangerZone between y level 0-24. Can also be found in ore veins under glowing mushrooms
 jei.as4=This key doesn't seem normal. It seems to contain a lot of knowledge. Maybe try using a normal iron key on a bookshelf
 jei.as6=Fluid output can be picked up with a glass bottle or a bladder.
 jei.as8l1=Ancient item... Can be created with the power of lightning.
