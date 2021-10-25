@@ -52,7 +52,7 @@ RecipeBuilder.get("engineer")
     [<thermaldynamics:duct_0:6>, <thermaldynamics:duct_0:6>, <thermaldynamics:duct_0:6>],
     [<contenttweaker:compact_metal_ingot>, <actuallyadditions:item_crystal>, <contenttweaker:compact_metal_ingot>],
     [<thermalfoundation:material:165>, <thermalfoundation:material:165>, <thermalfoundation:material:165>]])
-  .addTool(<artisanworktables:artisans_driver_wood>, 6)
+  .addTool(<ore:artisansDriver>, 6)
   .addOutput(<thermaldynamics:duct_0:7> *3)
   .create();
   

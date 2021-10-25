@@ -108,3 +108,8 @@ recipes.addShaped(
 
 //digital miner
 recipes.remove(<mekanism:machineblock:4>);
+
+recipes.replaceAllOccurences(<minecraft:iron_ingot>, <contenttweaker:sodium_ingot>, <mekanism:tierinstaller>);
+recipes.replaceAllOccurences(<minecraft:redstone>, <contenttweaker:sodium_dust>, <mekanism:tierinstaller>);
+recipes.replaceAllOccurences(<minecraft:gold_ingot>, <nuclearcraft:ingot:6>, <mekanism:tierinstaller:2>);
+recipes.replaceAllOccurences(<minecraft:diamond>, <threng:material:14>, <mekanism:tierinstaller:3>);

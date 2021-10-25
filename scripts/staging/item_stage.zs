@@ -207,6 +207,8 @@ removeItemStage(<appliedenergistics2:fluix_block>);
 removeItemStage(<advancedrocketry:aliensapling>);
 removeItemStage(<mekanism:machineblock2:11>);
 removeItemStage(<appliedenergistics2:quartz_glass>);
+removeItemStage(<appliedenergistics2:charged_quartz_ore>);
+removeItemStage(<appliedenergistics2:quartz_ore>);
 
 val itemsChp3 as IIngredient[] = [
 	<mekanism:enrichedalloy>,
@@ -250,7 +252,9 @@ val itemsChp3 as IIngredient[] = [
 	<appliedenergistics2:fluix_block>,
 	<mekanism:machineblock2:11>,
 	<advancedrocketry:aliensapling>,
-	<appliedenergistics2:quartz_glass>
+	<appliedenergistics2:quartz_glass>,
+	<appliedenergistics2:quartz_ore>,
+	<appliedenergistics2:charged_quartz_ore>
 ];
 
 for item in itemsChp3{

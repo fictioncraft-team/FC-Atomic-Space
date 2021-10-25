@@ -978,7 +978,7 @@
                 "io": "input",
                 "target": "duration",
                 "operation": 1,
-                "multiplier": -2.0
+                "multiplier": 0.5
             }
         },
         {

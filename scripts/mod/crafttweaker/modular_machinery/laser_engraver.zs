@@ -101,3 +101,43 @@ advstruc.addItemInput(<draconicevolution:wyvern_core>);
 advstruc.addMekanismLaserInput(500000);
 advstruc.addItemOutput(<libvulpes:advstructuremachine> *2);
 advstruc.build();
+
+//advTank
+var advTank = mods.modularmachinery.RecipeBuilder.newBuilder("advTank", "laser_engraver", 60, 20);
+advTank.addItemInput(<mekanism:machineblock2:11>.withTag({tier: 0}));
+advTank.addItemInput(<mekanism:controlcircuit:1>*8);
+advTank.addMekanismLaserInput(500000);
+advTank.addItemOutput(<mekanism:machineblock2:11>.withTag({tier: 1}));
+advTank.build();
+
+//elTank
+var elTank = mods.modularmachinery.RecipeBuilder.newBuilder("elTank", "laser_engraver", 60, 20);
+elTank.addItemInput(<mekanism:machineblock2:11>.withTag({tier: 1}));
+elTank.addItemInput(<mekanism:controlcircuit:2>*8);
+elTank.addMekanismLaserInput(500000);
+elTank.addItemOutput(<mekanism:machineblock2:11>.withTag({tier: 2}));
+elTank.build();
+
+//ulTank
+var ulTank = mods.modularmachinery.RecipeBuilder.newBuilder("ulTank", "laser_engraver", 60, 20);
+ulTank.addItemInput(<mekanism:machineblock2:11>.withTag({tier: 2}));
+ulTank.addItemInput(<mekanism:controlcircuit:3>*8);
+ulTank.addMekanismLaserInput(500000);
+ulTank.addItemOutput(<mekanism:machineblock2:11>.withTag({tier: 3}));
+ulTank.build();
+
+//lumination powder
+var luminPow = mods.modularmachinery.RecipeBuilder.newBuilder("luminPow", "laser_engraver", 60, 20);
+luminPow.addItemInput(<astralsorcery:itemcraftingcomponent>);
+luminPow.addItemInput(<enderio:block_holy_fog>*4);
+luminPow.addMekanismLaserInput(500000);
+luminPow.addItemOutput(<astralsorcery:itemusabledust>*32);
+luminPow.build();
+
+//noc poder
+var nocPow = mods.modularmachinery.RecipeBuilder.newBuilder("nocPow", "laser_engraver", 60, 20);
+nocPow.addItemInput(<astralsorcery:itemusabledust>);
+nocPow.addItemInput(<actuallyadditions:item_crystal_empowered:3>*4);
+nocPow.addMekanismLaserInput(500000);
+nocPow.addItemOutput(<astralsorcery:itemusabledust:1>*16);
+nocPow.build();

@@ -127,3 +127,6 @@ ExplosionCrafting.explodeItemRecipe(<contenttweaker:compressed_iron>, <pneumatic
 
 //silicon chicken
 FluidToItem.transform(<roost:chicken>.withTag({Growth: 1, Chicken: "morechickens:siliconchicken", Gain: 1, Strength: 1}), <liquid:silicon_mineralfluid>, [<roost:chicken>.withTag({Growth: 1, Chicken: "chickens:smartchicken", Gain: 1, Strength: 1})], true);
+
+//roasted cocoa
+ExplosionCrafting.explodeItemRecipe(<nuclearcraft:roasted_cocoa_beans>, <minecraft:dye:3>, 95);

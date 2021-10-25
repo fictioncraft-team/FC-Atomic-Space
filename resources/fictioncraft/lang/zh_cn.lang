@@ -87,5 +87,5 @@ menu.music=音乐由Raster_Mk2制作
 
 requious.jei.recipe.liquid_interaction=第二种资源生成-流体接触
 requious.jei.recipe.chalice=遏制圣杯
-requious.jei.recipe.simple_fabricator=简易制造机
-tile.simple_fabricator.name=简易制造机
+
+entity.chickenschicken.name=智慧鸡

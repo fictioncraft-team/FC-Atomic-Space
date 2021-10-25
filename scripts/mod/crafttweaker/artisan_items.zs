@@ -238,5 +238,5 @@ RecipeBuilder.get("engineer")
   .addTool(<ore:artisansSolderer>, 1)
   .addTool(<ore:artisansHammer>, 1)
   .addTool(<ore:artisansDriver>, 1)
-  .addOutput(<artisanautomation:upgrade_tool_repair>.withTag({ArtisanWorktables: {ToolUpgrade: {EnergyUsage: 1.5, DurabilityRepaired: 2.5}}}))
+  .addOutput(<artisanautomation:upgrade_tool_repair>.withTag({ArtisanWorktables: {ToolUpgrade: {EnergyUsage: 1.5, DurabilityRepaired: 1}}}))
   .create();

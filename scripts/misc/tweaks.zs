@@ -737,3 +737,9 @@ var unusedHammers as IIngredient[] = [
 for item in unusedHammers {
 	recipes.remove(item);
 }
+
+//icy stone
+furnace.addRecipe(
+	<contenttweaker:ice_stone>,
+	<quark:biome_cobblestone:1>
+);

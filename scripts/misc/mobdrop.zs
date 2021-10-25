@@ -1,5 +1,3 @@
-#modloaded nuclearcraft
-
 import crafttweaker.entity.IEntityDrop;
 import crafttweaker.entity.IEntityDropFunction;
 import crafttweaker.entity.IEntityDefinition;

@@ -55,14 +55,6 @@ var uuMatter = GasFactory.createGas("uu_matter");
 uuMatter.setIcon("blocks/uu_matter");
 uuMatter.register();
 
-var uuMatter233 = GasFactory.createGas("uu_matter_233");
-uuMatter233.setIcon("blocks/uu_matter_233");
-uuMatter233.register();
-
-var uuMatter249 = GasFactory.createGas("uu_matter_249");
-uuMatter249.setIcon("blocks/uu_matter_249");
-uuMatter249.register();
-
 //Infuser Type
 mods.mekatweaker.InfuserType.addType("GLOWSTONE");
 mods.mekatweaker.InfuserType.addType("UUMATTER");
